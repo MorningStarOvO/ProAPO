@@ -1,0 +1,954 @@
+{
+    "Apply Eye Makeup": [
+        "presence of eyeliner, eyeshadow, or mascara ",
+        "vibrant or enhanced eye color ",
+        "visible brush strokes or blending around the eyelids ",
+        "a more defined or dramatic appearance of the lashes ",
+        "tools such as makeup brushes, eye pencil, or mascara wand ",
+        "makeup palettes or containers nearby ",
+        "potentially an increase in the contrast around the eye area due to makeup application ",
+        "smooth or precise lines along the eyelid edges"
+    ],
+    "Apply Lipstick": [
+        "person holding a lipstick case ",
+        "application of color on lips ",
+        "often a mirror present or reflection visible ",
+        "lipstick stick typically extended from a tube ",
+        "different shades of lipstick often in reds, pinks, or other vibrant colors ",
+        "close-up of lips during or after application ",
+        "makeup tools or a makeup bag might be visible nearby ",
+        "person's face, especially lips, prominently featured in the photo"
+    ],
+    "Archery": [
+        "Bows and arrows ",
+        "A target with concentric rings, often used as the backdrop ",
+        "Archers wearing arm guards and finger tabs ",
+        "Quivers holding arrows ",
+        "Bow stands or racks ",
+        "Shooting line markers on the ground ",
+        "Open outdoor or designated indoor ranges ",
+        "Score sheets or digital scorers near archers"
+    ],
+    "Baby Crawling": [
+        "small human form ",
+        "typically on hands and knees ",
+        "wearing baby clothes, often colorful or patterned ",
+        "may have a bald head or very little hair ",
+        "chubby limbs ",
+        "soft, youthful skin ",
+        "engaged in movement close to the ground ",
+        "could be surrounded by toys or child-friendly items ",
+        "expression of curiosity or concentration on the face"
+    ],
+    "Balance Beam": [
+        "long, narrow, and rectangular beam ",
+        "typically positioned at a raised height above the ground ",
+        "commonly made from wood, but can also be covered with leather or a synthetic material ",
+        "often equipped with legs or stands that support the beam at each end ",
+        "used in gymnastics, indicating a gymnasium or training facility setting ",
+        "sometimes features padding around the beam for safety ",
+        "may have chalk marks or wear marks from use"
+    ],
+    "Band Marching": [
+        "Uniformed group of individuals ",
+        "Musical instruments such as trumpets, trombones, tubas, flutes, clarinets, saxophones, drums, and cymbals ",
+        "Formation marching or standing in arranged lines or patterns ",
+        "Conductor or band leader with baton or directing gestures ",
+        "Matching hats or plumed headgear often worn by band members ",
+        "Banners or flags often carried or displayed within the band ",
+        "Coordinated movement or choreography, typically in step or synchronized ",
+        "Presence of a crowd or audience watching the performance."
+    ],
+    "Baseball Pitch": [
+        "a baseball player in a pitching stance ",
+        "player wearing a baseball uniform, typically with a team logo ",
+        "a mound of dirt from which the pitcher throws  ",
+        "a baseball in motion, often blurred due to high speed ",
+        "catcher behind home plate in full protective gear (helmet, mask, chest protector, shin guards) ",
+        "raised leg of the pitcher during wind-up ",
+        "glove and ball usually visible in the pitcher's hands before the release ",
+        "audience and stadium backdrop with fencing around the playing field ",
+        "focused body posture and intense facial expression of the pitcher ",
+        "other baseball players might be in the background or infield positions ready to field"
+    ],
+    "Basketball": [
+        "spherical shape ",
+        "orange color ",
+        "textured surface with black lines forming segments ",
+        "usually made of leather or composite materials ",
+        "may be seen in use, typically bouncing or being held"
+    ],
+    "Basketball Dunk": [
+        "A player in mid-air near the basketball hoop ",
+        "The basketball being directed towards the rim ",
+        "High athletic posture and intense focus of the player ",
+        "Possible presence of other players around the hoop, either defending or observing ",
+        "The backboard and net of the basket clearly visible ",
+        "The court markings, which might include the free throw line and the three-point line ",
+        "Spectators or crowd in the background, often showing excitement or anticipation"
+    ],
+    "Bench Press": [
+        "Heavy, robust metal frame ",
+        "Flat or slightly inclined bench ",
+        "Barbell resting on a rack above the bench ",
+        "Weights or plates attached on either side of the barbell ",
+        "The bench typically has padding for user comfort ",
+        "Safety catches or hooks to hold the barbell ",
+        "Adjustable components for different heights and angles ",
+        "Some models may include additional attachments for varying exercises"
+    ],
+    "Biking": [
+        "presence of a bicycle or multiple bicycles ",
+        "cyclists, possibly wearing helmets and biking gear such as gloves and padded shorts ",
+        "bicycles equipped with gears, handlebars, and often water bottles ",
+        "outdoor or natural settings such as roads, trails, or parks ",
+        "action or movement, often indicated by blurring or dynamic poses of the cyclists ",
+        "biking accessories like helmets, sunglasses, bike racks, or lights ",
+        "signage or markers indicating a bike path or bike lane"
+    ],
+    "Billiards": [
+        "billiards table, typically rectangular and covered with green or blue felt ",
+        "pockets along the corners and sides of the table ",
+        "billiard balls, often colored and numbered ",
+        "billiard cues, long thin sticks used to strike the balls ",
+        "racks, typically triangular, used to set up the balls at the start of a game ",
+        "overhead lighting, typically centered above the table to illuminate play area ",
+        "score counters or markers, sometimes found on the sides or ends of the table"
+    ],
+    "Blow Dry Hair": [
+        "Hair appearing smooth and voluminous ",
+        "Absence of frizz, indicating the hair has been styled ",
+        "Possible appearance of a hair dryer, round brushes, or other styling tools ",
+        "Flowing hair lines that suggest movement from a blowout ",
+        "Shine or glossiness in the hair, often enhanced by blow drying ",
+        "Often, the hair might be styled in waves or with a slight curl at the ends, typical of blow dry finishes ",
+        "A person holding a hairbrush or hairdryer, actively styling or posed to style ",
+        "The environment may resemble a salon or a home vanity area with beauty products visible"
+    ],
+    "Blowing Candles": [
+        "people (often children or adults) positioned close to the candles, typically leaning towards them ",
+        "visible flames on the tips of the candles ",
+        "candles inserted in a cake or other items (like a cupcake or special holders) ",
+        "signs of a celebration, such as party decorations (balloons, banners) or a festive atmosphere ",
+        "motion blur around the mouth area or candle flames, indicating the action of blowing ",
+        "smoke trailing upward from recently extinguished candles ",
+        "facial expressions suggesting a celebratory or focused effort, such as closed eyes, pursed lips, or joyful expressions"
+    ],
+    "Body Weight Squats": [
+        "individual standing with feet shoulder-width apart ",
+        "knees bent and aligned over the toes ",
+        "hips pushed back and lowered towards the ground ",
+        "upper body typically leaning slightly forward ",
+        "arms extended for balance or crossed in front of the chest ",
+        "a flat back and engaged core ",
+        "facial expressions showing concentration or effort ",
+        "possibly wearing workout attire"
+    ],
+    "Bowling": [
+        "Bowling alley with multiple lanes ",
+        "Wooden or synthetic lanes with guide markings ",
+        "Bowling balls, typically with three holes for fingers ",
+        "Bowling pins at the end of each lane ",
+        "Scoreboards displaying scores ",
+        "Bowling shoes ",
+        "Ball return systems ",
+        "Seating areas for players and spectators ",
+        "Overhead monitors for displaying information"
+    ],
+    "Boxing Punching Bag": [
+        "Cylindrical or tear-shaped form ",
+        "Suspended from the ceiling via chains or a mount, or attached to a stand ",
+        "Typically made of leather, vinyl, or canvas ",
+        "Solid, uniform color, most commonly black or red ",
+        "Visible stitching along the seams ",
+        "May include brand logos or labels ",
+        "Textured surface to endure repeated impacts ",
+        "Often shown with gloves or other boxing equipment nearby"
+    ],
+    "Boxing Speed Bag": [
+        "Small, teardrop-shaped bag ",
+        "Usually made of leather or synthetic materials ",
+        "Typically hangs from a platform or a swivel attached to a rebound platform ",
+        "Positioned to be struck at head level ",
+        "Often seen in a gym setting or installed in a home gym ",
+        "Can be seen in various colors but commonly in red, black, or brown ",
+        "Might be seen with company logos or text on the surface ",
+        "Frequently paired with boxing gloves or a boxer in training attire in the vicinity"
+    ],
+    "Breast Stroke": [
+        "Swimmer's body position: In breaststroke, the swimmer's body remains mostly horizontal but bobs up and down slightly with each stroke cycle. ",
+        "Arm motion: The arms perform a simultaneous, symmetrical in-sweep starting from a position extended straight forward to bending at the elbows ",
+        "Leg motion: The legs execute a \"frog kick\" where the legs are bent at the knees and hips, and then kicked outward and back together in a whip-like motion. ",
+        "Head position: The swimmer's head may be lifted out of the water every stroke to breathe, aligning with the timing of the arm strokes and kick. ",
+        "Swimmer's hands: The hands are turned outward at the start of the stroke, pulled inward toward the chest, and then pushed forward again."
+    ],
+    "Brushing Teeth": [
+        "presence of a toothbrush ",
+        "toothpaste on the toothbrush ",
+        "person handling the toothbrush towards their mouth ",
+        "foam around the mouth ",
+        "bathroom setting (mirror, sink) ",
+        "a tube of toothpaste often visible ",
+        "facial expressions typical of brushing, such as mouth open or concentrated focus"
+    ],
+    "Clean And Jerk": [
+        "An athlete lifting a barbell from the ground to overhead in two distinct movements ",
+        "Initial movement shows the barbell being pulled to the chest level (the \"clean\" phase) ",
+        "Second movement shows the barbell being driven overhead (the \"jerk\" phase) ",
+        "Athlete typically in a wide-legged or split stance during the jerk phase ",
+        "Barbell typically loaded with weight plates ",
+        "Athlete usually exhibiting a strain or concentration in facial expressions and posture ",
+        "Presence of weightlifting equipment such as weightlifting shoes, a belt, and sometimes wrist wraps ",
+        "Athlete standing on a designated lifting platform ",
+        "Presence of judges or spotters in competitive settings ",
+        "Audience or other weightlifting gear in the background in gym or competition settings"
+    ],
+    "Cliff Diving": [
+        "high, vertical cliff faces, usually rocky ",
+        "water body below the cliff (ocean, lake, or river) ",
+        "a diver mid-air, typically in a diving pose ",
+        "spectators or a crowd watching from the cliff or nearby area ",
+        "safety equipment or signs, such as ropes or warning signs ",
+        "splashes of water indicating recent dives ",
+        "possibly boats or other water vehicles nearby for safety or viewing purposes"
+    ],
+    "Cricket Bowling": [
+        "An athlete in a distinctive pose, usually with one arm fully extended upwards while about to release the ball ",
+        "Cricket pitch with creases marked for bowling and batting ",
+        "Three stumps with two bails at one end of the pitch ",
+        "Fielders in specific positions on the field, typically wearing a uniform ",
+        "Cricket ball, typically red (in Tests) or white (in limited-overs matches) ",
+        "Spectators surrounding the field, if it is a professional match ",
+        "Cricket whites or team-specific colored kit worn by players"
+    ],
+    "Cricket Shot": [
+        "Cricket bat and ball ",
+        "Player in cricket uniform (often includes a helmet, pads, gloves) ",
+        "Cricket field setting (could include the pitch, stumps, boundary lines) ",
+        "Spectators or stadium surrounding the field ",
+        "Characteristic posture of batting or shot execution (such as a drive, pull, or sweep) ",
+        "Presence of fielders and umpires in specific locations on the field ",
+        "Specific movement or action associated with playing a shot"
+    ],
+    "Cutting In Kitchen": [
+        "kitchen counter or cutting board ",
+        "knives and other cutting utensils ",
+        "food items like vegetables, fruits, meats being prepared or chopped ",
+        "bowls or containers for placing cut items ",
+        "possibly a chef or someone cooking ",
+        "typical kitchen surroundings like a stove, sink, or pantry items ",
+        "lighting focused on the cutting area to enhance visibility for precision cutting tasks"
+    ],
+    "Diving": [
+        "Presence of a diver or person in scuba gear or swimwear ",
+        "Underwater environment or a diving pool ",
+        "Bubbles around the diver, indicating underwater movement ",
+        "Diving equipment such as masks, fins, and oxygen tanks ",
+        "Possible presence of marine life or water-based surroundings if occurring in natural settings ",
+        "Diver's body position, such as a streamlined or vertical descent into water ",
+        "Depth markers or diving board in the case of pool diving ",
+        "Clear and possibly submerged perspective if taken from below surface"
+    ],
+    "Drumming": [
+        "person holding drumsticks or using hands to play drums ",
+        "drums set or individual drums such as snare, bass, tom-toms ",
+        "symbols, hi-hats, and other percussion instruments ",
+        "intensity or action in the drummer's expression and posture ",
+        "musical notes or scores, if visible ",
+        "stage or performance setting, which might include lights, microphones, or an audience"
+    ],
+    "Fencing": [
+        "Individuals wearing protective gear such as masks, jackets, and gloves ",
+        "The presence of fencing weapons, e.g., foil, epee, or sabre ",
+        "Fencing piste or strip, usually marked by boundary lines ",
+        "Electronic scoring apparatus with visible wires connected to the fencers ",
+        "Tall, protective barriers around the competition area to protect spectators ",
+        "Sometimes colored lights (typically green, red, or white) indicating hits or points during a match ",
+        "Background often includes logos of fencing federations or competition sponsors"
+    ],
+    "Field Hockey Penalty": [
+        "Players concentrated around a specific area of the field, typically near the goal ",
+        "Umpire indicating a foul or signaling with their whistle or hands ",
+        "A player taking a penalty stroke or corner from a marked spot on the field ",
+        "Defensive players positioned behind the back line, often guarding the goal ",
+        "Goalkeeper prepared in a stance to defend the goal ",
+        "Cones or markers used to set boundaries for the penalty execution ",
+        "The presence of a field hockey ball positioned for a penalty stroke ",
+        "Spectators or other players showing increased attention or reactions to the event"
+    ],
+    "Floor Gymnastics": [
+        "gymnast performing acrobatics or dance movements ",
+        "a rectangular or square mat, often blue or beige, used for performances ",
+        "absence of apparatus like beams or bars, differentiating it from other gymnastics disciplines ",
+        "athletes typically wearing form-fitting leotards ",
+        "background usually showing a gymnasium setting with judges, spectators, and other competitors ",
+        "often visible are chalk or floor markings used to define performance area ",
+        "dynamic poses capturing jumps, flips, or balances."
+    ],
+    "Frisbee Catch": [
+        "a flying disc (typically round and flat) ",
+        "a person or animal (commonly a dog) reaching or leaping towards the disc ",
+        "the disc positioned near or in the grasp of the person or animal ",
+        "an outdoor setting, often a park or beach ",
+        "an athletic or playful posture of the participant ",
+        "expressions of focus or excitement on the faces of the participants ",
+        "movement blur may be present, indicating the action of catching the disc ",
+        "depending on the angle, you might see hands or paws extended towards the Frisbee"
+    ],
+    "Front Crawl": [
+        "Swimmer's body position is horizontal and close to the water surface. ",
+        "Arms performing alternate strokes; one arm is typically extended forward above the water while the other is pulling through the water. ",
+        "Leg action involves a flutter kick, where legs and feet perform rapid, small, alternating up-and-down movements. ",
+        "The head is positioned facing downwards into the water with face half-submerged, and the swimmer turns the head to the side to breathe. ",
+        "Splashes are commonly visible around the swimmer\u2019s hands and feet due to vigorous movements. ",
+        "Forward propulsion and rhythmic motion of arms and legs are characteristic. ",
+        "Swimmer's body aligned in a streamlined position to minimize drag."
+    ],
+    "Golf Swing": [
+        "a person holding a golf club ",
+        "golf club positioned mid-swing or at impact with the ball ",
+        "golf ball present, often at the point of contact or in flight ",
+        "golfer dressed in typical golf attire (collared shirt, trousers, golf shoes) ",
+        "standing posture typical of a golf swing, with a dynamic, twisting body movement ",
+        "golf course environment surrounding the golfer, usually with fairways, greens, or bunkers visible ",
+        "focused expression on the golfer's face, often showing concentration or effort ",
+        "alignment and positioning of feet and hands specific to golf stance and grip"
+    ],
+    "Haircut": [
+        "Shape, style, and length of the hair ",
+        "Presence of scissors, clippers, or styling tools ",
+        "Hairstylist actively working on cutting or styling hair ",
+        "Hair clippings visible on the floor or on a cape ",
+        "Mirror reflecting the haircut process ",
+        "Salon setting with chairs, capes, and salon equipment ",
+        "Change in hair appearance compared to previous or after photos"
+    ],
+    "Hammering": [
+        "a hammer being used or visible ",
+        "a person with an arm in motion, typically raised or striking down ",
+        "nails, pins, or other items being driven into a different material such as wood or metal ",
+        "pieces of building material such as wood planks, metal plates, or walls ",
+        "debris or dust from the impact of the hammer ",
+        "work tools and materials nearby such as tool belts, screws, or construction hardware ",
+        "a workbench or construction site in the background ",
+        "protective gear on the person, such as gloves or safety glasses"
+    ],
+    "Hammer Throw": [
+        "an athlete holding a handle attached to a wire or cable, with a heavy ball at the end ",
+        "a circular throwing area, typically surrounded by a protective cage or netting ",
+        "the athlete wearing a specific uniform, often with gloves ",
+        "a sector marked on the ground where the hammer can land ",
+        "the athlete typically in a spinning or rotating pose during the throw ",
+        "signs of motion blur indicating the speed of the throw in action shots ",
+        "the presence of officials and measurement equipment nearby"
+    ],
+    "Hand Stand Pushups": [
+        "person inverted in a handstand position ",
+        "arms extended or bent, depending on the motion phase ",
+        "supporting weight on hands, with feet often against a wall for stability ",
+        "body in a perpendicular alignment to the ground ",
+        "straight or slightly arched back to maintain balance ",
+        "facial expression may show exertion or concentration ",
+        "typically performed in a workout or athletic setting, such as a gym or a home exercise area ",
+        "may also be surrounded by fitness equipment like yoga mats, weights, or resistance bands"
+    ],
+    "Handstand Walking": [
+        "A person inverted with hands on the ground supporting their body. ",
+        "Legs usually extended upwards but may be split or slightly bent. ",
+        "Body alignment from hands through torso to legs generally straight. ",
+        "Faces typically oriented towards the ground. ",
+        "Balancing posture often indicating movement. ",
+        "Surrounding environment may show signs of athletic activity or performance, such for example as a gym, park, or street. ",
+        "Clothing likely athletic or flexible to allow full range of movement."
+    ],
+    "Head Massage": [
+        "One person massaging the head of another person ",
+        "Use of hands or massage tools on the scalp ",
+        "The recipient might be seated or lying down ",
+        "A relaxed or content expression on the face of the person receiving the massage ",
+        "The setting could be a spa, salon, therapeutic clinic, or home environment ",
+        "Massage oils or lotions possibly visible on the practitioner's hands or the recipient's head ",
+        "Towels or pillows might be used for comfort"
+    ],
+    "High Jump": [
+        "a horizontal bar resting between two vertical supports ",
+        "a padded landing area or mat behind the bar ",
+        "athletes in motion, typically mid-jump ",
+        "athletes typically wear light athletic clothing ",
+        "presence of spectators or sport event setup (e.g., numbered lanes, other sports equipment) ",
+        "judges or officials nearby with measuring tools or scorecards ",
+        "competition settings, such as a track and field stadium or sports complex"
+    ],
+    "Horse Race": [
+        "Multiple horses running close together ",
+        "Jockeys in colorful silks and helmets mounted on the horses ",
+        "Racetrack environment such as dirt, turf, or synthetic surface ",
+        "Railings or barriers around the perimeter of the track ",
+        "Spectators or grandstands in the background ",
+        "Starting gates at the beginning of the race ",
+        "Racing numbers on the horses or the saddle pads ",
+        "Possibly a photo finish line with cameras and timing equipment"
+    ],
+    "Horse Riding": [
+        "a horse, typically seen with four legs, a mane, and a tail ",
+        "one or more individuals mounted on the horse's back ",
+        "tack, including a saddle and bridle ",
+        "an open outdoor setting such as fields, trails, or equestrian arenas ",
+        "riding apparel such as helmets, boots, and breeches or jeans ",
+        "riders often seen holding reins and sometimes a crop or whip ",
+        "action poses such as jumping, galloping, or trotting ",
+        "sometimes additional equipment like jumping fences, barrels, or dressage markers"
+    ],
+    "Hula Hoop": [
+        "circular shape ",
+        "typically made of plastic ",
+        "comes in various bright colors or patterns ",
+        "lightweight construction ",
+        "uniform thickness throughout the hoop ",
+        "often captured in motion or being used by someone"
+    ],
+    "Ice Dancing": [
+        "Skaters wearing specific dance attire including leotards, dresses, or suits ",
+        "Ice skates with thin blades ",
+        "A performance on ice, typically in an ice rink ",
+        "Dynamic poses and lifts, often with partners ",
+        "Musical engagement and expressive body movements ",
+        "A smooth and glossy ice surface ",
+        "Audience or judges in the background, if shot during a competition ",
+        "Accessories such as gloves, hats, or hair decorations designed to complement the attire"
+    ],
+    "Javelin Throw": [
+        "an athlete holding a javelin (a long, slender spear) ",
+        "athletic attire specific to track and field events ",
+        "a runway, typically composed of compacted material or synthetic track ",
+        "a throwing arc marked on the ground ",
+        "officials and measuring equipment around the field area ",
+        "spectators or a stadium setting in the background ",
+        "sometimes, a sector line indicating the permissible angles of throw visible on the ground"
+    ],
+    "Juggling Balls": [
+        "spherical shape ",
+        "often brightly colored ",
+        "uniform size and shape ",
+        "usually seen in multiples ",
+        "sometimes patterned with stripes, spots, or other designs ",
+        "may be captured in motion if the photo shows active juggling ",
+        "typically small enough to fit comfortably in a person's hand"
+    ],
+    "Jumping Jack": [
+        "human figure with arms and legs extended outward ",
+        "typically captured in mid-air or in motion ",
+        "dynamic posture of arms raised above the head and legs spread apart ",
+        "expression of exertion or focus on the face ",
+        "athletic or casual clothing suitable for exercise ",
+        "often performed in a gym, park, or open space conducive to physical activity ",
+        "possibly other individuals or exercise equipment in the background."
+    ],
+    "Jump Rope": [
+        "Long, thin rope usually made from materials like plastic, rubber, or fiber ",
+        "Handles at each end of the rope, often made of plastic or foam for gripping ",
+        "Sometimes colorful or patterned to enhance visibility ",
+        "May have a slight curve or be coiled, especially if it is not in use ",
+        "Variable thickness and length depending on the type (speed rope, beaded rope, etc.) ",
+        "Can appear in motion, often blurred in photos if the rope is being used"
+    ],
+    "Kayaking": [
+        "Presence of a kayak, which is a small, narrow watercraft typically propelled by means of a double-bladed paddle. ",
+        "Person or persons seated in the kayak, usually positioned towards the center. ",
+        "Paddles, often seen as having blades on both ends. ",
+        "Water environment, which could be a river, lake, or coastal area. ",
+        "Use of personal flotation devices (life jackets) worn by the paddlers. ",
+        "Sporting and outdoor attire appropriate for water activities. ",
+        "Possible presence of helmets, especially in whitewater kayaking. ",
+        "Action-oriented posture of paddler(s), typically engaged in steering or paddling movements. ",
+        "Surrounding landscape that may include riverbanks, cliffs, forests, or open water scenes."
+    ],
+    "Knitting": [
+        "Yarn: Various colors and textures, often visible as intertwined or looped threads. ",
+        "Needles: Long, slender tools that might be seen holding loops or lying next to the knitting. ",
+        "Fabric texture: A visible pattern of stitches, which can include rows and columns of loops. ",
+        "In-progress or completed items: The knitting might be part of clothing, accessories like scarves, or other crafted objects. ",
+        "Accessories: Other knitting-related items can be present, such as stitch markers, patterns, or balls of yarn."
+    ],
+    "Long Jump": [
+        "a runway or track ",
+        "a marked take-off board ",
+        "a long, rectangular sandpit ",
+        "surrounding field or athletic event signs ",
+        "competitors wearing athletic sportswear ",
+        "judges or officials with measurement tools ",
+        "spectators in stands or around the jumping area ",
+        "athletic equipment like tape or measuring devices "
+    ],
+    "Lunges": [
+        "a person performing a movement with a focus on the lower body ",
+        "one leg extended forward with the knee bent and front foot flat on the ground ",
+        "the extended leg\u2019s knee should not be overpassing the toes ",
+        "other leg extended behind with both the knee and the foot of the back leg touching or nearly touching the ground ",
+        "torso generally upright, maintaining a natural spine alignment ",
+        "hands on hips or arms extended out for balance often visible ",
+        "the face and body usually show some level of exertion or focus"
+    ],
+    "Military Parade": [
+        "Uniformed military personnel ",
+        "Marching formations ",
+        "Military vehicles and equipment ",
+        "Flags and banners, often national or military ",
+        "Spectators lining the route ",
+        "Marching bands or musical corps ",
+        "Decorations and medals worn by personnel ",
+        "Orderly, disciplined movement ",
+        "Possible presence of dignitaries or military leaders ",
+        "Location in a public or ceremonial space, often a street or square"
+    ],
+    "Mixing": [
+        "Large number of knobs and sliders ",
+        "Buttons and faders ",
+        "Multiple input jacks ",
+        "Display screens showing audio levels ",
+        "Large board-like structure ",
+        "Often found in a studio setting  Please clarify or provide more detail if you meant something else by \"Mixing.\""
+    ],
+    "Mopping Floor": [
+        "Wet or shiny appearance on the floor surface ",
+        "Mop or mop bucket present ",
+        "Streaks or lines on the floor indicating recent mopping ",
+        "Cleaning supplies or equipment in the vicinity ",
+        "A person holding or using a mop ",
+        "Puddles or water spots on the floor ",
+        "Caution signs such as \"wet floor\" signs nearby"
+    ],
+    "Nunchucks": [
+        "consists of two sticks connected by a chain or rope ",
+        "primarily made of wood or metal ",
+        "cylindrical shape of the sticks ",
+        "can vary in color but often seen in natural wood or black ",
+        "visible metal links or strong cord used for connecting the sticks ",
+        "sometimes features engraved patterns or designs on the sticks for grip or decoration"
+    ],
+    "Parallel Bars": [
+        "two parallel rails, usually made of wood ",
+        "supported by metal or wooden vertical bars ",
+        "set at an even height, typically adjustable ",
+        "typically found within a gymnastics environment or training area ",
+        "may have padding around the base for safety ",
+        "athletes may be performing maneuvers on or between the bars in sporting contexts"
+    ],
+    "Pizza Tossing": [
+        "Person with hands extended upwards, manipulating a flat, round object (the pizza dough) ",
+        "The pizza dough itself, often captured in a mid-air, possibly stretched or spinning shape ",
+        "A kitchen or restaurant background, typically with a counter or chef\u2019s prep area visible ",
+        "Chefs wearing aprons or professional kitchen attire ",
+        "Possible presence of ingredients like flour, tomatoes, cheese, or pizza toppings scattered or organized nearby ",
+        "Action-centric, dynamic poses indicating movement related to dough handling or preparation ",
+        "Equipment like rolling pins, dough containers, ovens, or cooking tools in the vicinity"
+    ],
+    "Playing Cello": [
+        "A person holding a large stringed instrument between the knees, usually positioned upright ",
+        "The cello itself, characterized by a large hollow wooden body and four strings ",
+        "A bow typically held in the person's right hand, used to play the strings ",
+        "The cello's distinctive F-holes on the body, essential for sound projection ",
+        "The pegbox and scroll at the top of the cello's neck ",
+        "The endpin at the bottom, which supports the cello on the floor ",
+        "The person's posture, generally seated with the cello between the knees, using the left hand to press the strings against the fingerboard ",
+        "Sheet music on a music stand in front of the person, if visible"
+    ],
+    "Playing Daf": [
+        "Circular frame ",
+        "Large, typically between 40-60 centimeters in diameter ",
+        "Equipped with numerous rings or small cymbals attached around the frame ",
+        "Covered with a thin membrane, usually made from animal skin such as goat hide ",
+        "Held in one hand and played with the other, often visible in a playing action in photos ",
+        "The skin of the Daf might show variations in texture and color depending on the type and treatment of the skin ",
+        "The frame can sometimes be ornately decorated, especially around the edges"
+    ],
+    "Playing Dhol": [
+        "Cylindrical drum shape ",
+        "Two drum heads, typically made of animal skin or synthetic material ",
+        "Usually hung around the neck or placed on a stand ",
+        "Straps or ropes wrapped around the body of the drum for tuning  ",
+        "Played with two sticks, often of different sizes or shapes ",
+        "Often decorated with colorful ribbons, cloths, or painted patterns ",
+        "Commonly seen in traditional cultural festivals, parades, or musical performances"
+    ],
+    "Playing Flute": [
+        "person holding the instrument ",
+        "cylindrical shape of the flute ",
+        "silver or metallic body ",
+        "embouchure hole where the musician blows air ",
+        "fingers positioned along the keys  ",
+        "elongated structure, typically held horizontally ",
+        "visible keys along the flute for note variation ",
+        "the posture of the musician, often with raised elbows to the side"
+    ],
+    "Playing Guitar": [
+        "Person with hands positioned on the guitar\u2019s strings and fretboard ",
+        "Guitar body shape (commonly acoustic or electric) ",
+        "Guitar neck extending from the body ",
+        "Guitar headstock with tuning pegs ",
+        "Strings stretched along the neck to the body ",
+        "Possible presence of a guitar pick ",
+        "Possible presence of a strap for holding the guitar ",
+        "Musical posture or movement indicative of playing ",
+        "Musical equipment like amplifiers or pedals (especially with electric guitars) ",
+        "Sheet music or chord sheets visible in the vicinity"
+    ],
+    "Playing Piano": [
+        "Wide wooden or synthetic body, often black or brown ",
+        "Keyboard with black and white keys ",
+        "Lid that can be opened to expose the strings (for grand and baby grand pianos) ",
+        "Player seated at the piano, typically using a bench ",
+        "Hands positioned over the keys ",
+        "Pedals at the base, used by the player's feet ",
+        "Sheet music stand on the piano where sheets or books may be placed ",
+        "Power cords or electronic interfaces if it's an electric piano"
+    ],
+    "Playing Sitar": [
+        "traditional Indian stringed instrument ",
+        "characterized by a long neck with a large resonating body ",
+        "usually has 18 to 20 strings (both playing and sympathetic strings) ",
+        "strings stretch over a wide, flat bridge that creates a buzzing sound ",
+        "often intricately decorated, often with inlays and carvings ",
+        "player usually depicted sitting on the floor in a cross-legged position ",
+        "often used in Indian classical music and seen with musicians performing raga music ",
+        "can be accompanied by other Indian classical instruments like tabla"
+    ],
+    "Playing Tabla": [
+        "Small, twin hand drums of different sizes ",
+        "The larger drum, known as the \"bayan,\" typically made of metal ",
+        "The smaller drum, called the \"dayan,\" traditionally made of wood ",
+        "Both drums covered with a circular skin membrane, which has a black spot in the center made of hardened paste mixture that modifies the sound ",
+        "Player using hands and fingers to produce rhythmic sounds, often played while sitting down ",
+        "May include a musician's facial expressions focused or emotional ",
+        "Usually placed on padded rings or small stands to keep them stable during playing ",
+        "Presence of other Indian classical music instruments or a performance setting might be evident in the background"
+    ],
+    "Playing Violin": [
+        "Person holding the violin typically with their left hand supporting the neck and their right hand holding a bow ",
+        "Violin itself, characterized by its small, curved body with a wooden back and sides, and a lighter wooden top with f-holes ",
+        "Bow, used to play the violin, usually appears as a long, skinny stick with a curved handle ",
+        "Strings stretched across the violin's neck and body ",
+        "Chin rest where the violinist's chin usually rests ",
+        "Movement or blur of the bow hand indicating playing action, if the photo captures motion ",
+        "Musical notes or sheet music stand nearby can be an indicative context ",
+        "Formal or concert attire if the setting is a performance."
+    ],
+    "Pole Vault": [
+        "athletic track and field setting ",
+        "long, flexible pole typically made of fiberglass or carbon fiber ",
+        "a raised horizontal bar set between two standards ",
+        "a landing pit or mat behind the bar for safety ",
+        "typically an athlete in motion either running with the pole or in the air attempting to clear the bar ",
+        "sports attire specific to track and field events ",
+        "spectators or a stadium setting, which may indicate a competitive event ",
+        "other track and field equipment in the vicinity, like hurdles or javelins, might also be visible depending on the angle of the photo"
+    ],
+    "Pommel Horse": [
+        "Traditional gymnastics apparatus ",
+        "Leather-covered body ",
+        "Two pommel handles on top ",
+        "Elongated oval or rectangular body shape ",
+        "Supported by two legs or a metal base ",
+        "Typically between 1.6 to 1.7 meters long ",
+        "Handles are adjustable and can vary slightly in distance apart ",
+        "Positioned usually with mats around it for safety"
+    ],
+    "Pull Ups": [
+        "Diaper-like shape designed for toddlers ",
+        "Elastic waistbands for easy pulling up and down ",
+        "Made from soft, absorbent materials ",
+        "Often decorated with colorful, child-friendly designs or characters ",
+        "Resembles underwear in appearance but with added absorbency ",
+        "Typically larger and bulkier than standard children's underwear ",
+        "Packaging often shows age and weight guidelines for sizing"
+    ],
+    "Punch": [
+        "Fist clenched or unclenched motion towards another person or object ",
+        "Dynamic, blurred movement suggesting quick motion ",
+        "Facial expressions indicative of aggression or intensity from the person delivering the punch ",
+        "Potential reaction from the recipient, such as a flinched or defensive posture ",
+        "Contextual elements like a fight scene, sports boxing environment, or physical altercation ",
+        "Impact effects like disturbed air, sweat, or fabric distortion around the contact area"
+    ],
+    "Push Ups": [
+        "a person with hands and feet on the ground ",
+        "body in a prone position ",
+        "body elevated by arms with elbows bending and straightening ",
+        "head generally facing down or slightly forward ",
+        "back straight or slightly arched ",
+        "engaged core and straight legs ",
+        "shoulders aligned with or just ahead of the hands"
+    ],
+    "Rafting": [
+        "People wearing life jackets and helmets ",
+        "A raft, usually inflatable and brightly colored ",
+        "Paddles or oars in the hands of the rafters ",
+        "Rough, moving water, commonly showing white water or rapids ",
+        "Natural outdoor surroundings such as riverbanks, rocks, and trees ",
+        "Individuals working together to navigate through water ",
+        "Possible splashes or drops of water in the air around the raft ",
+        "Expressions of excitement or concentration on the faces of participants"
+    ],
+    "Rock Climbing Indoor": [
+        "climbing walls covered with various holds and grips ",
+        "ropes and harnesses potentially in use or hanging ",
+        "belaying devices attached to climbers or stationed at the bottom ",
+        "climbers actively scaling the walls ",
+        "crash pads or safety mats on the floor ",
+        "possibly spectators or instructors present ",
+        "signage detailing climbing routes or safety instructions ",
+        "interior environment (indoor setting) visible in the background, like artificial lighting and walls designed to mimic outdoor rock faces"
+    ],
+    "Rope Climbing": [
+        "rope or ropes prominently visible ",
+        "person clinging to or ascending the rope ",
+        "use of hands and feet on the rope by the person ",
+        "possibly wearing climbing gear such as gloves or harness ",
+        "environment may show gym, outdoor setting, or a climbing facility ",
+        "muscular tension or exertion evident in the climber\u2019s body ",
+        "safety mats or spotters may be visible for indoor climbing settings"
+    ],
+    "Rowing": [
+        "presence of a body of water (lake, river, etc.) ",
+        "rowing boats (sculls, shells) ",
+        "multiple rowers in each boat, sometimes one ",
+        "oars in the hands of rowers ",
+        "rowers seated facing backwards in the direction of travel ",
+        "slim, long boats designed for speed ",
+        "often, a coxswain directing the rowers (in team boats) ",
+        "splash or ripple effects from the oars in the water ",
+        "rowing attire such as unitards or tight-fitting shorts and shirts"
+    ],
+    "Salsa Spin": [
+        "salsa dancers closely facing each other ",
+        "dancers with one hand connected and the other raised above the follower's head ",
+        "dynamic and fluid dance posture expressing rotational movement ",
+        "intricate footwork that may blur slightly due to the motion ",
+        "festive or colorful dance attire typical of salsa performances ",
+        "expressions of joy and concentration on the dancers' faces ",
+        "possibly a dance floor or a social dance setting in the background"
+    ],
+    "Shaving Beard": [
+        "a person, typically male ",
+        "holding a razor or electric shaver ",
+        "presence of shaving cream or foam on the face ",
+        "partly or fully shaven facial hair ",
+        "mirrors are often visible ",
+        "grooming products like aftershave or shaving soap ",
+        "bathroom setting or a space typically associated with personal grooming"
+    ],
+    "Shotput": [
+        "spherical shape ",
+        "solid and heavy appearance ",
+        "typically made of metal (iron or brass) or sometimes of other materials like concrete ",
+        "smooth or textured surface ",
+        "uniform color, often dark such as black or metallic gray or sometimes painted in bright colors during competitions for visibility ",
+        "usually held in one hand, often seen in close proximity to athletes in throwing poses"
+    ],
+    "Skate Boarding": [
+        "skateboard itself, which is typically a small, flat board with four wheels attached to its underside ",
+        "skater performing maneuvers or tricks such as ollies, kickflips, or grinds ",
+        "urban or park setting, frequently featuring ramps, rails, and stairs ",
+        "skater's attire often includes casual or athletic clothing suited for movement and safety gear like helmets and knee pads ",
+        "dynamic and motion-oriented poses, capturing the action of skating ",
+        "possible presence of other skaters or spectators in the background"
+    ],
+    "Skiing": [
+        "presence of snow, typically a snowy mountainous environment ",
+        "individuals wearing winter sports attire such as ski jackets, gloves, goggles, and helmets ",
+        "skis, which are long, narrow pieces of material used for gliding over snow ",
+        "ski poles, often held in each hand to assist with balance and propulsion ",
+        "visible motion or action related to skiing, such as sliding downhill, jumping, or performing tricks ",
+        "ski lifts or other infrastructure for transporting skiers uphill, like chairlifts or gondolas ",
+        "sometimes, visible ski tracks left on the snow"
+    ],
+    "Skijet": [
+        "small, motorized watercraft ",
+        "designed for one or two people ",
+        "sleek, aerodynamic shape ",
+        "handlebars for steering ",
+        "usually found on or near water ",
+        "rotating impeller for propulsion ",
+        "often colorful designs ",
+        "may have seating or a standing area depending on the model ",
+        "visible water jet at the rear, which propels the watercraft forward"
+    ],
+    "Sky Diving": [
+        "People wearing parachutes or wingsuits ",
+        "Aerial view background, often showing the ground from a high altitude ",
+        "Open sky and likely presence of clouds ",
+        "Divers in free fall or flying positions ",
+        "Parachutes deployed in the sky (if the diving phase is captured) ",
+        "Possible presence of an airplane from which divers jumped ",
+        "High-speed motion blur (in some cases) ",
+        "Safety gear like helmets and goggles ",
+        "Diverse scenic backgrounds, including landscapes, cityscapes, or water bodies seen from above"
+    ],
+    "Soccer Juggling": [
+        "one or more soccer balls in the air ",
+        "individual typically in athletic posture, often with legs or feet elevated ",
+        "focused expression on the individual's face ",
+        "typically set in a sports venue, field, or open space ",
+        "action-oriented posture indicating movement, such as a kick or slight jump ",
+        "may include motion blur emphasizing movement of the ball and feet ",
+        "sports attire, including cleats, shorts, and a jersey"
+    ],
+    "Soccer Penalty": [
+        "A player (typically a goalkeeper) standing on the goal line within the goal frame. ",
+        "Another player preparing to kick the soccer ball from the penalty mark, which is 11 meters (12 yards) from the goal line. ",
+        "The penalty area, which is a large box marked around the goal extending 16.5 meters (18 yards) from the goal line into the field. ",
+        "Other players may be seen standing outside the penalty area or along the edge of the penalty box, awaiting the outcome of the kick. ",
+        "Referees positioned to closely monitor the penalty kick. ",
+        "Fans and spectators often focused on the action, displaying heightened emotions either in anticipation or reaction to the penalty kick. ",
+        "The overall heightened tension and positioning of players and referees can distinguish a penalty situation in soccer from regular play moments."
+    ],
+    "Still Rings": [
+        "two rings typically made of wood or metal ",
+        "suspended from cables or straps ",
+        "usually held apart at a fixed distance, often around 50 cm (about 20 inches) ",
+        "suspended at a height suitable for a gymnast to perform routines, usually around 280 cm (about 110 inches) from the ground to the bottom of the rings ",
+        "gymnast performing skills such as swings, handstands, and strength poses ",
+        "often positioned over a gymnastics mat for safety ",
+        "located indoors, typically in a gymnasium setting with other gymnastic equipment visible in the background"
+    ],
+    "Sumo Wrestling": [
+        "two or more large wrestlers (rikishi) wearing only a mawashi (belt-like garment) ",
+        "a circular ring (dohy\u014d), typically made of clay and covered in sand ",
+        "a distinct hairstyle called chonmage, where hair is tied up in a topknot ",
+        "the presence of a referee (gyoji), often in traditional attire ",
+        "spectators seated around the ring ",
+        "ceremonial elements such as salt throwing (purification ritual) ",
+        "intense, close-contact wrestling action ",
+        "characteristic sumo postures and movements like the initial charge (tachiai) ",
+        "banners and decorations specific to sumo tournaments"
+    ],
+    "Surfing": [
+        "ocean or large body of water ",
+        "surfboard, typically long and narrow ",
+        "waves, often captured in the process of breaking ",
+        "surfers, individuals either standing on the surfboard or maneuvering through the water ",
+        "wetsuits or swimwear, depending on the climate ",
+        "action poses, such as balancing, paddling, or riding a wave ",
+        "splashes of water around the surfboard ",
+        "possibly a beach or coastal background with sand and shorelines"
+    ],
+    "Swing": [
+        "seats (can be one or multiple) usually made of wood, plastic, or rubber ",
+        "ropes, chains, or metal bars suspending the seat from above ",
+        "a frame, often metal or wood, supporting the entire structure ",
+        "movement area clear of obstructions to allow swinging back and forth ",
+        "situated often outdoors in playgrounds, parks, or backyards ",
+        "may have safety features like harnesses or cushioned seats for smaller children ",
+        "varied designs from simple, traditional swings to more elaborate ones with decorations or unique shapes"
+    ],
+    "Table Tennis Shot": [
+        "small, spherical, white ball ",
+        "paddle or racket, often red on one side and black on the other ",
+        "table with a net across the center ",
+        "dynamic poses of players, often in a stance indicating motion or readiness to hit ",
+        "sport-specific attire, typically shorts and a light t-shirt ",
+        "a blurred ball indicating movement ",
+        "background typically indicative of an indoor sports facility or recreational area ",
+        "chalk or lines on the table to define the playing area"
+    ],
+    "Tai Chi": [
+        "individuals performing slow, deliberate movements ",
+        "often practiced in groups ",
+        "commonly performed outdoors, in parks or natural settings ",
+        "participants typically wear comfortable, loose-fitting clothing ",
+        "positions and forms that focus on balance and flow, with movements that curve and extend the body ",
+        "a relaxed and serene expression on participants\u2019 faces ",
+        "absence of rapid or aggressive actions, distinguishing it from other martial arts"
+    ],
+    "Tennis Swing": [
+        "a person holding a tennis racket ",
+        "pronounced arm and shoulder movement ",
+        "tennis ball in motion, often near the racket ",
+        "athletic posture and positioning of the player ",
+        "focused facial expression ",
+        "possibility of grass, clay, or hard court surface ",
+        "net in the background or foreground ",
+        "movement blur indicating the swing motion ",
+        "possibly spectators or a tennis outfit"
+    ],
+    "Throw Discus": [
+        "smooth, typically circular shape ",
+        "flat surfaces on both sides with a rim around the edge ",
+        "usually made of materials like wood, metal, or plastic, often with a rubber rim ",
+        "small diameter, generally ranging between 17.8 to 22 cm (7 to 8.6 inches) ",
+        "the surface may have visible markings or labels ",
+        "can come in various colors, but commonly found in shades of black, brown, blue, or green ",
+        "has a solid, heavy appearance due to its density, used for throwing"
+    ],
+    "Trampoline Jumping": [
+        "A trampoline, typically circular or rectangular, often with visible springs and a frame ",
+        "A safety net surrounding the trampoline ",
+        "People or a person mid-air above the trampoline ",
+        "Safety pads covering the springs and frame edges ",
+        "A bouncy, taut fabric mat used as the jumping surface ",
+        "Outdoor setting, often in a backyard or park ",
+        "A jumper who may be performing tricks or bouncing casually."
+    ],
+    "Typing": [
+        "a keyboard (can be physical or on-screen) ",
+        "fingers placed on or near the keyboard keys ",
+        "a person, typically sitting or standing in front of a computer or another typing device  ",
+        "a screen displaying text or a text editing software ",
+        "possibly other peripheral devices like a mouse or a monitor ",
+        "often a focused or concentrated expression on the person's face"
+    ],
+    "Uneven Bars": [
+        "two horizontal bars at different heights ",
+        "bars are made of fiberglass with wood or synthetic coating ",
+        "metallic supports or frames holding the bars ",
+        "gymnastic mats or padding underneath for safety ",
+        "potentially a gymnast performing on the apparatus ",
+        "chalk on the bars for grip ",
+        "adjustable cables or chains to change the height or width of the bars"
+    ],
+    "Volleyball Spiking": [
+        "an airborne volleyball ",
+        "a player in the action of swinging their arm toward the ball ",
+        "usually other players in the background or foreground preparing to block or receive the ball ",
+        "often takes place near the net on a volleyball court ",
+        "the court typically has boundary lines marked ",
+        "the player performing the spike might be jumping off the ground ",
+        "expressions of focus or aggression on the players\u2019 faces ",
+        "sportswear appropriate for volleyball, including shorts, jerseys, and possibly knee pads and volleyball-specific shoes"
+    ],
+    "Walking With Dog": [
+        "A person and at least one dog visible together. ",
+        "Both may be in motion, suggesting walking or movement. ",
+        "The person might hold a leash connected to the dog, often extending from the person's hand to the dog's collar. ",
+        "Outdoor surroundings, typically seen in areas suitable for walking such as sidewalks, parks, or trails. ",
+        "Wearing appropriate attire for walking, such as casual or sporty clothing, sneakers, or boots. ",
+        "The dog may be of any size, breed, or color. ",
+        "Presence of other walking accessories, such as waste bags, water bottles, or toys."
+    ],
+    "Wall Pushups": [
+        "person standing facing a wall ",
+        "hands placed on the wall at shoulder width apart ",
+        "arms extended or at various degrees of bending (depending on the stage of the pushup) ",
+        "body leaning towards the wall at an angle ",
+        "feet flat on the ground positioned slightly away from the wall ",
+        "individual maintaining a straight alignment from head to heels, indicating proper form ",
+        "focused expression or concentration on the person's face, indicating physical effort"
+    ],
+    "Writing On Board": [
+        "A flat, often rectangular surface ",
+        "Surface may be white, black, or green (traditional chalkboards) ",
+        "Visible written text or drawings, often with markers or chalk ",
+        "Possible presence of a pen tray at the lower edge or side for holding writing instruments ",
+        "A frame surrounding the board, which could be metal, plastic, or wood ",
+        "Mounted on a wall or supported on a stand ",
+        "Might include accessories like erasers, markers, or chalk nearby"
+    ],
+    "Yo Yo": [
+        "round shape ",
+        "two disks or halves connected by an axle ",
+        "string typically attached to the axle ",
+        "often colorful or decorated surfaces ",
+        "can be made of plastic, wood, or metal ",
+        "visible looping or winding of the string around the axle when at rest"
+    ]
+}

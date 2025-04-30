@@ -1,0 +1,10 @@
+{
+    "prefix": [
+        "a photo of a {}.",
+        "a photo of a big {}.",
+        "a photo of a small {}.",
+        "a {} on the photo.",
+        "a big {} on the photo.", 
+        "a small {} on the photo."
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "Black-footed Albatross": [
+        "black-footed albatross",
+        "diomedea nigripes"
+    ],
+    "Laysan Albatross": [
+        "laysan albatross",
+        "moli",
+        "phoebastria immutabilis"
+    ],
+    "Sooty Albatross": [
+        "sooty albatross",
+        "dark albatross",
+        "phoebetria fusca",
+        "phoebetria palpebrata"
+    ],
+    "Groove-billed Ani": [
+        "groove-billed ani",
+        "crotophaga sulcirostris"
+    ],
+    "Crested Auklet": [
+        "crested auklet",
+        "aethia cristatella"
+    ],
+    "Least Auklet": [
+        "least auklet",
+        "aethia pusilla"
+    ],
+    "Parakeet Auklet": [
+        "parakeet auklet",
+        "cyclorrhynchus psittacula"
+    ],
+    "Rhinoceros Auklet": [
+        "rhinoceros auklet",
+        "cerorhinca monocerata",
+        "unicorn puffin"
+    ],
+    "Brewer Blackbird": [
+        "brewer's blackbird",
+        "euphagus cyanocephalus",
+        "brewer blackbird"
+    ],
+    "Red-winged Blackbird": [
+        "red-winged blackbird",
+        "agelaius phoeniceus"
+    ],
+    "Rusty Blackbird": [
+        "rusty blackbird",
+        "rusty grackle",
+        "euphagus carolinus"
+    ],
+    "Yellow-headed Blackbird": [
+        "yellow-headed blackbird",
+        "xanthocephalus xanthocephalus"
+    ],
+    "Bobolink": [
+        "bobolink",
+        "ricebird",
+        "reedbird",
+        "dolichonyx oryzivorus"
+    ],
+    "Indigo Bunting": [
+        "indigo bunting",
+        "passerina cyanea",
+        "blue canary"
+    ],
+    "Lazuli Bunting": [
+        "lazuli bunting",
+        "passerina amoena"
+    ],
+    "Painted Bunting": [
+        "painted bunting",
+        "passerina ciris"
+    ],
+    "Cardinal": [
+        "cardinal",
+        "redbird",
+        "cardinalis cardinalis"
+    ],
+    "Spotted Catbird": [
+        "spotted catbird",
+        "ailuroedus maculosus"
+    ],
+    "Gray Catbird": [
+        "gray catbird",
+        "slate-colored mockingbird",
+        "dumetella carolinensis"
+    ],
+    "Yellow-breasted Chat": [
+        "yellow-breasted chat",
+        "icteria virens"
+    ],
+    "Eastern Towhee": [
+        "eastern towhee",
+        "rufous-sided towhee",
+        "pipilo erythrophthalmus"
+    ],
+    "Chuck-will Widow": [
+        "chuck-will's-widow",
+        "caprimulgus carolinensis",
+        "chuck-will widow"
+    ],
+    "Brandt Cormorant": [
+        "brandt cormorant",
+        "brandt's cormorant",
+        "phalacrocorax penicillatus"
+    ],
+    "Red-faced Cormorant": [
+        "red-faced cormorant",
+        "violet-green cormorant",
+        "phalacrocorax urile"
+    ],
+    "Pelagic Cormorant": [
+        "pelagic cormorant",
+        "baird's cormorant",
+        "phalacrocorax pelagicus"
+    ],
+    "Bronzed Cowbird": [
+        "bronzed cowbird",
+        "bronzed grackle",
+        "molothrus aeneus"
+    ],
+    "Shiny Cowbird": [
+        "shiny cowbird",
+        "molothrus bonariensis"
+    ],
+    "Brown Creeper": [
+        "brown creeper",
+        "american treecreeper",
+        "certhia americana"
+    ],
+    "American Crow": [
+        "american crow",
+        "crow",
+        "corvus brachyrhynchos"
+    ],
+    "Fish Crow": [
+        "fish crow",
+        "corvus ossifragus"
+    ],
+    "Black-billed Cuckoo": [
+        "black-billed cuckoo",
+        "coccyzus erythropthalmus"
+    ],
+    "Mangrove Cuckoo": [
+        "mangrove cuckoo",
+        "coccyzus minor"
+    ],
+    "Yellow-billed Cuckoo": [
+        "yellow-billed cuckoo",
+        "rain crow",
+        "storm crow",
+        "coccyzus americanus"
+    ],
+    "Gray-crowned-Rosy Finch": [
+        "gray-crowned rosy finch",
+        "leucosticte tephrocotis",
+        "gray-crowned-rosy finch"
+    ],
+    "Purple Finch": [
+        "purple finch",
+        "carpodacus purpureus"
+    ],
+    "Northern Flicker": [
+        "northern flicker",
+        "yellowhammer",
+        "colaptes auratus",
+        "flicker"
+    ],
+    "Acadian Flycatcher": [
+        "acadian flycatcher",
+        "empidonax virescens"
+    ],
+    "Great-Crested Flycatcher": [
+        "great-crested flycatcher",
+        "myiarchus crinitus"
+    ],
+    "Least Flycatcher": [
+        "least flycatcher",
+        "chebec",
+        "empidonax minimus"
+    ],
+    "Olive-sided Flycatcher": [
+        "olive-sided flycatcher",
+        "contopus cooperi",
+        "quick-three-beer bird"
+    ],
+    "Scissor-tailed Flycatcher": [
+        "scissor-tailed flycatcher",
+        "scissortail",
+        "texas bird-of-paradise",
+        "muscivora forficata"
+    ],
+    "Vermilion Flycatcher": [
+        "vermilion flycatcher",
+        "pyrocephalus rubinus",
+        "red tyrant"
+    ],
+    "Yellow-bellied Flycatcher": [
+        "yellow-bellied flycatcher",
+        "empidonax flaviventris"
+    ],
+    "Frigatebird": [
+        "frigatebird",
+        "man o' war bird",
+        "pirate bird",
+        "fregatidae"
+    ],
+    "Northern Fulmar": [
+        "northern fulmar",
+        "fulmarus glacialis",
+        "fulmar"
+    ],
+    "Gadwall": [
+        "gadwall",
+        "anas strepera",
+        "gray duck"
+    ],
+    "American Goldfinch": [
+        "american goldfinch",
+        "eastern goldfinch",
+        "spinus tristis",
+        "carduelis tristis"
+    ],
+    "European Goldfinch": [
+        "european goldfinch",
+        "goldfinch",
+        "carduelis carduelis"
+    ],
+    "Boat-tailed Grackle": [
+        "boat-tailed grackle",
+        "boat-tail",
+        "quiscalus major"
+    ],
+    "Eared Grebe": [
+        "eared grebe",
+        "black-necked grebe",
+        "podiceps nigricollis"
+    ],
+    "Horned Grebe": [
+        "horned grebe",
+        "slavonian grebe",
+        "podiceps auritus"
+    ],
+    "Pied-billed Grebe": [
+        "pied-billed grebe",
+        "podilymbus podiceps",
+        "water witch",
+        "dabchick",
+        "hell-diver"
+    ],
+    "Western Grebe": [
+        "western grebe",
+        "aechmophorus occidentalis",
+        "dabchick",
+        "swan grebe"
+    ],
+    "Blue Grosbeak": [
+        "blue grosbeak",
+        "passerina caerulea"
+    ],
+    "Evening Grosbeak": [
+        "evening grosbeak",
+        "coccothraustes vespertinus",
+        "vesper grosbeak"
+    ],
+    "Pine Grosbeak": [
+        "pine grosbeak",
+        "pinicola enucleator"
+    ],
+    "Rose-breasted Grosbeak": [
+        "rose-breasted grosbeak",
+        "pheucticus ludovicianus"
+    ],
+    "Pigeon Guillemot": [
+        "pigeon guillemot",
+        "cepphus columba"
+    ],
+    "California Gull": [
+        "california gull",
+        "larus californicus",
+        "western gull"
+    ],
+    "Glaucous-winged Gull": [
+        "glaucous-winged gull",
+        "larus glaucescens"
+    ],
+    "Heermann Gull": [
+        "heermann's gull",
+        "larus heermanni",
+        "heermann gull"
+    ],
+    "Herring Gull": [
+        "herring gull",
+        "larus argentatus",
+        "seagull"
+    ],
+    "Ivory Gull": [
+        "ivory gull",
+        "pagophila eburnea"
+    ],
+    "Ring-billed Gull": [
+        "ring-billed gull",
+        "larus delawarensis"
+    ],
+    "Slaty-backed Gull": [
+        "slaty-backed gull",
+        "larus schistisagus"
+    ],
+    "Western Gull": [
+        "western gull",
+        "larus occidentalis"
+    ],
+    "Anna Hummingbird": [
+        "anna's hummingbird",
+        "calypte anna",
+        "anna hummingbird"
+    ],
+    "Ruby-throated Hummingbird": [
+        "ruby-throated hummingbird",
+        "archilochus colubris"
+    ],
+    "Rufous Hummingbird": [
+        "rufous hummingbird",
+        "selasphorus rufus"
+    ],
+    "Green Violetear": [
+        "green violetear",
+        "green violet-ear",
+        "colibri thalassinus"
+    ],
+    "Long-tailed Jaeger": [
+        "long-tailed jaeger",
+        "long-tailed skua",
+        "stercorarius longicaudus"
+    ],
+    "Pomarine Jaeger": [
+        "pomarine jaeger",
+        "pomarine skua",
+        "stercorarius pomarinus"
+    ],
+    "Blue Jay": [
+        "blue jay",
+        "cyanocitta cristata"
+    ],
+    "Florida Jay": [
+        "florida jay",
+        "aphelocoma coerulescens",
+        "scrub jay"
+    ],
+    "Green Jay": [
+        "green jay",
+        "cyanocorax yncas",
+        "inca jay"
+    ],
+    "Dark-eyed Junco": [
+        "dark-eyed junco",
+        "junco hyemalis",
+        "slate-colored junco"
+    ],
+    "Tropical Kingbird": [
+        "tropical kingbird",
+        "tyrannus melancholicus"
+    ],
+    "Gray Kingbird": [
+        "gray kingbird",
+        "grey kingbird",
+        "tyrannus dominicensis"
+    ],
+    "Belted Kingfisher": [
+        "belted kingfisher",
+        "ceryle alcyon"
+    ],
+    "Green Kingfisher": [
+        "green kingfisher",
+        "chloroceryle americana"
+    ],
+    "Pied Kingfisher": [
+        "pied kingfisher",
+        "ceryle rudis"
+    ],
+    "Ringed Kingfisher": [
+        "ringed kingfisher",
+        "megaceryle torquata"
+    ],
+    "White-breasted Kingfisher": [
+        "white-breasted kingfisher",
+        "smyrna kingfisher",
+        "halcyon smyrnensis"
+    ],
+    "Red-legged Kittiwake": [
+        "red-legged kittiwake",
+        "rissa brevirostris"
+    ],
+    "Horned Lark": [
+        "horned lark",
+        "shore lark",
+        "eremophila alpestris"
+    ],
+    "Pacific Loon": [
+        "pacific loon",
+        "pacific diver",
+        "gavia pacifica"
+    ],
+    "Mallard": [
+        "mallard",
+        "wild duck",
+        "anas platyrhynchos"
+    ],
+    "Western Meadowlark": [
+        "western meadowlark",
+        "sturnella neglecta"
+    ],
+    "Hooded Merganser": [
+        "hooded merganser",
+        "hooded sheldrake",
+        "lophodytes cucullatus"
+    ],
+    "Red-breasted Merganser": [
+        "red-breasted merganser",
+        "sawbill",
+        "sheldrake",
+        "mergus serrator"
+    ],
+    "Mockingbird": [
+        "mockingbird",
+        "mocker",
+        "mimus polyglottos"
+    ],
+    "Nighthawk": [
+        "nighthawk",
+        "bullbat",
+        "nightjar",
+        "chordeiles minor"
+    ],
+    "Clark Nutcracker": [
+        "clark's nutcracker",
+        "clark's crow",
+        "nutcracker",
+        "nucifraga columbiana",
+        "clark nutcracker"
+    ],
+    "White-breasted Nuthatch": [
+        "white-breasted nuthatch",
+        "sitta carolinensis"
+    ],
+    "Baltimore Oriole": [
+        "baltimore oriole",
+        "northern oriole",
+        "icterus galbula"
+    ],
+    "Hooded Oriole": [
+        "hooded oriole",
+        "icterus cucullatus"
+    ],
+    "Orchard Oriole": [
+        "orchard oriole",
+        "icterus spurius"
+    ],
+    "Scott Oriole": [
+        "scott oriole",
+        "bullock's oriole",
+        "icterus bullockii"
+    ],
+    "Ovenbird": [
+        "ovenbird",
+        "seiurus aurocapilla",
+        "teacher bird",
+        "golden-crowned thrush"
+    ],
+    "Brown Pelican": [
+        "brown pelican",
+        "pelecanus occidentalis"
+    ],
+    "White Pelican": [
+        "white pelican",
+        "american white pelican",
+        "pelecanus erythrorhynchos"
+    ],
+    "Western-Wood Pewee": [
+        "western-wood pewee",
+        "western wood-pewee",
+        "contopus sordidulus"
+    ],
+    "Sayornis": [
+        "sayornis",
+        "phoebes"
+    ],
+    "American Pipit": [
+        "american pipit",
+        "buff-bellied pipit",
+        "anthus rubescens"
+    ],
+    "Whip-poor Will": [
+        "whip-poor-will",
+        "caprimulgus vociferus",
+        "whip-poor will"
+    ],
+    "Horned Puffin": [
+        "horned puffin",
+        "fratercula corniculata"
+    ],
+    "Common Raven": [
+        "common raven",
+        "northern raven",
+        "corvus corax"
+    ],
+    "White-necked Raven": [
+        "white-necked raven",
+        "corvus albicollis"
+    ],
+    "American Redstart": [
+        "american redstart",
+        "setophaga ruticilla",
+        "redstart"
+    ],
+    "Geococcyx": [
+        "geococcyx",
+        "roadrunner",
+        "chaparral cock"
+    ],
+    "Loggerhead Shrike": [
+        "loggerhead shrike",
+        "butcher bird",
+        "lanius ludovicianus"
+    ],
+    "Great-Grey Shrike": [
+        "great-grey shrike",
+        "northern shrike",
+        "lanius excubitor"
+    ],
+    "Baird Sparrow": [
+        "baird's sparrow",
+        "ammodramus bairdii",
+        "baird sparrow"
+    ],
+    "Black-throated Sparrow": [
+        "black-throated sparrow",
+        "desert sparrow",
+        "amphispiza bilineata"
+    ],
+    "Brewer Sparrow": [
+        "brewer's sparrow",
+        "spizella breweri",
+        "brewer sparrow"
+    ],
+    "Chipping Sparrow": [
+        "chipping sparrow",
+        "spizella passerina",
+        "social sparrow",
+        "hairbird",
+        "chipper"
+    ],
+    "Clay-colored Sparrow": [
+        "clay-colored sparrow",
+        "spizella pallida"
+    ],
+    "House Sparrow": [
+        "house sparrow",
+        "english sparrow",
+        "passer domesticus"
+    ],
+    "Field Sparrow": [
+        "field sparrow",
+        "spizella pusilla"
+    ],
+    "Fox Sparrow": [
+        "fox sparrow",
+        "passerella iliaca"
+    ],
+    "Grasshopper Sparrow": [
+        "grasshopper sparrow",
+        "ammodramus savannarum"
+    ],
+    "Harris Sparrow": [
+        "harris sparrow",
+        "zonotrichia querula"
+    ],
+    "Henslow Sparrow": [
+        "henslow's sparrow",
+        "henslow sparrow",
+        "ammodramus henslowii"
+    ],
+    "Le-Conte Sparrow": [
+        "le-conte sparrow",
+        "leconte's sparrow",
+        "ammodramus leconteii"
+    ],
+    "Lincoln Sparrow": [
+        "lincoln sparrow",
+        "lincoln's sparrow",
+        "melospiza lincolnii"
+    ],
+    "Nelson-Sharp-tailed Sparrow": [
+        "nelson's sharp-tailed sparrow",
+        "ammodramus nelsoni",
+        "saltmarsh sharp-tailed sparrow",
+        "nelson-sharp-tailed sparrow"
+    ],
+    "Savannah Sparrow": [
+        "savannah sparrow",
+        "passerculus sandwichensis"
+    ],
+    "Seaside Sparrow": [
+        "seaside sparrow",
+        "ammospiza maritima"
+    ],
+    "Song Sparrow": [
+        "song sparrow",
+        "melospiza melodia"
+    ],
+    "Tree Sparrow": [
+        "tree sparrow",
+        "passer montanus"
+    ],
+    "Vesper Sparrow": [
+        "vesper sparrow",
+        "evening sparrow",
+        "grasshopper sparrow",
+        "pooecetes gramineus"
+    ],
+    "White-crowned Sparrow": [
+        "white-crowned sparrow",
+        "zonotrichia leucophrys"
+    ],
+    "White-throated Sparrow": [
+        "white-throated sparrow",
+        "zonotrichia albicollis"
+    ],
+    "Cape-Glossy Starling": [
+        "cape-glossy starling",
+        "cape starling",
+        "red-shouldered glossy-starling",
+        "lampocoris nitens"
+    ],
+    "Bank Swallow": [
+        "bank swallow",
+        "sand martin",
+        "riparia riparia"
+    ],
+    "Barn Swallow": [
+        "barn swallow",
+        "hirundo rustica",
+        "european swallow",
+        "common swallow"
+    ],
+    "Cliff Swallow": [
+        "cliff swallow",
+        "petrochelidon pyrrhonota",
+        "eave swallow",
+        "american cliff swallow"
+    ],
+    "Tree Swallow": [
+        "tree swallow",
+        "tachycineta bicolor"
+    ],
+    "Scarlet Tanager": [
+        "scarlet tanager",
+        "piranga olivacea"
+    ],
+    "Summer Tanager": [
+        "summer tanager",
+        "piranga rubra",
+        "summer redbird"
+    ],
+    "Artic Tern": [
+        "arctic tern",
+        "sea swallow",
+        "sterna paradisaea",
+        "artic tern"
+    ],
+    "Black Tern": [
+        "black tern",
+        "chlidonias niger"
+    ],
+    "Caspian Tern": [
+        "caspian tern",
+        "hydroprogne caspia",
+        "sterna caspia"
+    ],
+    "Common Tern": [
+        "common tern",
+        "sea swallow",
+        "sterna hirundo"
+    ],
+    "Elegant Tern": [
+        "elegant tern",
+        "sterna elegans"
+    ],
+    "Forsters Tern": [
+        "forster's tern",
+        "forster's sea swallow",
+        "sterna forsteri",
+        "forsters tern"
+    ],
+    "Least Tern": [
+        "least tern",
+        "sternula antillarum",
+        "little tern"
+    ],
+    "Green-tailed Towhee": [
+        "green-tailed towhee",
+        "pipilo chlorurus"
+    ],
+    "Brown Thrasher": [
+        "brown thrasher",
+        "toxostoma rufum"
+    ],
+    "Sage Thrasher": [
+        "sage thrasher",
+        "oreoscoptes montanus"
+    ],
+    "Black-capped Vireo": [
+        "black-capped vireo",
+        "vireo atricapilla"
+    ],
+    "Blue-headed Vireo": [
+        "blue-headed vireo",
+        "vireo solitarius",
+        "solitary vireo"
+    ],
+    "Philadelphia Vireo": [
+        "philadelphia vireo",
+        "vireo philadelphicus"
+    ],
+    "Red-eyed Vireo": [
+        "red-eyed vireo",
+        "vireo olivaceus"
+    ],
+    "Warbling Vireo": [
+        "warbling vireo",
+        "vireo gilvus"
+    ],
+    "White-eyed Vireo": [
+        "white-eyed vireo",
+        "vireo griseus"
+    ],
+    "Yellow-throated Vireo": [
+        "yellow-throated vireo",
+        "vireo flavifrons"
+    ],
+    "Bay-breasted Warbler": [
+        "bay-breasted warbler",
+        "dendroica castanea"
+    ],
+    "Black-and-white Warbler": [
+        "black-and-white warbler",
+        "mniotilta varia"
+    ],
+    "Black-throated-Blue Warbler": [
+        "black-throated blue warbler",
+        "dendroica caerulescens",
+        "setophaga caerulescens",
+        "black-throated-blue warbler"
+    ],
+    "Blue-winged Warbler": [
+        "blue-winged warbler",
+        "vermivora cyanoptera"
+    ],
+    "Canada Warbler": [
+        "canada warbler",
+        "wilsonia canadensis",
+        "canadian warbler"
+    ],
+    "Cape-May Warbler": [
+        "cape-may warbler",
+        "cape may warbler",
+        "dendroica tigrina"
+    ],
+    "Cerulean Warbler": [
+        "cerulean warbler",
+        "dendroica cerulea",
+        "setophaga cerulea"
+    ],
+    "Chestnut-sided Warbler": [
+        "chestnut-sided warbler",
+        "setophaga pensylvanica"
+    ],
+    "Golden-winged Warbler": [
+        "golden-winged warbler",
+        "vermivora chrysoptera"
+    ],
+    "Hooded Warbler": [
+        "hooded warbler",
+        "wilsonia citrina"
+    ],
+    "Kentucky Warbler": [
+        "kentucky warbler",
+        "geothlypis formosa",
+        "kentucky yellowthroat"
+    ],
+    "Magnolia Warbler": [
+        "magnolia warbler",
+        "dendroica magnolia",
+        "spruce warbler"
+    ],
+    "Mourning Warbler": [
+        "mourning warbler",
+        "geothlypis philadelphia"
+    ],
+    "Myrtle Warbler": [
+        "myrtle warbler",
+        "yellow-rumped warbler",
+        "setophaga coronata",
+        "audubon's warbler"
+    ],
+    "Nashville Warbler": [
+        "nashville warbler",
+        "vermivora ruficapilla"
+    ],
+    "Orange-crowned Warbler": [
+        "orange-crowned warbler",
+        "vermivora celata"
+    ],
+    "Palm Warbler": [
+        "palm warbler",
+        "yellow palm warbler",
+        "dendroica palmarum"
+    ],
+    "Pine Warbler": [
+        "pine warbler",
+        "dendroica pinus",
+        "yellow pine warbler"
+    ],
+    "Prairie Warbler": [
+        "prairie warbler",
+        "dendroica discolor"
+    ],
+    "Prothonotary Warbler": [
+        "prothonotary warbler",
+        "golden swamp warbler",
+        "protonotaria citrea"
+    ],
+    "Swainson Warbler": [
+        "swainson's warbler",
+        "limnothlypis swainsonii",
+        "swainson warbler"
+    ],
+    "Tennessee Warbler": [
+        "tennessee warbler",
+        "oreothlypis peregrina",
+        "leiothlypis peregrina"
+    ],
+    "Wilson Warbler": [
+        "wilson's warbler",
+        "wilsonia pusilla",
+        "wilson's blackcap",
+        "wilson warbler"
+    ],
+    "Worm-eating Warbler": [
+        "worm-eating warbler",
+        "helmitheros vermivorum"
+    ],
+    "Yellow Warbler": [
+        "yellow warbler",
+        "golden warbler",
+        "summer yellowbird",
+        "dendroica petechia"
+    ],
+    "Northern Waterthrush": [
+        "northern waterthrush",
+        "parkesia noveboracensis"
+    ],
+    "Louisiana Waterthrush": [
+        "louisiana waterthrush",
+        "parkesia motacilla",
+        "northern waterthrush",
+        "seiurus motacilla"
+    ],
+    "Bohemian Waxwing": [
+        "bohemian waxwing",
+        "bombycilla garrulus"
+    ],
+    "Cedar Waxwing": [
+        "cedar waxwing",
+        "bombycilla cedrorum"
+    ],
+    "American-Three-toed Woodpecker": [
+        "american three-toed woodpecker",
+        "picoides dorsalis",
+        "american-three-toed woodpecker"
+    ],
+    "Pileated Woodpecker": [
+        "pileated woodpecker",
+        "dryocopus pileatus"
+    ],
+    "Red-bellied Woodpecker": [
+        "red-bellied woodpecker",
+        "zebra-backed woodpecker",
+        "melanerpes carolinus"
+    ],
+    "Red-cockaded Woodpecker": [
+        "red-cockaded woodpecker",
+        "picoides borealis"
+    ],
+    "Red-headed Woodpecker": [
+        "red-headed woodpecker",
+        "melanerpes erythrocephalus"
+    ],
+    "Downy Woodpecker": [
+        "downy woodpecker",
+        "dryobates pubescens",
+        "picoides pubescens"
+    ],
+    "Bewick Wren": [
+        "bewick's wren",
+        "thryomanes bewickii",
+        "bewick wren"
+    ],
+    "Cactus Wren": [
+        "cactus wren",
+        "campylorhynchus brunneicapillus"
+    ],
+    "Carolina Wren": [
+        "carolina wren",
+        "thryothorus ludovicianus"
+    ],
+    "House Wren": [
+        "house wren",
+        "domestic wren",
+        "troglodytes aedon"
+    ],
+    "Marsh Wren": [
+        "marsh wren",
+        "cistothorus palustris"
+    ],
+    "Rock Wren": [
+        "rock wren",
+        "salpinctes obsoletus"
+    ],
+    "Winter Wren": [
+        "winter wren",
+        "troglodytes hiemalis",
+        "northern winter wren"
+    ],
+    "Common Yellowthroat": [
+        "common yellowthroat",
+        "maryland yellowthroat",
+        "geothlypis trichas",
+        "yellowthroat"
+    ]
+}

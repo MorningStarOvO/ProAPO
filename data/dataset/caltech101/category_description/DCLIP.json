@@ -1,0 +1,898 @@
+{
+    "face": [
+        "eyes ",
+        "nose ",
+        "mouth ",
+        "ears ",
+        "eyebrows ",
+        "hairline ",
+        "facial expressions (such as smiling or frowning) ",
+        "skin texture and color ",
+        "presence of facial hair (e.g., beard, mustache) ",
+        "symmetry of facial features"
+    ],
+    "leopard": [
+        "four-legged animal ",
+        "covered in distinctive coat with rosette-like patterns containing black spots ",
+        "yellow or brown base coat ",
+        "long tail ",
+        "sleek and muscular body ",
+        "rounded ears ",
+        "sharp claws and teeth"
+    ],
+    "motorbike": [
+        "Two wheels ",
+        "Handlebars for steering ",
+        "An engine located between the wheels ",
+        "A seat for the rider ",
+        "A fuel tank typically located above the engine ",
+        "Exhaust pipes ",
+        "Headlights and taillights ",
+        "Sleek and aerodynamic design, often with a fairing (a shell placed over the frame)"
+    ],
+    "accordion": [
+        "Musical instrument ",
+        "Bellows that expand and contract ",
+        "Keyboard or buttons on one or both sides ",
+        "Horizontal or vertical design ",
+        "Made of metal, wood, and/or plastic ",
+        "Decorative patterns or engravings on the surface ",
+        "Straps for holding or playing the instrument"
+    ],
+    "airplane": [
+        "long elongated body ",
+        "wings on either side of the fuselage ",
+        "a tail fin at the rear ",
+        "engines attached to the wings or fuselage ",
+        "cockpit windows at the front ",
+        "landing gear beneath the fuselage ",
+        "airline markings or logos on the exterior"
+    ],
+    "anchor": [
+        "heavy metal construction ",
+        "typically shaped like a hook or has flukes to secure it to the seabed ",
+        "often attached to a chain or rope ",
+        "may be rusted or weathered if exposed to saltwater ",
+        "varies in size from small boat anchors to large ship anchors ",
+        "generally gray or metallic in color"
+    ],
+    "ant": [
+        "small size ",
+        "segmented body ",
+        "six legs ",
+        "antennae ",
+        "black, brown, or red color ",
+        "shiny exoskeleton"
+    ],
+    "barrel": [
+        "cylindrical shape ",
+        "made of wood, metal, or plastic ",
+        "usually has a bulging middle and flat ends ",
+        "metal or wooden hoops around it to hold the staves (wooden slats) together ",
+        "two round, flat lids at the top and bottom ",
+        "often has a tap or bung hole for dispensing liquids"
+    ],
+    "bass": [
+        "elongated body shape ",
+        "fins on the top and bottom ",
+        "large mouth with visible lower jaw ",
+        "scales covering the body ",
+        "typically found in freshwater environments ",
+        "coloration can vary widely, includes patterns like stripes or spots"
+    ],
+    "beaver": [
+        "Medium-sized rodent ",
+        "Brown or reddish-brown fur ",
+        "Flat, scaly tail ",
+        "Large, orange incisors ",
+        "Webbed hind feet ",
+        "Small, rounded ears ",
+        "Robust body ",
+        "Often seen near water or with evidence of dam-building or gnawed tree trunks"
+    ],
+    "binocular": [
+        "optical instrument ",
+        "two side-by-side tubes connected by a hinge ",
+        "large objective lenses on the front end ",
+        "smaller eyepieces at the rear ",
+        "focus adjustment wheels or knobs between the eyepieces ",
+        "often black or dark-colored ",
+        "sometimes comes with a neck strap for easy carrying ",
+        "rubber or textured grip surfaces for holding"
+    ],
+    "bonsai": [
+        "small size ",
+        "artistic, miniature version of a tree ",
+        "container or pot in which it is planted ",
+        "gnarled and twisted branches ",
+        "dense foliage ",
+        "proportionality in branch, trunk and leaves ",
+        "artistically pruned for aesthetics"
+    ],
+    "brain": [
+        "wrinkled and textured surface ",
+        "soft, pinkish-grey color ",
+        "divided into two symmetrical hemispheres ",
+        "distinct grooves and ridges (sulci and gyri) ",
+        "may be shown in cross-section to reveal internal structures ",
+        "may have attached nerve tissue or blood vessels"
+    ],
+    "brontosaurus": [
+        "long neck and tail ",
+        "large, bulky body ",
+        "four sturdy legs ",
+        "small head in relation to body size ",
+        "herbivorous dinosaur ",
+        "textured, scaly skin ",
+        "possibly depicted with a ridge or crest along its back"
+    ],
+    "buddha": [
+        "seated or standing statue ",
+        "elongated ears ",
+        "serene facial expression ",
+        "monk robe or simple clothing ",
+        "half-closed eyes in a meditative pose ",
+        "hand gestures, such as the \"mudra\" ",
+        "often seen seated on a lotus flower pedestal ",
+        "sometimes depicted with a halo or aura around the head"
+    ],
+    "butterfly": [
+        "two pairs of large, colorful wings with various patterns ",
+        "slender body with three main parts: head, thorax, and abdomen ",
+        "two long antennae ",
+        "six legs ",
+        "compound eyes ",
+        "often seen perched on flowers or in flight ",
+        "delicate and symmetrical wing shapes"
+    ],
+    "camera": [
+        "optical lens ",
+        "shutter release button ",
+        "viewfinder or LCD screen ",
+        "camera body, often black or silver ",
+        "flash component ",
+        "various buttons or dials for controlling settings ",
+        "a strap for carrying"
+    ],
+    "cannon": [
+        "cylindrical long barrel ",
+        "mounted on wheels or a carriage ",
+        "breech or muzzle loading feature ",
+        "a fuse hole or touch hole ",
+        "aimed at an upward angle for firing projectiles"
+    ],
+    "car side": [
+        "Metallic or painted body ",
+        "Presence of doors with handles ",
+        "Windows and side mirrors ",
+        "Tires and wheels ",
+        "Fenders and contours ",
+        "Trim and badges with model branding ",
+        "Roofline that extends from the windshield to the rear"
+    ],
+    "ceiling fan": [
+        "Circular or oval shape ",
+        "Blades that extend outwards from a central hub ",
+        "Mounted to the ceiling ",
+        "Motor housing ",
+        "Pull chain or a wall control switch ",
+        "Light fixture attached below the blades"
+    ],
+    "cellphone": [
+        "small, handheld device ",
+        "rectangular shape with rounded corners ",
+        "a touchscreen display ",
+        "a front and/or rear camera ",
+        "buttons (e.g., power, volume) ",
+        "charging port ",
+        "speaker and microphone ",
+        "possibly a case or cover surrounding the device"
+    ],
+    "chair": [
+        "one or more legs for support ",
+        "a seat for sitting ",
+        "a backrest ",
+        "armrests (optional) ",
+        "made of materials like wood, metal, plastic, or upholstered fabric ",
+        "can be designed in various styles and sizes"
+    ],
+    "chandelier": [
+        "suspended from the ceiling ",
+        "multiple branches or arms ",
+        "decorative light fixtures ",
+        "made from materials like glass, crystal, or metal ",
+        "intricate designs and patterns ",
+        "candle-like bulbs or electric lights ",
+        "reflective surfaces that catch and reflect light"
+    ],
+    "cougar body": [
+        "four-legged mammal ",
+        "tan, brown, or reddish-brown fur ",
+        "long tail, often with a black tip ",
+        "muscular build ",
+        "small rounded ears ",
+        "white fur on the belly and chest ",
+        "large paws with retractable claws"
+    ],
+    "cougar face": [
+        "Rounded ears with black markings on the back ",
+        "Large, round eyes, often with a yellow or green hue ",
+        "A prominent, dark nose ",
+        "Distinct black markings around the mouth and nose ",
+        "Short, tawny fur with a lighter underside ",
+        "Whiskers on the sides of the muzzle ",
+        "A broad, powerful jaw"
+    ],
+    "crab": [
+        "crustacean with a hard exoskeleton ",
+        "typically has a round or oval body shape ",
+        "flat and compact body ",
+        "claws or pincers on the front appendages ",
+        "stalked eyes ",
+        "various colors ranging from brown, red, blue or purple ",
+        "can be found in aquatic environments such as oceans or beaches ",
+        "may be seen buried in sand or hiding under rocks or seaweed"
+    ],
+    "crayfish": [
+        "aquatic crustacean ",
+        "dark brown, red, or green color ",
+        "elongated body ",
+        "pair of large claws ",
+        "hard exoskeleton ",
+        "jointed legs ",
+        "antenna-like appendages ",
+        "prominent eyes on stalks ",
+        "fan-shaped tail"
+    ],
+    "crocodile": [
+        "Four-legged reptile ",
+        "Rough, scaly skin ",
+        "Long, narrow snout ",
+        "Powerful jaw with sharp teeth ",
+        "Long, muscular tail ",
+        "Webbed feet for swimming ",
+        "Camouflage coloring, typically green, brown, or grey ",
+        "Eyes situated on the top of the head to see above water while submerged"
+    ],
+    "crocodile head": [
+        "long, narrow, V-shaped snout ",
+        "rough, scaly skin, often in shades of grey, green, or brown ",
+        "visible teeth even when the mouth is closed ",
+        "prominent eyes on top of the head ",
+        "small, visible ear openings behind the eyes ",
+        "nostrils at the tip of the snout"
+    ],
+    "cup": [
+        "cylindrical or rounded shape ",
+        "open top ",
+        "made from materials like ceramic, glass, plastic, or metal ",
+        "handle (optional, common in mugs) ",
+        "usually small enough to hold with one hand ",
+        "often found with liquid inside ",
+        "may have a saucer or coaster underneath ",
+        "various colors and designs on the surface  These features can help identify a cup in a photo by looking for these typical attributes."
+    ],
+    "dalmatian": [
+        "short-haired dog ",
+        "distinctive black or liver-colored spots on a white background ",
+        "muscular and symmetrical build ",
+        "long tail ",
+        "floppy ears ",
+        "alert and bright eyes"
+    ],
+    "dollar bill": [
+        "rectangular shape ",
+        "greenish color ",
+        "intricate designs and patterns ",
+        "portrait of a historical figure, typically a U.S. president ",
+        "numerical value printed on the corners ",
+        "the words \"United States of America\" and \"Federal Reserve Note\" ",
+        "security features such as watermarks and security threads ",
+        "a treasury seal ",
+        "a serial number"
+    ],
+    "dolphin": [
+        "streamlined, elongated body ",
+        "grey color ",
+        "smooth, hairless skin ",
+        "dorsal fin on the back ",
+        "flippers on the sides ",
+        "tail flukes for propulsion ",
+        "blowhole on top of the head for breathing ",
+        "often seen in water environments"
+    ],
+    "dragonfly": [
+        "elongated body ",
+        "two pairs of large, transparent wings with a network of veins ",
+        "large, multifaceted eyes ",
+        "short antennae ",
+        "thin, delicate legs ",
+        "vibrant colors, often metallic or iridescent ",
+        "the ability to hover and fly in various directions"
+    ],
+    "electric guitar": [
+        "wooden body with a solid or hollow construction ",
+        "six strings ",
+        "long neck with frets ",
+        "headstock with tuning pegs ",
+        "pickups, typically two or three ",
+        "control knobs and switches for volume and tone adjustment ",
+        "input jack for connecting to an amplifier ",
+        "distinctive body shapes such as Stratocaster, Les Paul, or Telecaster"
+    ],
+    "elephant": [
+        "large body size ",
+        "long trunk ",
+        "large ears ",
+        "tusks ",
+        "grey skin ",
+        "thick legs ",
+        "a tail with a tuft at the end"
+    ],
+    "emu": [
+        "large, flightless bird ",
+        "long neck and legs ",
+        "brownish-grey feathers ",
+        "small wings ",
+        "soft feathers on body ",
+        "large, strong legs adapted for running ",
+        "large, beady eyes ",
+        "sharp beak"
+    ],
+    "euphonium": [
+        "brass instrument ",
+        "conical bore shape ",
+        "three or four valves ",
+        "large bell facing upwards ",
+        "tubing that wraps around ",
+        "smooth, shiny surface, usually in brass or silver color ",
+        "coiled tubular design with curves"
+    ],
+    "ewer": [
+        "A large, often ornate pitcher or jug ",
+        "A handle, typically on one side ",
+        "A spout, usually elongated and curved ",
+        "A wide, often decorated body ",
+        "Material can be metal, ceramic, or glass ",
+        "May have decorative patterns or engravings ",
+        "Sometimes a lid or stopper"
+    ],
+    "ferry": [
+        "a large boat or vessel ",
+        "multiple decks for passengers and vehicles ",
+        "a flat or open deck for loading and unloading ",
+        "a bridge or control room for navigation ",
+        "lifeboats or life rafts attached to the sides ",
+        "a ramp or a loading gate for vehicle entry ",
+        "smokestack or exhaust pipes ",
+        "typically marked with the company logo or name"
+    ],
+    "flamingo": [
+        "long, thin legs ",
+        "vibrant pink or red feathers ",
+        "long, curved neck ",
+        "large, downward-curving beak ",
+        "webbed feet  ",
+        "often seen standing on one leg in water environments ",
+        "may be seen in flocks"
+    ],
+    "flamingo head": [
+        "long, curved neck ",
+        "pink or reddish plumage ",
+        "distinctive downward-bent beak, often black-tipped ",
+        "small, rounded head ",
+        "large, expressive eyes ",
+        "slender, graceful appearance"
+    ],
+    "garfield": [
+        "orange or brown tabby fur coloration with black stripes ",
+        "plump body ",
+        "rounded head with a flat nose ",
+        "big, round eyes ",
+        "short fluffy tail ",
+        "typically depicted eating, sleeping or being sarcastic in demeanor"
+    ],
+    "gerenuk": [
+        "long, slender neck ",
+        "large eyes and ears ",
+        "slender body ",
+        "long, thin legs ",
+        "brown or reddish-brown coat ",
+        "white fur on the belly and inner legs ",
+        "distinctive S-shaped horns on males ",
+        "ability to stand on hind legs to reach high vegetation"
+    ],
+    "gramophone": [
+        "mechanical device ",
+        "large horn, typically metal or brass ",
+        "wooden base or box-shaped body ",
+        "turntable or record player  ",
+        "crank handle ",
+        "soundbox or tonearm attached to the horn ",
+        "typically an antique or vintage appearance"
+    ],
+    "grand piano": [
+        "large, horizontal, glossy body ",
+        "black or wood finish ",
+        "curved shape on one side and straight on the other ",
+        "a keyboard with black and white keys ",
+        "three legs supporting the body ",
+        "music stand to hold sheet music ",
+        "three foot pedals at the base"
+    ],
+    "hawksbill": [
+        "Reptilian body ",
+        "Olive to brown color with streaks of amber or yellow ",
+        "Elongated and tapered head ",
+        "Pointed beak-like mouth ",
+        "Flippers with two claws ",
+        "Overlapping scutes (plates) on the shell with a serrated edge on the rear ",
+        "Radiating pattern on the scutes"
+    ],
+    "headphone": [
+        "electronic audio device ",
+        "typically black, white, or other colors ",
+        "consists of two ear cups or ear buds ",
+        "connected by a headband or wire ",
+        "ear cups usually have padding ",
+        "a cable or wireless components (Bluetooth, etc.) ",
+        "often has a microphone attached or integrated ",
+        "brand logos or markings"
+    ],
+    "hedgehog": [
+        "small mammal ",
+        "round body shape ",
+        "covered with spines or quills ",
+        "short legs ",
+        "pointy face with a small nose ",
+        "prominent eyes ",
+        "may be rolled into a ball for protection"
+    ],
+    "helicopter": [
+        "Rotors on top for vertical lift ",
+        "Tail rotor to counteract the torque from the main rotor ",
+        "Sleek, aerodynamic body ",
+        "Landing skids or wheels ",
+        "Cockpit with windscreens ",
+        "Engine exhaust ",
+        "Markings or logos that may indicate ownership or purpose (e.g., emergency medical services, military)"
+    ],
+    "ibis": [
+        "long, thin, downward-curved beak ",
+        "long neck ",
+        "white, black, or reddish brown plumage ",
+        "long legs ",
+        "slender body ",
+        "often seen near water or wetlands ",
+        "may have bare or featherless head"
+    ],
+    "inline skate": [
+        "Boot-like structure ",
+        "Wheels aligned in a straight line on the bottom of the boot ",
+        "Buckles or laces for securing the skate to the foot ",
+        "Usually made of hard plastic or composite materials ",
+        "May have a brake at the rear  ",
+        "Various colors and designs depending on the brand and model"
+    ],
+    "joshua tree": [
+        "unique, twisted, and spiky branches ",
+        "clusters of spiky, evergreen leaves ",
+        "tall and upright trunk ",
+        "rough, fibrous bark ",
+        "creamy white or greenish flowers that bloom in clusters ",
+        "fruits that are green or brown and cylindrical in shape ",
+        "typically found in desert landscapes with rocky or sandy soil and clear blue skies"
+    ],
+    "kangaroo": [
+        "large, strong hind legs ",
+        "long, thick tail ",
+        "small head with large ears ",
+        "standing upright ",
+        "short front limbs ",
+        "furry body ",
+        "usually brown or grey in color ",
+        "hopping movement"
+    ],
+    "ketch": [
+        "two masts with the larger mainmast forward and the smaller mizzenmast aft ",
+        "triangular sails, although some may have additional sails ",
+        "a long keel below the hull for stability ",
+        "a cabin or cockpit area for crew and passengers ",
+        "a rudder and steering wheel for navigation ",
+        "hull can be made of wood, fiberglass, or metal ",
+        "may have a bowsprit, a spar extending forward from the bow"
+    ],
+    "lamp": [
+        "Light source, such as a bulb or LED ",
+        "Base or stand to support the lamp ",
+        "Shade or cover to diffuse the light ",
+        "Power cord or switch ",
+        "Often has a slender, elongated structure ",
+        "Can be table-top, floor-standing, or wall-mounted"
+    ],
+    "laptop": [
+        "portable electronic device ",
+        "thin, rectangular form ",
+        "hinged screen ",
+        "keyboard and touchpad below the screen ",
+        "matte or glossy finish ",
+        "various colors, but often black, silver or grey ",
+        "power cord and multiple ports for connectivity ",
+        "a webcam located above the screen ",
+        "small speakers usually located on the sides or bottom"
+    ],
+    "llama": [
+        "long neck ",
+        "thick, woolly fur ",
+        "banana-shaped ears ",
+        "a long face with a slightly curved nose ",
+        "usually found in herds or farms ",
+        "range of colors including white, brown, black, and spotted ",
+        "hooved feet ",
+        "often with a halter or lead if domesticated"
+    ],
+    "lobster": [
+        "Hard exoskeleton ",
+        "Red, orange, brown, or greenish coloration ",
+        "Long, segmented body ",
+        "Prominent claws (chelae) of different sizes ",
+        "Antennae and smaller antennae (antennules) ",
+        "Multiple pairs of legs (typically five pairs) ",
+        "Tail that fans out into flat segments (telson and uropods) ",
+        "Compound eyes on movable stalks"
+    ],
+    "lotus": [
+        "aquatic plant ",
+        "large, circular leaves with a central notch ",
+        "floating or slightly elevated leaves above water ",
+        "large, colorful flowers, usually pink or white but can be other colors ",
+        "flowers have a distinctive seed pod in the center ",
+        "roots anchored in the mud of a pond or river bottom"
+    ],
+    "mandolin": [
+        "small, pear-shaped body ",
+        "double strings (usually 8 strings organized in 4 courses) ",
+        "a flat or arch-top soundboard with f-holes or round soundhole ",
+        "a fretted neck ",
+        "a headstock with tuning pegs ",
+        "a bridge and tailpiece  ",
+        "a pickguard (in some models)"
+    ],
+    "mayfly": [
+        "two pairs of transparent wings ",
+        "elongated body ",
+        "three tails (or two, depending on the species) ",
+        "large compound eyes ",
+        "short antenna ",
+        "aquatic or near-water environments (mayflies are often found near water sources)"
+    ],
+    "menorah": [
+        "candelabrum shape ",
+        "typically has seven or nine branches ",
+        "traditionally made of metal (silver, gold, brass, or bronze) ",
+        "candle holders or oil lamps at the end of each branch ",
+        "often designed with intricate details or symbols, such as the Star of David ",
+        "may feature a central stem which is distinctively taller or shorter than the other branches"
+    ],
+    "metronome": [
+        "triangular or pyramidal shape ",
+        "adjustable arm or pendulum swinging from side to side ",
+        "a knob or dial to adjust tempo ",
+        "often made of wood or plastic ",
+        "may have a scale indicating beats per minute (BPM) ",
+        "can be traditional mechanical or digital with an electronic display"
+    ],
+    "minaret": [
+        "tall and slender tower ",
+        "typically part of a mosque ",
+        "circular, square, or octagonal in shape ",
+        "often has a balcony or platform near the top ",
+        "capped with a dome or pointed spire ",
+        "decorative architectural features such as arches, carvings, or tile work ",
+        "may have loudspeakers for the call to prayer"
+    ],
+    "nautilus": [
+        "spiral shell with chambers ",
+        "tentacles ",
+        "soft body ",
+        "siphon tube for jet propulsion ",
+        "buoyancy control using gas in the shell chambers ",
+        "eyes without lenses ",
+        "generally found in marine environments"
+    ],
+    "octopus": [
+        "Eight long arms ",
+        "Soft, bulbous body ",
+        "Suckers on the undersides of the arms ",
+        "Large, prominent eyes ",
+        "Beak-like mouth ",
+        "Ability to change color and texture for camouflage ",
+        "Can often be found in aquatic environments"
+    ],
+    "okapi": [
+        "four-legged mammal ",
+        "striking zebra-like stripes on the legs and rump ",
+        "a body covered in velvety, reddish-brown fur ",
+        "long neck ",
+        "large ears ",
+        "white markings on the face ",
+        "cloven hooves ",
+        "a long, black tongue used for grasping leaves"
+    ],
+    "pagoda": [
+        "architectural structure ",
+        "tiered tower with multiple eaves ",
+        "typically made of wood or stone ",
+        "often decorated with carvings, figurines, and ornaments ",
+        "commonly found in East Asian countries  ",
+        "usually situated in religious or cultural sites ",
+        "surrounded by gardens or natural landscapes"
+    ],
+    "panda": [
+        "large, round body ",
+        "distinctive black-and-white fur pattern ",
+        "black patches around the eyes ",
+        "black ears ",
+        "black legs and shoulders ",
+        "a large, round head ",
+        "short tail ",
+        "generally appears in natural environments such as bamboo forests"
+    ],
+    "pigeon": [
+        "Feathers ",
+        "Beak ",
+        "Wings ",
+        "Tail ",
+        "Short legs with webbed feet ",
+        "Rounded body shape with grey, white or black coloring ",
+        "Head bobbing movement often visible in sequences of images"
+    ],
+    "pizza": [
+        "round or sometimes square shape ",
+        "flat base made of dough ",
+        "covered with tomato sauce ",
+        "topped with cheese and various other ingredients ",
+        "often has a golden-brown crust ",
+        "visible slices or cuts"
+    ],
+    "platypus": [
+        "semi-aquatic mammal ",
+        "dark brown, dense, waterproof fur ",
+        "duck-like bill ",
+        "webbed feet ",
+        "a flat tail resembling a beaver's ",
+        "small eyes and ears ",
+        "can be seen swimming or waddling on land"
+    ],
+    "pyramid": [
+        "large, geometric shape with triangular sides ",
+        "made of stone or similar materials ",
+        "situated in a desert or arid landscape ",
+        "symmetrical and tapering towards the top ",
+        "historical and ancient appearance ",
+        "possibly surrounded by artifacts, ruins, or other similar structures"
+    ],
+    "revolver": [
+        "metal body ",
+        "cylindrical chamber ",
+        "barrel ",
+        "handle or grip ",
+        "trigger ",
+        "hammer ",
+        "usually black or silver in color ",
+        "may have a sight at the top of the barrel"
+    ],
+    "rhino": [
+        "large, bulky body ",
+        "thick, grey or brown skin with folds and bumps ",
+        "one or two horns on the snout ",
+        "large head with a broad, square or pointed lip ",
+        "short legs with thick, sturdy feet ",
+        "small eyes and ears ",
+        "sparse body hair"
+    ],
+    "rooster": [
+        "prominent comb and wattles  ",
+        "bright, vibrant plumage  ",
+        "long, flowing tail feathers  ",
+        "strong, curved beak  ",
+        "feathered legs  ",
+        "spurs on the back of their legs"
+    ],
+    "saxophone": [
+        "a brass or gold finish ",
+        "a curved body with a flared bell ",
+        "numerous keys and buttons ",
+        "a mouthpiece with a single reed ",
+        "a neck strap or support for holding ",
+        "sometimes attached to a music stand or in the hands of a musician"
+    ],
+    "schooner": [
+        "two or more masts with sails ",
+        "usually wooden or metal hull ",
+        "bowsprit (a spar extending forward from the bow) ",
+        "multiple sails, sometimes including a gaff sail ",
+        "a deck with rigging, lines, and sometimes winches ",
+        "a curved, streamlined shape to cut through water ",
+        "sometimes a raised poop deck at the stern"
+    ],
+    "scissors": [
+        "two blades connected at a central pivot point ",
+        "handles with finger holes ",
+        "made of metal or plastic ",
+        "sharp cutting edges ",
+        "symmetrical or asymmetrical blade design ",
+        "various sizes and shapes depending on usage"
+    ],
+    "scorpion": [
+        "segmented body with an elongated tail ",
+        "stinger at the end of the tail ",
+        "curved pincers ",
+        "eight legs ",
+        "exoskeleton ",
+        "commonly a brown or black color ",
+        "glowing under ultraviolet light"
+    ],
+    "sea horse": [
+        "horse-like head with elongated snout ",
+        "S-shaped body ",
+        "bony plates covering the body ",
+        "prehensile tail ",
+        "small dorsal fins and pectoral fins ",
+        "camouflage coloring, which may include shades of brown, green, yellow or grey to blend in with seaweed or coral ",
+        "may have skin filaments resembling algae or seaweed for additional camouflage ",
+        "upright swimming position"
+    ],
+    "snoopy": [
+        "Cartoon character from the Peanuts comic strip ",
+        "Black and white beagle dog ",
+        "Large floppy ears ",
+        "Black spot on his back ",
+        "Round head with a large black nose ",
+        "Short tail ",
+        "Often depicted wearing a red collar ",
+        "Known for lying on top of his doghouse or leaning on his elbow while thinking."
+    ],
+    "soccer ball": [
+        "spherical shape ",
+        "black and white panel pattern (typically pentagons and hexagons) ",
+        "made of synthetic leather or other similar materials ",
+        "size ranging from approximately 8 to 9 inches in diameter ",
+        "may be branded with logos or other markings"
+    ],
+    "stapler": [
+        "small, handheld device ",
+        "usually made of metal or plastic ",
+        "predominantly black, but can come in various colors ",
+        "anvil-shaped lower part ",
+        "upper part with a handle  ",
+        "hinge connecting the upper and lower parts ",
+        "slot for inserting staples  ",
+        "visible staples or staple magazine"
+    ],
+    "starfish": [
+        "5 or more arms arranged in a radial symmetry ",
+        "central disk from which the arms radiate ",
+        "bumpy, spiny, or rough texture on the surface ",
+        "variety of colors including red, orange, yellow, and purple ",
+        "suction cups or tube feet on the underside of arms for movement ",
+        "often found near or on seabeds, rocks, or coral reefs"
+    ],
+    "stegosaurus": [
+        "large, herbivorous dinosaur ",
+        "double row of distinctive, upright plates along its back ",
+        "small head with a beak-like mouth ",
+        "spiked tail for defense ",
+        "four-legged with stout legs ",
+        "squat, robust body shape"
+    ],
+    "stop sign": [
+        "Octagonal shape ",
+        "Red color ",
+        "White border ",
+        "White uppercase letters spelling \"STOP\" ",
+        "Mounted on a pole or post ",
+        "Often found at intersections or pedestrian crossings"
+    ],
+    "strawberry": [
+        "small, heart-shaped fruit ",
+        "bright red color ",
+        "small yellow seeds covering the surface ",
+        "green leafy cap on top ",
+        "shiny, juicy texture ",
+        "plump and rounded appearance"
+    ],
+    "sunflower": [
+        "large, bright yellow petals surrounding a central dark brown or black disk ",
+        "tall, green stem ",
+        "large, broad green leaves ",
+        "typically grows upright ",
+        "often found in fields or gardens ",
+        "can have multiple heads on a single plant ",
+        "the central disk contains numerous small florets that eventually turn into seeds"
+    ],
+    "tick": [
+        "small, oval or round body ",
+        "eight legs (as they are arachnids) ",
+        "dark brown or black color ",
+        "hard or leathery skin texture ",
+        "a small head ",
+        "a pointed mouthpart for feeding on blood"
+    ],
+    "trilobite": [
+        "a hard exoskeleton ",
+        "a distinct head (cephalon), thorax, and tail (pygidium) divided into segments ",
+        "compound eyes ",
+        "antennae ",
+        "ribbed surface texture ",
+        "often fossilized, appearing in a stone or sediment matrix ",
+        "varies in size, usually small to medium ",
+        "can appear in shades of brown, grey, or black, due to mineralization"
+    ],
+    "umbrella": [
+        "collapsible canopy ",
+        "made of waterproof or water-resistant material ",
+        "usually a dome shape when open ",
+        "comes in various colors and patterns ",
+        "central pole or shaft made of metal, plastic, or wood ",
+        "handle at the bottom of the shaft ",
+        "spokes or ribs supporting the canopy ",
+        "mechanism to open and close the canopy, usually a sliding catch or button"
+    ],
+    "watch": [
+        "small, circular or square shape ",
+        "metal, leather, or rubber band ",
+        "clock face with hour, minute, and sometimes second hands ",
+        "numbers or markings to indicate time ",
+        "a crown or knob on the side for setting the time ",
+        "a clasp or buckle to secure it on the wrist ",
+        "sometimes additional features like a date display or chronograph subdials"
+    ],
+    "water lilly": [
+        "large, flat, round leaves (lily pads) that float on the water surface ",
+        "fragrant and colorful flowers, often white, pink, yellow or purple ",
+        "flowers typically have multiple petals and a prominent central pistil ",
+        "roots that anchor the plant in the muddy bottom of a pond or lake"
+    ],
+    "wheelchair": [
+        "a seat with back support ",
+        "footrests ",
+        "four wheels (two large rear wheels and two smaller front wheels) ",
+        "metal frame ",
+        "handles at the back for an attendant to push ",
+        "possibly armrests ",
+        "brakes on the wheels or handles"
+    ],
+    "wild cat": [
+        "Four-limbed and furry ",
+        "Often spotted or striped fur ",
+        "Sharp, retractable claws ",
+        "Pointed ears ",
+        "Long tail ",
+        "Whiskers ",
+        "Cat-like face with round pupils"
+    ],
+    "windsor chair": [
+        "Curved wooden backrest ",
+        "Spindles connecting the seat to the backrest ",
+        "Rounded wooden seat ",
+        "Splayed wooden legs ",
+        "Distinctive armrests (if it is an armchair version) ",
+        "Traditional craftsmanship details in the joinery"
+    ],
+    "wrench": [
+        "constructed of metal, often steel ",
+        "elongated, slim handle ",
+        "adjustable or fixed jaw at one end ",
+        "U-shaped or C-shaped open-ended or boxed end ",
+        "may have a ratchet mechanism for turning bolts or nuts ",
+        "surface finish could be polished or matte"
+    ],
+    "yin yang": [
+        "Circular symbol ",
+        "Comprised of two interlocking sections, one black and one white ",
+        "Each section contains a dot of the opposite color ",
+        "Smooth curved line separating the two sections ",
+        "Represents balance and duality in Chinese philosophy"
+    ]
+}

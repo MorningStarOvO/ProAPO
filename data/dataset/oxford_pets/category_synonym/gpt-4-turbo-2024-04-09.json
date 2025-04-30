@@ -1,0 +1,192 @@
+{
+    "abyssinian": [
+        "abyssinian",
+        "abyssinian cat",
+        "ethiopian cat"
+    ],
+    "american bulldog": [
+        "american bulldog",
+        "bulldog",
+        "american bully"
+    ],
+    "american pit bull terrier": [
+        "american pit bull terrier",
+        "pit bull terrier",
+        "apbt"
+    ],
+    "basset hound": [
+        "basset hound",
+        "basset",
+        "hush puppy"
+    ],
+    "beagle": [
+        "beagle",
+        "english beagle"
+    ],
+    "bengal": [
+        "bengal",
+        "bengal cat"
+    ],
+    "birman": [
+        "birman",
+        "sacred birman",
+        "birman cat"
+    ],
+    "bombay": [
+        "bombay",
+        "bombay cat"
+    ],
+    "boxer": [
+        "boxer",
+        "german boxer",
+        "deutscher boxer"
+    ],
+    "british shorthair": [
+        "british shorthair",
+        "british blue",
+        "british domestic cat"
+    ],
+    "chihuahua": [
+        "chihuahua",
+        "chi",
+        "teacup chihuahua"
+    ],
+    "egyptian mau": [
+        "egyptian mau",
+        "egyptian cat"
+    ],
+    "english cocker spaniel": [
+        "english cocker spaniel",
+        "cocker spaniel",
+        "cocker",
+        "merry cocker"
+    ],
+    "english setter": [
+        "english setter",
+        "laverack setter",
+        "llewellin setter"
+    ],
+    "german shorthaired": [
+        "german shorthaired pointer",
+        "gsp",
+        "german pointer",
+        "kurzhaar",
+        "german shorthaired"
+    ],
+    "great pyrenees": [
+        "great pyrenees",
+        "pyrenean mountain dog"
+    ],
+    "havanese": [
+        "havanese",
+        "havana silk dog",
+        "bichon havanais"
+    ],
+    "japanese chin": [
+        "japanese chin",
+        "japanese spaniel"
+    ],
+    "keeshond": [
+        "keeshond",
+        "dutch barge dog",
+        "wolfspitz"
+    ],
+    "leonberger": [
+        "leonberger",
+        "leonberg",
+        "leo"
+    ],
+    "maine coon": [
+        "maine coon",
+        "maine shag",
+        "american longhair",
+        "american coon cat"
+    ],
+    "miniature pinscher": [
+        "miniature pinscher",
+        "min pin",
+        "zwergpinscher"
+    ],
+    "newfoundland": [
+        "newfoundland",
+        "newfoundland dog",
+        "newf",
+        "newfie"
+    ],
+    "persian": [
+        "persian",
+        "persian cat",
+        "longhair",
+        "persian longhair"
+    ],
+    "pomeranian": [
+        "pomeranian",
+        "pom",
+        "dwarf spitz",
+        "toy spitz"
+    ],
+    "pug": [
+        "pug",
+        "chinese pug",
+        "dutch bulldog"
+    ],
+    "ragdoll": [
+        "ragdoll",
+        "ragdoll cat"
+    ],
+    "russian blue": [
+        "russian blue",
+        "archangel blue",
+        "maltese cat"
+    ],
+    "saint bernard": [
+        "saint bernard",
+        "st. bernard",
+        "alpine mastiff"
+    ],
+    "samoyed": [
+        "samoyed",
+        "bjelkier",
+        "samoiedskaia sabaka",
+        "smiley",
+        "sammy"
+    ],
+    "scottish terrier": [
+        "scottish terrier",
+        "scottie",
+        "aberdeen terrier"
+    ],
+    "shiba inu": [
+        "shiba inu",
+        "shiba",
+        "japanese shiba inu",
+        "japanese small size dog"
+    ],
+    "siamese": [
+        "siamese",
+        "siamese cat",
+        "thai cat"
+    ],
+    "sphynx": [
+        "sphynx",
+        "sphynx cat",
+        "hairless cat"
+    ],
+    "staffordshire bull terrier": [
+        "staffordshire bull terrier",
+        "staffy",
+        "staffie",
+        "stafford",
+        "sbt"
+    ],
+    "wheaten terrier": [
+        "wheaten terrier",
+        "soft coated wheaten terrier",
+        "irish soft coated wheaten terrier"
+    ],
+    "yorkshire terrier": [
+        "yorkshire terrier",
+        "yorkie",
+        "york"
+    ]
+}

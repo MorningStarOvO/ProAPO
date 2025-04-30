@@ -1,0 +1,93 @@
+{
+    "imagenet": [
+        "a close-up photo of a {}, a type of real scenario.",
+        "a photo of my real scenario: {}.",
+        "a bad photo of a {}.",
+        "a bad photo of the {}.",
+        "a good photo of a {}, a type of natural scene.",
+        "a photo of the small {}.",
+        "a real scenario of a nice {}.",
+        "a real scenario photo of a weird {}."
+    ],
+    "caltech101": [
+        "a cropped photo of a {}, a type of common items.",
+        "the embroidered {}, a type of common items.",
+        "a jpeg corrupted object photo of a {}.",
+        "a good photo of the {}, a type of common items.",
+        "a good photo of a {}, a type of common items."
+    ],
+    "stanford_cars": [
+        "a photo of many auto-mobile: {}.",
+        "a photo of one car: {}.",
+        "a photo of a nice car: {}.",
+        "a bad photo of a vehicles: {}.",
+        "a photo of a clean {}, a type of auto-mobile."
+    ],
+    "cub": [
+        "a photo of a nice wildlife: {}.",
+        "a photo of my ornithology: {}.",
+        "a photo of a nice ornithology: {}.",
+        "a rendition of the {}, a type of wildlife."
+    ],
+    "dtd": [
+        "itap of my material: {}.",
+        "a textures of the {}.",
+        "a photo of one {}, a type of pattern."
+    ],
+    "euro_sat": [
+        "a photo of the weird centered satellite photo: {}.",
+        "a aerial or satellite images of one {}."
+    ],
+    "fgvc_aircraft": [
+        "a aircraft photo of a clean {}.",
+        "a good aircraft models of a {}.",
+        "a photo of a nice aircraft models: {}.",
+        "a good airliner of a {}.",
+        "a photo of many aircraft: {}."
+    ],
+    "flo": [
+        "a bloom of a nice {}.",
+        "a photo of the flower: {}.",
+        "a cropped photo of the bloom: {}.",
+        "a photo of a nice bloom: {}.",
+        "a plastic flower: {}."
+    ],
+    "food101": [
+        "a photo of the nice food: {}.",
+        "a food photo of the dirty {}.",
+        "a photo of the weird cuisine: {}.",
+        "a rendition of the cuisine: {}."
+    ],
+    "oxford_pets": [
+        "a bad photo of the pet: {}.",
+        "a pet photo of my {}.",
+        "a photo of my domestic animals: {}.",
+        "a photo of my {}, a type of pet.",
+        "a bad photo of a pet: {}."
+    ],
+    "places365": [
+        "a photo of the clean {}, a type of scene.",
+        "a photo of my place: {}.",
+        "a photo of a weird {}, a type of scene.",
+        "a rendering of a {}, a type of scene."
+    ],
+    "sun397": [
+        "itap of a {}, a type of scene.",
+        "itap of the {}, a type of scene.",
+        "a scene photo of a clean {}.",
+        "a low resolution photo of a {}.",
+        "a photo of a {}, a type of scene.",
+        "a photo of the clean {}, a type of scene.",
+        "a rendering of a {}, a type of scene."
+    ],
+    "ucf101": [
+        "a blurry human action photo of a {}.",
+        "a black and white human action of the {}.",
+        "a photo of the {}, a type of action.",
+        "a human action photo of a large {}.",
+        "a black and white photo of a person doing: {}.",
+        "a photo of the weird human action: {}.",
+        "a bad photo of the {}, a type of person doing.",
+        "a black and white photo of a human activities: {}."
+    ]
+}

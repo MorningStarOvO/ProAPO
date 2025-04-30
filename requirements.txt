@@ -1,0 +1,8 @@
+ftfy==6.3.1
+regex==2024.5.15
+tqdm==4.66.2
+einops==0.8.1
+faiss_cpu==1.8.0.post1
+numpy==2.2.5
+open_clip_torch==2.24.0
+Pillow==11.2.1

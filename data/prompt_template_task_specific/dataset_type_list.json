@@ -1,0 +1,19 @@
+{
+    "caltech101": ["object", "everyday objects", "common items"],
+    "cub": ["bird", "wildlife", "ornithology"], 
+    "dtd": ["textures", "patterns", "texture", "pattern", "surface", "material"],
+    "euro_sat": ["satellite photo", "land cover", "remote sensing", "satellite imagery", "centered satellite photo", "aerial or satellite images"],
+    "fgvc_aircraft": ["aircraft", "aircraft models", "airplane", "plane", "airliner"],
+    "flo": ["flower", "floral", "botanical", "bloom"],
+    "food101": ["food", "dishes", "cuisine", "nourishment"],
+    "imagenet": ["real scenario", "natural scene"],
+    "imagenet_a": ["real scenario"], 
+    "imagenet_r": ["real scenario"], 
+    "imagenet_s": ["sketch"],
+    "imagenet_v2": ["real scenario"],
+    "oxford_pets": ["pet", "domestic animals", "breed", "dog or cat"], 
+    "places365": ["place", "scene"],
+    "stanford_cars": ["car", "vehicles", "cars", "auto-mobile"], 
+    "sun397": ["scene", "place"],
+    "ucf101": ["human action", "action", "human activities", "person doing"]
+}

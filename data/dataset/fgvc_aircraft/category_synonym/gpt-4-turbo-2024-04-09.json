@@ -1,0 +1,467 @@
+{
+    "707-320": [
+        "707-320",
+        "boeing 707-320",
+        "boeing 707"
+    ],
+    "727-200": [
+        "727-200",
+        "boeing 727-200",
+        "boeing 727"
+    ],
+    "737-200": [
+        "737-200",
+        "boeing 737-200",
+        "boeing 737"
+    ],
+    "737-300": [
+        "737-300",
+        "boeing 737-300"
+    ],
+    "737-400": [
+        "737-400",
+        "boeing 737-400"
+    ],
+    "737-500": [
+        "737-500",
+        "boeing 737-500"
+    ],
+    "737-600": [
+        "737-600",
+        "boeing 737-600"
+    ],
+    "737-700": [
+        "737-700",
+        "boeing 737-700"
+    ],
+    "737-800": [
+        "737-800",
+        "boeing 737-800"
+    ],
+    "737-900": [
+        "737-900",
+        "boeing 737-900"
+    ],
+    "747-100": [
+        "747-100",
+        "boeing 747-100",
+        "boeing 747"
+    ],
+    "747-200": [
+        "747-200",
+        "boeing 747-200",
+        "boeing 747"
+    ],
+    "747-300": [
+        "747-300",
+        "boeing 747-300"
+    ],
+    "747-400": [
+        "747-400",
+        "boeing 747-400"
+    ],
+    "757-200": [
+        "757-200",
+        "boeing 757-200"
+    ],
+    "757-300": [
+        "757-300",
+        "boeing 757-300"
+    ],
+    "767-200": [
+        "767-200",
+        "boeing 767-200",
+        "boeing 767"
+    ],
+    "767-300": [
+        "767-300",
+        "boeing 767-300"
+    ],
+    "767-400": [
+        "767-400",
+        "boeing 767-400",
+        "boeing 767"
+    ],
+    "777-200": [
+        "777-200",
+        "boeing 777-200"
+    ],
+    "777-300": [
+        "777-300",
+        "boeing 777-300",
+        "boeing 777"
+    ],
+    "A300B4": [
+        "a300b4",
+        "airbus a300b4",
+        "airbus a300"
+    ],
+    "A310": [
+        "a310",
+        "airbus a310"
+    ],
+    "A318": [
+        "a318",
+        "airbus a318",
+        "airbus 318"
+    ],
+    "A319": [
+        "a319",
+        "airbus a319"
+    ],
+    "A320": [
+        "a320",
+        "airbus a320",
+        "a320-200"
+    ],
+    "A321": [
+        "a321",
+        "airbus a321"
+    ],
+    "A330-200": [
+        "a330-200",
+        "airbus a330-200"
+    ],
+    "A330-300": [
+        "a330-300",
+        "airbus a330-300",
+        "airbus 330"
+    ],
+    "A340-200": [
+        "a340-200",
+        "airbus a340-200",
+        "airbus a340"
+    ],
+    "A340-300": [
+        "a340-300",
+        "airbus a340-300"
+    ],
+    "A340-500": [
+        "a340-500",
+        "airbus a340-500"
+    ],
+    "A340-600": [
+        "a340-600",
+        "airbus a340-600"
+    ],
+    "A380": [
+        "a380",
+        "airbus a380",
+        "airbus a380-800"
+    ],
+    "ATR-42": [
+        "atr-42",
+        "atr 42"
+    ],
+    "ATR-72": [
+        "atr-72",
+        "atr 72"
+    ],
+    "An-12": [
+        "an-12",
+        "antonov an-12",
+        "cub (nato reporting name)"
+    ],
+    "BAE 146-200": [
+        "bae 146-200",
+        "british aerospace 146-200"
+    ],
+    "BAE 146-300": [
+        "bae 146-300",
+        "british aerospace 146-300"
+    ],
+    "BAE-125": [
+        "bae-125",
+        "british aerospace 125",
+        "hawker 800"
+    ],
+    "Beechcraft 1900": [
+        "beechcraft 1900",
+        "beech 1900"
+    ],
+    "Boeing 717": [
+        "boeing 717",
+        "b717",
+        "boeing 717-200"
+    ],
+    "C-130": [
+        "c-130",
+        "lockheed c-130 hercules",
+        "hercules"
+    ],
+    "C-47": [
+        "c-47",
+        "douglas c-47",
+        "skytrain",
+        "dc-3 military version"
+    ],
+    "CRJ-200": [
+        "crj-200",
+        "bombardier crj-200",
+        "canadair regional jet 200"
+    ],
+    "CRJ-700": [
+        "crj-700",
+        "bombardier crj-700",
+        "canadair regional jet 700"
+    ],
+    "CRJ-900": [
+        "crj-900",
+        "bombardier crj-900",
+        "canadair regional jet 900"
+    ],
+    "Cessna 172": [
+        "cessna 172",
+        "c172",
+        "skyhawk"
+    ],
+    "Cessna 208": [
+        "cessna 208",
+        "cessna caravan",
+        "caravan 208"
+    ],
+    "Cessna 525": [
+        "cessna 525",
+        "citationjet",
+        "cj1"
+    ],
+    "Cessna 560": [
+        "cessna 560",
+        "citation v"
+    ],
+    "Challenger 600": [
+        "challenger 600",
+        "bombardier challenger 600",
+        "cl-600"
+    ],
+    "DC-10": [
+        "dc-10",
+        "mcdonnell douglas dc-10"
+    ],
+    "DC-3": [
+        "dc-3",
+        "douglas dc-3",
+        "c-47 (military version)",
+        "dakota (raf designation)",
+        "skytrain (usaaf designation)"
+    ],
+    "DC-6": [
+        "dc-6",
+        "douglas dc-6"
+    ],
+    "DC-8": [
+        "dc-8",
+        "douglas dc-8"
+    ],
+    "DC-9-30": [
+        "dc-9-30",
+        "mcdonnell douglas dc-9-30",
+        "dc-9"
+    ],
+    "DH-82": [
+        "dh-82",
+        "de havilland dh-82",
+        "tiger moth"
+    ],
+    "DHC-1": [
+        "dhc-1",
+        "de havilland canada dhc-1",
+        "chipmunk"
+    ],
+    "DHC-6": [
+        "dhc-6",
+        "twin otter",
+        "de havilland canada dhc-6"
+    ],
+    "DHC-8-100": [
+        "dhc-8-100",
+        "dash 8-100",
+        "bombardier dash 8-100",
+        "de havilland canada dash 8-100"
+    ],
+    "DHC-8-300": [
+        "dhc-8-300",
+        "dash 8-300",
+        "bombardier dash 8-300",
+        "q300"
+    ],
+    "DR-400": [
+        "dr-400",
+        "robin dr-400",
+        "dr400",
+        "robin dr400"
+    ],
+    "Dornier 328": [
+        "dornier 328",
+        "do 328"
+    ],
+    "E-170": [
+        "e-170",
+        "embraer 170",
+        "embraer e-170"
+    ],
+    "E-190": [
+        "e-190",
+        "embraer 190",
+        "embraer e-190"
+    ],
+    "E-195": [
+        "e-195",
+        "embraer 195",
+        "embraer e-195"
+    ],
+    "EMB-120": [
+        "emb-120",
+        "embraer emb-120",
+        "brasilia",
+        "embraer brasilia"
+    ],
+    "ERJ 135": [
+        "erj 135",
+        "embraer erj 135",
+        "embraer 135"
+    ],
+    "ERJ 145": [
+        "erj 145",
+        "embraer erj 145",
+        "embraer 145"
+    ],
+    "Embraer Legacy 600": [
+        "embraer legacy 600",
+        "legacy 600"
+    ],
+    "Eurofighter Typhoon": [
+        "eurofighter typhoon",
+        "typhoon"
+    ],
+    "F-16A/B": [
+        "f-16a/b",
+        "f-16 fighting falcon a/b",
+        "fighting falcon a/b"
+    ],
+    "F/A-18": [
+        "f/a-18",
+        "f/a-18 hornet",
+        "mcdonnell douglas f/a-18",
+        "boeing f/a-18"
+    ],
+    "Falcon 2000": [
+        "falcon 2000",
+        "dassault falcon 2000"
+    ],
+    "Falcon 900": [
+        "falcon 900",
+        "dassault falcon 900"
+    ],
+    "Fokker 100": [
+        "fokker 100",
+        "f-100"
+    ],
+    "Fokker 50": [
+        "fokker 50",
+        "f50"
+    ],
+    "Fokker 70": [
+        "fokker 70",
+        "f70"
+    ],
+    "Global Express": [
+        "global express",
+        "bombardier global express",
+        "bombardier bd-700 global express"
+    ],
+    "Gulfstream IV": [
+        "gulfstream iv",
+        "g-iv",
+        "giv"
+    ],
+    "Gulfstream V": [
+        "gulfstream v",
+        "g-v",
+        "gulfstream g500"
+    ],
+    "Hawk T1": [
+        "hawk t1",
+        "bae systems hawk t1",
+        "bae hawk t1"
+    ],
+    "Il-76": [
+        "il-76",
+        "ilyushin il-76",
+        "candid (nato reporting name)"
+    ],
+    "L-1011": [
+        "l-1011",
+        "lockheed l-1011",
+        "tristar",
+        "lockheed l-1011 tristar"
+    ],
+    "MD-11": [
+        "md-11",
+        "mcdonnell douglas md-11"
+    ],
+    "MD-80": [
+        "md-80",
+        "mcdonnell douglas md-80",
+        "dc-9 super 80",
+        "super 80"
+    ],
+    "MD-87": [
+        "md-87",
+        "mcdonnell douglas md-87"
+    ],
+    "MD-90": [
+        "md-90",
+        "mcdonnell douglas md-90"
+    ],
+    "Metroliner": [
+        "metroliner",
+        "fairchild metroliner",
+        "swearingen metroliner"
+    ],
+    "Model B200": [
+        "model b200",
+        "beechcraft king air b200",
+        "king air b200"
+    ],
+    "PA-28": [
+        "pa-28",
+        "piper pa-28",
+        "piper cherokee"
+    ],
+    "SR-20": [
+        "sr-20",
+        "cirrus sr-20",
+        "cirrus"
+    ],
+    "Saab 2000": [
+        "saab 2000"
+    ],
+    "Saab 340": [
+        "saab 340",
+        "saab 340b",
+        "saab sf340"
+    ],
+    "Spitfire": [
+        "spitfire",
+        "supermarine spitfire"
+    ],
+    "Tornado": [
+        "tornado",
+        "panavia tornado",
+        "multirole aircraft"
+    ],
+    "Tu-134": [
+        "tu-134",
+        "tupolev tu-134",
+        "tupolev 134"
+    ],
+    "Tu-154": [
+        "tu-154",
+        "tupolev tu-154"
+    ],
+    "Yak-42": [
+        "yak-42",
+        "yakovlev yak-42"
+    ]
+}

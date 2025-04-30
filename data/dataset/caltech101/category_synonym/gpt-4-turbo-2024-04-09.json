@@ -1,0 +1,477 @@
+{
+    "face": [
+        "face",
+        "visage"
+    ],
+    "leopard": [
+        "leopard",
+        "panthera pardus"
+    ],
+    "motorbike": [
+        "motorbike",
+        "motorcycle",
+        "bike",
+        "cycle"
+    ],
+    "accordion": [
+        "accordion",
+        "squeezebox"
+    ],
+    "airplane": [
+        "airplane",
+        "aircraft",
+        "plane",
+        "aeroplane"
+    ],
+    "anchor": [
+        "anchor",
+        "mooring",
+        "grapnel"
+    ],
+    "ant": [
+        "ant",
+        "formicid"
+    ],
+    "barrel": [
+        "barrel",
+        "cask",
+        "drum",
+        "keg"
+    ],
+    "bass": [
+        "bass",
+        "bass guitar",
+        "electric bass"
+    ],
+    "beaver": [
+        "beaver",
+        "castor"
+    ],
+    "binocular": [
+        "binoculars",
+        "field glasses",
+        "binocular"
+    ],
+    "bonsai": [
+        "bonsai",
+        "miniature tree",
+        "potted plant"
+    ],
+    "brain": [
+        "brain",
+        "cerebrum",
+        "encephalon"
+    ],
+    "brontosaurus": [
+        "brontosaurus",
+        "apatosaurus"
+    ],
+    "buddha": [
+        "buddha",
+        "the enlightened one",
+        "the awakened one",
+        "tathagata"
+    ],
+    "butterfly": [
+        "butterfly",
+        "lepidopteran"
+    ],
+    "camera": [
+        "camera",
+        "photographic camera"
+    ],
+    "cannon": [
+        "cannon",
+        "artillery",
+        "gun",
+        "ordnance"
+    ],
+    "car side": [
+        "car side",
+        "flank",
+        "side panel"
+    ],
+    "ceiling fan": [
+        "ceiling fan",
+        "overhead fan"
+    ],
+    "cellphone": [
+        "cellphone",
+        "mobile phone",
+        "smartphone",
+        "cell",
+        "mobile"
+    ],
+    "chair": [
+        "chair",
+        "seat",
+        "armchair",
+        "stool"
+    ],
+    "chandelier": [
+        "chandelier",
+        "pendant",
+        "candelabrum",
+        "light fixture"
+    ],
+    "cougar body": [
+        "cougar body",
+        "mountain lion or puma",
+        "puma concolor",
+        "mountain lion body",
+        "puma body"
+    ],
+    "cougar face": [
+        "cougar face",
+        "mountain lion face",
+        "puma face"
+    ],
+    "crab": [
+        "crab",
+        "crustacean"
+    ],
+    "crayfish": [
+        "crayfish",
+        "crawfish",
+        "crawdad"
+    ],
+    "crocodile": [
+        "crocodile",
+        "crocodylus"
+    ],
+    "crocodile head": [
+        "crocodile head",
+        "saurian head"
+    ],
+    "cup": [
+        "cup",
+        "mug",
+        "chalice",
+        "goblet"
+    ],
+    "dalmatian": [
+        "dalmatian",
+        "coach dog",
+        "carriage dog"
+    ],
+    "dollar bill": [
+        "dollar bill",
+        "banknote",
+        "bill",
+        "note",
+        "currency note"
+    ],
+    "dolphin": [
+        "dolphin",
+        "porpoise"
+    ],
+    "dragonfly": [
+        "dragonfly",
+        "odonate"
+    ],
+    "electric guitar": [
+        "electric guitar",
+        "solid-body guitar"
+    ],
+    "elephant": [
+        "elephant",
+        "pachyderm"
+    ],
+    "emu": [
+        "emu",
+        "dromaius novaehollandiae"
+    ],
+    "euphonium": [
+        "euphonium",
+        "baritone",
+        "tenor tuba"
+    ],
+    "ewer": [
+        "ewer",
+        "pitcher",
+        "jug"
+    ],
+    "ferry": [
+        "ferry",
+        "boat",
+        "vessel"
+    ],
+    "flamingo": [
+        "flamingo",
+        "phoenicopterus"
+    ],
+    "flamingo head": [
+        "flamingo head",
+        "head of flamingo"
+    ],
+    "garfield": [
+        "garfield",
+        "cartoon cat"
+    ],
+    "gerenuk": [
+        "gerenuk",
+        "waller's gazelle",
+        "litocranius walleri"
+    ],
+    "gramophone": [
+        "gramophone",
+        "phonograph",
+        "record player"
+    ],
+    "grand piano": [
+        "grand piano",
+        "concert grand",
+        "grand"
+    ],
+    "hawksbill": [
+        "hawksbill",
+        "hawksbill sea turtle",
+        "eretmochelys imbricata"
+    ],
+    "headphone": [
+        "headphone",
+        "earphone",
+        "headset"
+    ],
+    "hedgehog": [
+        "hedgehog",
+        "erinaceus"
+    ],
+    "helicopter": [
+        "helicopter",
+        "chopper",
+        "helo",
+        "whirlybird"
+    ],
+    "ibis": [
+        "ibis",
+        "threskiornithidae"
+    ],
+    "inline skate": [
+        "inline skate",
+        "rollerblade"
+    ],
+    "joshua tree": [
+        "joshua tree",
+        "yucca palm",
+        "tree yucca",
+        "palm tree yucca"
+    ],
+    "kangaroo": [
+        "kangaroo",
+        "joey (for a young kangaroo)",
+        "macropod"
+    ],
+    "ketch": [
+        "ketch",
+        "two-masted yacht",
+        "sailing ketch"
+    ],
+    "lamp": [
+        "lamp",
+        "light",
+        "lantern",
+        "luminaire"
+    ],
+    "laptop": [
+        "laptop",
+        "notebook"
+    ],
+    "llama": [
+        "llama",
+        "lama glama"
+    ],
+    "lobster": [
+        "lobster",
+        "crayfish",
+        "seafood"
+    ],
+    "lotus": [
+        "lotus",
+        "water lily",
+        "nelumbo"
+    ],
+    "mandolin": [
+        "mandolin",
+        "mandoline"
+    ],
+    "mayfly": [
+        "mayfly",
+        "shadfly",
+        "dayfly"
+    ],
+    "menorah": [
+        "menorah",
+        "hanukkah lamp",
+        "hanukkah menorah",
+        "candelabrum"
+    ],
+    "metronome": [
+        "metronome",
+        "timekeeper",
+        "rhythm keeper"
+    ],
+    "minaret": [
+        "minaret",
+        "tower",
+        "spire",
+        "turret"
+    ],
+    "nautilus": [
+        "nautilus",
+        "chambered nautilus",
+        "pearly nautilus"
+    ],
+    "octopus": [
+        "octopus",
+        "cephalopod"
+    ],
+    "okapi": [
+        "okapi",
+        "forest giraffe",
+        "zebra giraffe"
+    ],
+    "pagoda": [
+        "pagoda",
+        "stupa",
+        "temple"
+    ],
+    "panda": [
+        "panda",
+        "giant panda",
+        "ailuropoda melanoleuca"
+    ],
+    "pigeon": [
+        "pigeon",
+        "dove"
+    ],
+    "pizza": [
+        "pizza",
+        "pie"
+    ],
+    "platypus": [
+        "platypus",
+        "duck-billed platypus",
+        "ornithorhynchus anatinus"
+    ],
+    "pyramid": [
+        "pyramid",
+        "ziggurat"
+    ],
+    "revolver": [
+        "revolver",
+        "six-shooter",
+        "wheel gun"
+    ],
+    "rhino": [
+        "rhino",
+        "rhinoceros"
+    ],
+    "rooster": [
+        "rooster",
+        "cock",
+        "chanticleer"
+    ],
+    "saxophone": [
+        "saxophone",
+        "sax"
+    ],
+    "schooner": [
+        "schooner",
+        "sailboat"
+    ],
+    "scissors": [
+        "scissors",
+        "shears"
+    ],
+    "scorpion": [
+        "scorpion",
+        "arachnid"
+    ],
+    "sea horse": [
+        "sea horse",
+        "seahorse"
+    ],
+    "snoopy": [
+        "snoopy",
+        "nosy",
+        "prying",
+        "inquisitive"
+    ],
+    "soccer ball": [
+        "soccer ball",
+        "football"
+    ],
+    "stapler": [
+        "stapler",
+        "staple gun"
+    ],
+    "starfish": [
+        "starfish",
+        "sea star"
+    ],
+    "stegosaurus": [
+        "stegosaurus",
+        "stegosaurus armatus"
+    ],
+    "stop sign": [
+        "stop sign",
+        "traffic stop sign",
+        "road stop sign"
+    ],
+    "strawberry": [
+        "strawberry",
+        "fragaria"
+    ],
+    "sunflower": [
+        "sunflower",
+        "helianthus"
+    ],
+    "tick": [
+        "tick",
+        "check mark",
+        "check",
+        "tick mark"
+    ],
+    "trilobite": [
+        "trilobite",
+        "trilobita"
+    ],
+    "umbrella": [
+        "umbrella",
+        "parasol"
+    ],
+    "watch": [
+        "watch",
+        "timepiece",
+        "wristwatch",
+        "pocket watch"
+    ],
+    "water lilly": [
+        "water lily",
+        "nymphaea",
+        "water lilly"
+    ],
+    "wheelchair": [
+        "wheelchair",
+        "mobility chair"
+    ],
+    "wild cat": [
+        "wild cat",
+        "wildcat"
+    ],
+    "windsor chair": [
+        "windsor chair",
+        "stick-back chair",
+        "sack-back chair"
+    ],
+    "wrench": [
+        "wrench",
+        "spanner"
+    ],
+    "yin yang": [
+        "yin yang",
+        "yin and yang",
+        "yin-yang"
+    ]
+}

@@ -1,0 +1,15 @@
+agnostic:
+    score_inter_class_score_CE: 10.0
+    score_redundant_score_l2_norm: 0
+    score_top_1_rate: 0.05
+    score_top_5_rate: 0.01
+    num_max_prompt: 32
+
+specific:
+    score_inter_class_score_CE: 10.0
+    score_redundant_score_l2_norm: 0
+    score_top_1_rate: 5.0
+    score_top_5_rate: 8.0
+    description_sample_flag: True
+    num_max_search_group: 3 
+    epochs_outer: 1

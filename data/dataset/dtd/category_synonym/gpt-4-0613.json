@@ -1,0 +1,287 @@
+{
+    "banded": [
+        "banded",
+        "striped",
+        "lined"
+    ],
+    "blotchy": [
+        "blotchy",
+        "spotted",
+        "speckled",
+        "mottled",
+        "splotchy",
+        "patchy"
+    ],
+    "braided": [
+        "braided",
+        "plaited",
+        "intertwined"
+    ],
+    "bubbly": [
+        "bubbly",
+        "frothy",
+        "effervescent",
+        "fizzy"
+    ],
+    "bumpy": [
+        "bumpy",
+        "uneven",
+        "rough",
+        "knobbly"
+    ],
+    "chequered": [
+        "chequered",
+        "checkered",
+        "patterned"
+    ],
+    "cobwebbed": [
+        "cobwebbed",
+        "spiderwebbed",
+        "webbed",
+        "arachnoid"
+    ],
+    "cracked": [
+        "cracked",
+        "fractured",
+        "broken",
+        "split"
+    ],
+    "crosshatched": [
+        "crosshatched",
+        "hatched"
+    ],
+    "crystalline": [
+        "crystalline",
+        "crystal-like",
+        "clear",
+        "transparent",
+        "crystallized"
+    ],
+    "dotted": [
+        "dotted",
+        "speckled",
+        "spotted",
+        "stippled"
+    ],
+    "fibrous": [
+        "fibrous",
+        "filamentous",
+        "stringy",
+        "hairy"
+    ],
+    "flecked": [
+        "flecked",
+        "speckled",
+        "mottled",
+        "stippled"
+    ],
+    "freckled": [
+        "freckled",
+        "speckled",
+        "spotted",
+        "dotted"
+    ],
+    "frilly": [
+        "frilly",
+        "ruffled",
+        "flouncy",
+        "fringed",
+        "lacy"
+    ],
+    "gauzy": [
+        "gauzy",
+        "netlike",
+        "sheer",
+        "diaphanous"
+    ],
+    "grid": [
+        "grid",
+        "lattice",
+        "network",
+        "matrix",
+        "mesh"
+    ],
+    "grooved": [
+        "grooved",
+        "furrowed",
+        "ridged",
+        "channeled",
+        "striated"
+    ],
+    "honeycombed": [
+        "honeycombed",
+        "alveolate",
+        "cellulated"
+    ],
+    "interlaced": [
+        "interlaced",
+        "interwoven",
+        "intertwined",
+        "intermingled",
+        "entwined"
+    ],
+    "knitted": [
+        "knitted",
+        "crocheted",
+        "weaved"
+    ],
+    "lacelike": [
+        "lacelike",
+        "lacy",
+        "netlike",
+        "weblike",
+        "delicate"
+    ],
+    "lined": [
+        "lined",
+        "striped",
+        "streaked",
+        "grooved"
+    ],
+    "marbled": [
+        "marbled",
+        "mottled",
+        "veined"
+    ],
+    "matted": [
+        "matted",
+        "tangled",
+        "knotted",
+        "clumped"
+    ],
+    "meshed": [
+        "meshed",
+        "networked",
+        "net-like",
+        "latticed",
+        "interlaced",
+        "webbed",
+        "woven",
+        "reticulated"
+    ],
+    "paisley": [
+        "paisley",
+        "teardrop-shaped",
+        "persian pickles"
+    ],
+    "perforated": [
+        "perforated",
+        "punctured",
+        "holey",
+        "pierced"
+    ],
+    "pitted": [
+        "pitted",
+        "dented",
+        "dimpled",
+        "cratered"
+    ],
+    "pleated": [
+        "pleated",
+        "folded",
+        "creased"
+    ],
+    "polka-dotted": [
+        "polka-dotted",
+        "dotted",
+        "spot-patterned"
+    ],
+    "porous": [
+        "porous",
+        "permeable",
+        "penetrable",
+        "porose"
+    ],
+    "potholed": [
+        "potholed",
+        "cratered",
+        "pitted"
+    ],
+    "scaly": [
+        "scaly",
+        "flaky",
+        "plaque-like",
+        "squamous"
+    ],
+    "smeared": [
+        "smeared",
+        "smudged",
+        "blurred",
+        "spread"
+    ],
+    "spiralled": [
+        "spiralled",
+        "coiled",
+        "helical",
+        "twisted"
+    ],
+    "sprinkled": [
+        "sprinkled",
+        "speckled",
+        "dotted",
+        "scattered",
+        "dusted"
+    ],
+    "stained": [
+        "stained",
+        "discolored",
+        "tainted",
+        "soiled"
+    ],
+    "stratified": [
+        "stratified",
+        "layered",
+        "tiered",
+        "laminated"
+    ],
+    "striped": [
+        "striped",
+        "banded",
+        "streaked",
+        "lined",
+        "stripy"
+    ],
+    "studded": [
+        "studded",
+        "dotted",
+        "adorned",
+        "sprinkled",
+        "embedded"
+    ],
+    "swirly": [
+        "swirly",
+        "whirly",
+        "spiraled",
+        "spiral-patterned"
+    ],
+    "veined": [
+        "veined",
+        "striated",
+        "lined"
+    ],
+    "waffled": [
+        "waffled",
+        "crisscrossed",
+        "grid-patterned"
+    ],
+    "woven": [
+        "woven",
+        "weaved",
+        "interlaced",
+        "knit",
+        "braided"
+    ],
+    "wrinkled": [
+        "wrinkled",
+        "creased",
+        "crinkled",
+        "crumpled",
+        "furrowed"
+    ],
+    "zigzagged": [
+        "zigzagged",
+        "zigzag",
+        "crisscrossed",
+        "snaky"
+    ]
+}

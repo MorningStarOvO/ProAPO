@@ -1,0 +1,4 @@
+*.pt
+*.npy
+*.pyc
+*.pth.tar

@@ -1,0 +1,468 @@
+{
+    "pink primrose": [
+        "pink primrose",
+        "oenothera speciosa"
+    ],
+    "hard-leaved pocket orchid": [
+        "hard-leaved pocket orchid",
+        "pholidota imbricata"
+    ],
+    "canterbury bells": [
+        "canterbury bells",
+        "bellflower",
+        "campanula medium"
+    ],
+    "sweet pea": [
+        "sweet pea",
+        "lathyrus odoratus"
+    ],
+    "english marigold": [
+        "english marigold",
+        "calendula officinalis",
+        "pot marigold"
+    ],
+    "tiger lily": [
+        "tiger lily",
+        "lilium lancifolium"
+    ],
+    "moon orchid": [
+        "moon orchid",
+        "phalaenopsis amabilis"
+    ],
+    "bird of paradise": [
+        "bird of paradise",
+        "crane flower",
+        "strelitzia reginae"
+    ],
+    "monkshood": [
+        "monkshood",
+        "wolfsbane",
+        "aconitum"
+    ],
+    "globe thistle": [
+        "globe thistle",
+        "echinops"
+    ],
+    "snapdragon": [
+        "snapdragon",
+        "dragon flower",
+        "antirrhinum majus"
+    ],
+    "colt's foot": [
+        "colt's foot",
+        "tussilago farfara"
+    ],
+    "king protea": [
+        "king protea",
+        "protea cynaroides"
+    ],
+    "spear thistle": [
+        "spear thistle",
+        "bull thistle",
+        "cirsium vulgare"
+    ],
+    "yellow iris": [
+        "yellow iris",
+        "yellow flag",
+        "yellow water iris",
+        "iris pseudacorus"
+    ],
+    "globe-flower": [
+        "globe-flower",
+        "trollius spp"
+    ],
+    "purple coneflower": [
+        "purple coneflower",
+        "echinacea purpurea"
+    ],
+    "peruvian lily": [
+        "peruvian lily",
+        "alstroemeria",
+        "lily of the incas"
+    ],
+    "balloon flower": [
+        "balloon flower",
+        "chinese bellflower",
+        "platycodon grandiflorus"
+    ],
+    "giant white arum lily": [
+        "giant white arum lily",
+        "zantedeschia aethiopica"
+    ],
+    "fire lily": [
+        "fire lily",
+        "flame lily",
+        "gloriosa superba"
+    ],
+    "pincushion flower": [
+        "pincushion flower",
+        "scabiosa"
+    ],
+    "fritillary": [
+        "fritillary",
+        "checkered lily"
+    ],
+    "red ginger": [
+        "red ginger",
+        "alpinia purpurata"
+    ],
+    "grape hyacinth": [
+        "grape hyacinth",
+        "muscari"
+    ],
+    "corn poppy": [
+        "corn poppy",
+        "field poppy",
+        "flanders poppy",
+        "papaver rhoeas"
+    ],
+    "prince of wales feathers": [
+        "prince of wales feathers",
+        "amaranthus hypochondriacus"
+    ],
+    "stemless gentian": [
+        "stemless gentian",
+        "gentiana acaulis"
+    ],
+    "artichoke": [
+        "artichoke",
+        "globe artichoke",
+        "cynara scolymus"
+    ],
+    "sweet william": [
+        "sweet william",
+        "dianthus barbatus"
+    ],
+    "carnation": [
+        "carnation",
+        "clove pink",
+        "dianthus caryophyllus"
+    ],
+    "garden phlox": [
+        "garden phlox",
+        "phlox paniculata"
+    ],
+    "love in the mist": [
+        "love in the mist",
+        "nigella damascena"
+    ],
+    "mexican aster": [
+        "mexican aster",
+        "cosmos bipinnatus"
+    ],
+    "alpine sea holly": [
+        "alpine sea holly",
+        "eryngium alpinum"
+    ],
+    "ruby-lipped cattleya": [
+        "ruby-lipped cattleya",
+        "cattleya labiata"
+    ],
+    "cape flower": [
+        "cape flower",
+        "cape daisy",
+        "osteospermum"
+    ],
+    "great masterwort": [
+        "great masterwort",
+        "astrantia major"
+    ],
+    "siam tulip": [
+        "siam tulip",
+        "curcuma alismatifolia",
+        "summer tulip"
+    ],
+    "lenten rose": [
+        "lenten rose",
+        "hellebore",
+        "christmas rose",
+        "helleborus orientalis"
+    ],
+    "barbeton daisy": [
+        "barberton daisy",
+        "gerbera jamesonii",
+        "barbeton daisy"
+    ],
+    "daffodil": [
+        "daffodil",
+        "narcissus",
+        "jonquil"
+    ],
+    "sword lily": [
+        "sword lily",
+        "gladiolus"
+    ],
+    "poinsettia": [
+        "poinsettia",
+        "christmas flower",
+        "lobster flower",
+        "flame leaf flower",
+        "euphorbia pulcherrima"
+    ],
+    "bolero deep blue": [
+        "bolero deep blue",
+        "petunia"
+    ],
+    "wallflower": [
+        "wallflower",
+        "erysimum cheiri"
+    ],
+    "marigold": [
+        "marigold",
+        "calendula officinalis",
+        "pot marigold"
+    ],
+    "buttercup": [
+        "buttercup",
+        "ranunculus"
+    ],
+    "oxeye daisy": [
+        "oxeye daisy",
+        "leucanthemum vulgare",
+        "moon daisy",
+        "dog daisy"
+    ],
+    "common dandelion": [
+        "common dandelion",
+        "taraxacum officinale"
+    ],
+    "petunia": [
+        "petunia"
+    ],
+    "wild pansy": [
+        "wild pansy",
+        "heartsease",
+        "johnny-jump-up",
+        "viola tricolor"
+    ],
+    "primula": [
+        "primula",
+        "primrose"
+    ],
+    "sunflower": [
+        "sunflower",
+        "helianthus annuus"
+    ],
+    "pelargonium": [
+        "pelargonium",
+        "geranium"
+    ],
+    "bishop of llandaff": [
+        "bishop of llandaff",
+        "dahlia 'bishop of llandaff'"
+    ],
+    "gaura": [
+        "gaura",
+        "wandflower",
+        "bee blossom",
+        "gaura lindheimeri"
+    ],
+    "geranium": [
+        "geranium",
+        "cranesbill"
+    ],
+    "orange dahlia": [
+        "orange dahlia",
+        "dahlia pinnata"
+    ],
+    "pink-yellow dahlia": [
+        "pink-yellow dahlia"
+    ],
+    "cautleya spicata": [
+        "bottlebrush orchid",
+        "cautleya spicata"
+    ],
+    "japanese anemone": [
+        "japanese anemone",
+        "anemone hupehensis",
+        "windflower",
+        "thimbleweed"
+    ],
+    "black-eyed susan": [
+        "black-eyed susan",
+        "rudbeckia hirta",
+        "yellow daisy",
+        "golden jerusalem"
+    ],
+    "silverbush": [
+        "silverbush",
+        "convolvulus cneorum"
+    ],
+    "californian poppy": [
+        "california poppy",
+        "golden poppy",
+        "eschscholzia californica",
+        "californian poppy"
+    ],
+    "osteospermum": [
+        "osteospermum",
+        "african daisy"
+    ],
+    "spring crocus": [
+        "spring crocus",
+        "crocus vernus"
+    ],
+    "bearded iris": [
+        "bearded iris",
+        "iris germanica"
+    ],
+    "windflower": [
+        "windflower",
+        "anemone"
+    ],
+    "tree poppy": [
+        "tree poppy",
+        "bush poppy",
+        "dendromecon"
+    ],
+    "gazania": [
+        "gazania",
+        "treasure flower"
+    ],
+    "azalea": [
+        "azalea",
+        "rhododendron"
+    ],
+    "water lily": [
+        "water lily",
+        "nymphaea"
+    ],
+    "rose": [
+        "rose",
+        "rosa",
+        "garden rose"
+    ],
+    "thorn apple": [
+        "thorn apple",
+        "datura",
+        "jimsonweed",
+        "devil's snare",
+        "moonflower"
+    ],
+    "morning glory": [
+        "morning glory",
+        "ipomoea",
+        "ipomoea violacea"
+    ],
+    "passion flower": [
+        "passion flower",
+        "passiflora",
+        "maypop"
+    ],
+    "lotus": [
+        "lotus",
+        "nelumbo nucifera",
+        "sacred lotus",
+        "indian lotus",
+        "bean of india"
+    ],
+    "toad lily": [
+        "toad lily",
+        "tricyrtis hirta"
+    ],
+    "anthurium": [
+        "anthurium",
+        "flamingo flower",
+        "laceleaf",
+        "tailflower"
+    ],
+    "frangipani": [
+        "frangipani",
+        "plumeria"
+    ],
+    "clematis": [
+        "clematis",
+        "leather flower",
+        "vase vine",
+        "virgin's bower"
+    ],
+    "hibiscus": [
+        "hibiscus",
+        "rose mallow",
+        "swamp mallow"
+    ],
+    "columbine": [
+        "columbine",
+        "aquilegia"
+    ],
+    "desert-rose": [
+        "desert-rose",
+        "adenium obesum"
+    ],
+    "tree mallow": [
+        "tree mallow",
+        "lavatera arborea"
+    ],
+    "magnolia": [
+        "magnolia",
+        "magnolia grandiflora"
+    ],
+    "cyclamen": [
+        "cyclamen",
+        "sowbread",
+        "persian violet"
+    ],
+    "watercress": [
+        "watercress",
+        "nasturtium officinale"
+    ],
+    "canna lily": [
+        "canna lily",
+        "canna",
+        "indian shot"
+    ],
+    "hippeastrum": [
+        "hippeastrum",
+        "amaryllis"
+    ],
+    "bee balm": [
+        "bee balm",
+        "bergamot",
+        "monarda",
+        "horsemint"
+    ],
+    "ball moss": [
+        "ball moss",
+        "tillandsia recurvata"
+    ],
+    "foxglove": [
+        "foxglove",
+        "digitalis",
+        "fairy gloves"
+    ],
+    "bougainvillea": [
+        "bougainvillea",
+        "paper flower"
+    ],
+    "camellia": [
+        "camellia",
+        "camellia japonica"
+    ],
+    "mallow": [
+        "mallow",
+        "althaea"
+    ],
+    "mexican petunia": [
+        "mexican petunia",
+        "ruellia simplex"
+    ],
+    "bromelia": [
+        "bromelia",
+        "bromeliaceae"
+    ],
+    "blanket flower": [
+        "blanket flower",
+        "gaillardia"
+    ],
+    "trumpet creeper": [
+        "trumpet creeper",
+        "trumpet vine",
+        "cow itch vine",
+        "campsis radicans"
+    ],
+    "blackberry lily": [
+        "blackberry lily",
+        "leopard flower",
+        "iris domestica"
+    ]
+}

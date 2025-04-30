@@ -1,0 +1,2518 @@
+{
+    "abbey": [
+        "abbey",
+        "monastery",
+        "friary",
+        "convent",
+        "priory",
+        "cloister"
+    ],
+    "airplane cabin": [
+        "airplane cabin",
+        "aircraft cabin",
+        "flight cabin",
+        "aircraft interior",
+        "plane cabin"
+    ],
+    "airport terminal": [
+        "airport terminal",
+        "concourse",
+        "terminal building",
+        "departure hall",
+        "arrival hall"
+    ],
+    "alley": [
+        "alley",
+        "lane",
+        "backstreet",
+        "passage",
+        "pathway"
+    ],
+    "amphitheater": [
+        "amphitheater",
+        "open-air theater",
+        "coliseum",
+        "arena"
+    ],
+    "amusement arcade": [
+        "amusement arcade",
+        "gaming arcade",
+        "game parlor",
+        "fun center",
+        "entertainment parlor"
+    ],
+    "amusement park": [
+        "amusement park",
+        "funfair",
+        "theme park",
+        "pleasure garden"
+    ],
+    "anechoic chamber": [
+        "anechoic chamber",
+        "echo-free room",
+        "non-echoing room",
+        "sound-absorbing room"
+    ],
+    "outdoor apartment building": [
+        "outdoor apartment building",
+        "apartment complex exterior",
+        "residential building facade"
+    ],
+    "indoor apse": [
+        "indoor apse",
+        "church apse interior",
+        "cathedral semicircular recess",
+        "sanctuary interior",
+        "choir interior"
+    ],
+    "aquarium": [
+        "aquarium",
+        "fish tank",
+        "marine exhibit",
+        "aquatic zoo"
+    ],
+    "aqueduct": [
+        "aqueduct",
+        "water bridge",
+        "canal",
+        "watercourse",
+        "conduit"
+    ],
+    "arch": [
+        "arch",
+        "arc",
+        "vault",
+        "curve"
+    ],
+    "archive": [
+        "archive",
+        "repository",
+        "records",
+        "storehouse",
+        "depository"
+    ],
+    "outdoor arrival gate": [
+        "outdoor arrival gate",
+        "external arrival terminal",
+        "outside entry point"
+    ],
+    "art gallery": [
+        "art gallery",
+        "art museum",
+        "exhibition hall",
+        "showroom",
+        "art center"
+    ],
+    "art school": [
+        "art school",
+        "design institute",
+        "art academy",
+        "art college"
+    ],
+    "art studio": [
+        "art studio",
+        "artist's workspace",
+        "art workshop",
+        "creative space"
+    ],
+    "assembly line": [
+        "assembly line",
+        "production line",
+        "conveyor belt system",
+        "manufacturing line"
+    ],
+    "outdoor athletic field": [
+        "outdoor athletic field",
+        "sports ground",
+        "sports field",
+        "playing field",
+        "sports pitch"
+    ],
+    "public atrium": [
+        "public atrium",
+        "public court",
+        "general concourse",
+        "public lobby"
+    ],
+    "attic": [
+        "attic",
+        "loft",
+        "garret"
+    ],
+    "auditorium": [
+        "auditorium",
+        "lecture hall",
+        "assembly hall",
+        "concert hall",
+        "theater"
+    ],
+    "auto factory": [
+        "auto factory",
+        "car manufacturing plant",
+        "automobile production facility",
+        "vehicle assembly plant"
+    ],
+    "badlands": [
+        "badlands",
+        "barren region",
+        "wastelands",
+        "desolate area",
+        "wilderness"
+    ],
+    "indoor badminton court": [
+        "indoor badminton court",
+        "badminton hall",
+        "indoor badminton facility",
+        "badminton court indoors"
+    ],
+    "baggage claim": [
+        "baggage claim",
+        "luggage claim",
+        "baggage reclaim",
+        "luggage collection area"
+    ],
+    "shop bakery": [
+        "shop bakery",
+        "bread store",
+        "bakeshop",
+        "bakery shop",
+        "patisserie"
+    ],
+    "exterior balcony": [
+        "exterior balcony",
+        "outside balcony",
+        "outdoor terrace",
+        "external veranda"
+    ],
+    "interior balcony": [
+        "interior balcony",
+        "indoor terrace",
+        "inside veranda"
+    ],
+    "ball pit": [
+        "ball pit",
+        "ball pool",
+        "ball crawl",
+        "ball pond"
+    ],
+    "ballroom": [
+        "ballroom",
+        "dance hall",
+        "dance salon",
+        "dancefloor",
+        "grand hall"
+    ],
+    "bamboo forest": [
+        "bamboo forest",
+        "bamboo grove",
+        "bamboo thicket",
+        "bamboo woodland"
+    ],
+    "banquet hall": [
+        "banquet hall",
+        "ballroom",
+        "reception hall",
+        "function room"
+    ],
+    "bar": [
+        "bar",
+        "tavern",
+        "pub",
+        "saloon",
+        "lounge"
+    ],
+    "barn": [
+        "barn",
+        "stable",
+        "shed",
+        "outbuilding",
+        "granary"
+    ],
+    "barndoor": [
+        "barndoor",
+        "barn door",
+        "stable door"
+    ],
+    "baseball field": [
+        "baseball field",
+        "baseball diamond",
+        "ballpark",
+        "baseball stadium",
+        "baseball park"
+    ],
+    "basement": [
+        "basement",
+        "cellar",
+        "lower level",
+        "subbasement",
+        "underground room"
+    ],
+    "basilica": [
+        "basilica",
+        "cathedral",
+        "church",
+        "chapel"
+    ],
+    "outdoor basketball court": [
+        "outdoor basketball court",
+        "open-air basketball court",
+        "exterior basketball court"
+    ],
+    "bathroom": [
+        "bathroom",
+        "washroom",
+        "lavatory",
+        "restroom",
+        "toilet",
+        "wc",
+        "powder room"
+    ],
+    "batters box": [
+        "batters box",
+        "hitter's box",
+        "batting area"
+    ],
+    "bayou": [
+        "bayou",
+        "marsh",
+        "swamp",
+        "bog",
+        "wetland"
+    ],
+    "indoor bazaar": [
+        "indoor bazaar",
+        "indoor marketplace",
+        "covered market",
+        "indoor souk"
+    ],
+    "outdoor bazaar": [
+        "outdoor bazaar",
+        "open-air market",
+        "street market",
+        "flea market",
+        "fair"
+    ],
+    "beach": [
+        "beach",
+        "seashore",
+        "shoreline",
+        "coast",
+        "seafront",
+        "oceanfront",
+        "waterfront",
+        "sands",
+        "seaside"
+    ],
+    "beauty salon": [
+        "beauty salon",
+        "beauty parlor",
+        "beauty shop",
+        "hair salon",
+        "hairstyling salon"
+    ],
+    "bedroom": [
+        "bedroom",
+        "sleeping quarters",
+        "sleeping room",
+        "chamber",
+        "boudoir"
+    ],
+    "berth": [
+        "berth",
+        "mooring",
+        "dock",
+        "slip",
+        "wharf",
+        "pier",
+        "anchorage",
+        "quay"
+    ],
+    "biology laboratory": [
+        "biology laboratory",
+        "bio lab",
+        "biological research lab",
+        "biology lab",
+        "life sciences lab"
+    ],
+    "indoor bistro": [
+        "indoor bistro",
+        "inside cafe",
+        "interior coffee shop"
+    ],
+    "boardwalk": [
+        "boardwalk",
+        "promenade",
+        "seafront",
+        "pier",
+        "esplanade"
+    ],
+    "boat deck": [
+        "boat deck",
+        "ship deck",
+        "vessel deck"
+    ],
+    "boathouse": [
+        "boathouse",
+        "dockhouse",
+        "shiphouse"
+    ],
+    "bookstore": [
+        "bookstore",
+        "bookshop",
+        "bookstand",
+        "bookseller"
+    ],
+    "indoor booth": [
+        "indoor booth",
+        "interior kiosk",
+        "inside stand"
+    ],
+    "botanical garden": [
+        "botanical garden",
+        "plant nursery",
+        "greenhouse",
+        "hothouse",
+        "arboretum",
+        "flora park"
+    ],
+    "indoor bow window": [
+        "indoor bow window",
+        "interior bay window",
+        "inside oriel window"
+    ],
+    "outdoor bow window": [
+        "outdoor bow window",
+        "exterior bay window",
+        "outside curved window"
+    ],
+    "bowling alley": [
+        "bowling alley",
+        "bowling center",
+        "bowling lane",
+        "tenpin alley"
+    ],
+    "boxing ring": [
+        "boxing ring",
+        "prize ring",
+        "fighting ring",
+        "combat square",
+        "pugilist's platform",
+        "boxer's stage"
+    ],
+    "indoor brewery": [
+        "indoor brewery",
+        "beer factory interior",
+        "brewing facility indoors"
+    ],
+    "bridge": [
+        "bridge",
+        "overpass",
+        "viaduct",
+        "flyover",
+        "footbridge"
+    ],
+    "building facade": [
+        "building facade",
+        "exterior wall",
+        "building front",
+        "outside face of a building",
+        "building exterior"
+    ],
+    "bullring": [
+        "bullring",
+        "bullfighting stadium",
+        "bullfight arena"
+    ],
+    "burial chamber": [
+        "burial chamber",
+        "tomb",
+        "sepulchre",
+        "crypt",
+        "mausoleum",
+        "catacomb"
+    ],
+    "bus interior": [
+        "bus interior",
+        "inside of a bus",
+        "bus cabin"
+    ],
+    "butchers shop": [
+        "butcher's shop",
+        "meat market",
+        "butcher's store",
+        "meat shop",
+        "butchers shop"
+    ],
+    "butte": [
+        "butte",
+        "mesa",
+        "tableland",
+        "plateau"
+    ],
+    "outdoor cabin": [
+        "outdoor cabin",
+        "wilderness cabin",
+        "forest cabin",
+        "mountain cabin",
+        "log cabin",
+        "rustic cabin",
+        "country cabin"
+    ],
+    "cafeteria": [
+        "cafeteria",
+        "canteen",
+        "mess hall",
+        "food court",
+        "commissary",
+        "dining hall",
+        "eatery"
+    ],
+    "campsite": [
+        "campsite",
+        "camping ground",
+        "campground",
+        "camp spot"
+    ],
+    "campus": [
+        "campus",
+        "university grounds",
+        "college property",
+        "educational institution surrounds",
+        "school grounds"
+    ],
+    "natural canal": [
+        "natural canal",
+        "waterway",
+        "river channel"
+    ],
+    "urban canal": [
+        "urban canal",
+        "city canal",
+        "metropolitan waterway"
+    ],
+    "candy store": [
+        "candy store",
+        "sweet shop",
+        "confectionery store",
+        "candy shop",
+        "sweets boutique"
+    ],
+    "canyon": [
+        "canyon",
+        "gorge",
+        "ravine",
+        "chasm",
+        "gulch"
+    ],
+    "backseat car interior": [
+        "backseat car interior",
+        "rear car cabin",
+        "back of car interior",
+        "vehicle backseat area"
+    ],
+    "frontseat car interior": [
+        "frontseat car interior",
+        "driver's seat",
+        "vehicle front cabin"
+    ],
+    "carrousel": [
+        "carrousel",
+        "merry-go-round",
+        "whirligig",
+        "roundabout",
+        "carousel"
+    ],
+    "indoor casino": [
+        "indoor casino",
+        "casino interior",
+        "gaming house inside"
+    ],
+    "castle": [
+        "castle",
+        "fortress",
+        "stronghold",
+        "palace"
+    ],
+    "catacomb": [
+        "catacomb",
+        "crypt",
+        "vault",
+        "underground cemetery",
+        "ossuary"
+    ],
+    "indoor cathedral": [
+        "indoor cathedral",
+        "cathedral interior",
+        "inside of a cathedral"
+    ],
+    "outdoor cathedral": [
+        "outdoor cathedral",
+        "cathedral exterior",
+        "outside view of a cathedral"
+    ],
+    "indoor cavern": [
+        "indoor cavern",
+        "cave interior",
+        "subterranean chamber"
+    ],
+    "cemetery": [
+        "cemetery",
+        "graveyard",
+        "burial ground",
+        "necropolis"
+    ],
+    "chalet": [
+        "chalet",
+        "cottage",
+        "lodge",
+        "cabin"
+    ],
+    "cheese factory": [
+        "cheese factory",
+        "cheese plant",
+        "cheese production facility"
+    ],
+    "chemistry lab": [
+        "chemistry lab",
+        "chemistry laboratory",
+        "science lab",
+        "chemical lab"
+    ],
+    "indoor chicken coop": [
+        "indoor chicken coop",
+        "indoor henhouse",
+        "inside chicken house"
+    ],
+    "outdoor chicken coop": [
+        "outdoor chicken coop",
+        "henhouse",
+        "poultry house",
+        "chicken pen"
+    ],
+    "childs room": [
+        "child's room",
+        "nursery",
+        "kid's room",
+        "children's bedroom",
+        "youngster's room",
+        "childs room"
+    ],
+    "indoor church": [
+        "indoor church",
+        "church interior",
+        "sanctuary",
+        "cathedral inside"
+    ],
+    "outdoor church": [
+        "outdoor church",
+        "open-air chapel",
+        "church exterior"
+    ],
+    "classroom": [
+        "classroom",
+        "lecture room",
+        "study room",
+        "learning room",
+        "school room"
+    ],
+    "clean room": [
+        "clean room",
+        "sterile room",
+        "sanitised room",
+        "contamination-free zone",
+        "antiseptic room"
+    ],
+    "cliff": [
+        "cliff",
+        "precipice",
+        "bluff",
+        "crag",
+        "escarpment",
+        "rock face"
+    ],
+    "indoor cloister": [
+        "indoor cloister",
+        "enclosed cloister",
+        "indoor monastery courtyard"
+    ],
+    "closet": [
+        "closet",
+        "wardrobe",
+        "cupboard",
+        "cabinet"
+    ],
+    "clothing store": [
+        "clothing store",
+        "apparel shop",
+        "boutique",
+        "fashion outlet",
+        "garment store"
+    ],
+    "coast": [
+        "coast",
+        "coastline",
+        "seashore",
+        "beach",
+        "shore",
+        "seafront"
+    ],
+    "cockpit": [
+        "cockpit",
+        "flight deck",
+        "pilot's compartment"
+    ],
+    "coffee shop": [
+        "coffee shop",
+        "caf\u00e9",
+        "coffee house",
+        "espresso bar",
+        "java joint"
+    ],
+    "computer room": [
+        "computer room",
+        "server room",
+        "it room",
+        "data center",
+        "tech room"
+    ],
+    "conference center": [
+        "conference center",
+        "convention center",
+        "meeting center",
+        "exhibition hall",
+        "trade center",
+        "seminar center"
+    ],
+    "conference room": [
+        "conference room",
+        "meeting room",
+        "boardroom",
+        "briefing room",
+        "seminar room"
+    ],
+    "construction site": [
+        "construction site",
+        "building site",
+        "work site",
+        "construction zone"
+    ],
+    "control room": [
+        "control room",
+        "command center",
+        "operations center",
+        "control center"
+    ],
+    "outdoor control tower": [
+        "outdoor control tower",
+        "exterior of an air traffic control tower",
+        "outside of a control tower"
+    ],
+    "corn field": [
+        "corn field",
+        "maize field",
+        "corn plantation"
+    ],
+    "corral": [
+        "corral",
+        "pen",
+        "enclosure",
+        "stockade",
+        "paddock"
+    ],
+    "corridor": [
+        "corridor",
+        "hallway",
+        "passageway",
+        "aisle",
+        "walkway",
+        "path"
+    ],
+    "cottage garden": [
+        "cottage garden",
+        "country garden",
+        "rustic garden",
+        "farmhouse garden"
+    ],
+    "courthouse": [
+        "courthouse",
+        "court building",
+        "tribunal",
+        "justice hall"
+    ],
+    "courtroom": [
+        "courtroom",
+        "tribunal",
+        "judicial chamber",
+        "court of law"
+    ],
+    "courtyard": [
+        "courtyard",
+        "quad",
+        "quadrangle",
+        "patio",
+        "piazza",
+        "enclosure",
+        "yard"
+    ],
+    "exterior covered bridge": [
+        "exterior covered bridge",
+        "outside covered crossing",
+        "outdoor roofed bridge"
+    ],
+    "creek": [
+        "creek",
+        "brook",
+        "stream",
+        "rivulet"
+    ],
+    "crevasse": [
+        "crevasse",
+        "fissure",
+        "chasm",
+        "crack",
+        "rift",
+        "gap"
+    ],
+    "crosswalk": [
+        "crosswalk",
+        "pedestrian crossing",
+        "zebra crossing",
+        "walkway"
+    ],
+    "office cubicle": [
+        "office cubicle",
+        "workspace cubicle",
+        "office partition",
+        "work cubicle",
+        "work station"
+    ],
+    "dam": [
+        "dam",
+        "barrier",
+        "reservoir",
+        "barrage",
+        "dyke"
+    ],
+    "delicatessen": [
+        "delicatessen",
+        "deli",
+        "food store",
+        "sandwich shop",
+        "food emporium"
+    ],
+    "dentists office": [
+        "dentist's office",
+        "dental clinic",
+        "dental practice",
+        "dental surgery",
+        "dentists office"
+    ],
+    "sand desert": [
+        "sand desert",
+        "sandy desert",
+        "dune desert",
+        "wasteland",
+        "barren desert",
+        "arid desert"
+    ],
+    "vegetation desert": [
+        "vegetation desert",
+        "plant-life desert",
+        "flora desert"
+    ],
+    "indoor diner": [
+        "indoor diner",
+        "interior of a diner",
+        "inside a diner"
+    ],
+    "outdoor diner": [
+        "outdoor diner",
+        "open-air cafe",
+        "alfresco restaurant",
+        "outdoor bistro",
+        "outside eatery"
+    ],
+    "home dinette": [
+        "home dinette",
+        "domestic dining area",
+        "home dining nook"
+    ],
+    "vehicle dinette": [
+        "vehicle dinette",
+        "camper dining area",
+        "motorhome dining space"
+    ],
+    "dining car": [
+        "dining car",
+        "restaurant car",
+        "buffet car"
+    ],
+    "dining room": [
+        "dining room",
+        "dining area",
+        "banquet room"
+    ],
+    "discotheque": [
+        "discotheque",
+        "nightclub",
+        "club",
+        "dance club",
+        "disco",
+        "nightspot"
+    ],
+    "dock": [
+        "dock",
+        "wharf",
+        "pier",
+        "jetty",
+        "quay",
+        "berth",
+        "boatyard",
+        "marina"
+    ],
+    "outdoor doorway": [
+        "outdoor doorway",
+        "external entrance",
+        "outside door",
+        "exterior entryway"
+    ],
+    "dorm room": [
+        "dorm room",
+        "dormitory room",
+        "student residence room",
+        "college dorm room"
+    ],
+    "driveway": [
+        "driveway",
+        "drive",
+        "private road"
+    ],
+    "outdoor driving range": [
+        "outdoor driving range",
+        "exterior golf practice area",
+        "open-air driving range",
+        "outside golfing range"
+    ],
+    "drugstore": [
+        "drugstore",
+        "pharmacy",
+        "apothecary",
+        "dispensary",
+        "chemist's"
+    ],
+    "electrical substation": [
+        "electrical substation",
+        "power substation",
+        "energy station",
+        "transformer station"
+    ],
+    "door elevator": [
+        "door elevator",
+        "lift door",
+        "elevator entrance"
+    ],
+    "interior elevator": [
+        "interior elevator",
+        "elevator cabin",
+        "lift interior"
+    ],
+    "elevator shaft": [
+        "elevator shaft",
+        "lift shaft",
+        "hoistway"
+    ],
+    "engine room": [
+        "engine room",
+        "machinery space",
+        "power plant room",
+        "mechanical room"
+    ],
+    "indoor escalator": [
+        "indoor escalator",
+        "internal moving staircase",
+        "indoor mechanized stairway"
+    ],
+    "excavation": [
+        "excavation",
+        "dig",
+        "digging",
+        "archeological site"
+    ],
+    "indoor factory": [
+        "indoor factory",
+        "manufacturing plant interior",
+        "industrial facility inside"
+    ],
+    "fairway": [
+        "fairway",
+        "golf course",
+        "links"
+    ],
+    "fastfood restaurant": [
+        "fastfood restaurant",
+        "fast food joint",
+        "quick service restaurant",
+        "fast food outlet",
+        "burger joint",
+        "quick food place"
+    ],
+    "cultivated field": [
+        "cultivated field",
+        "plowed field",
+        "tilled field",
+        "farmland",
+        "arable land",
+        "cropland"
+    ],
+    "wild field": [
+        "wild field",
+        "wilderness",
+        "open field",
+        "wild prairie",
+        "unspoiled meadow"
+    ],
+    "fire escape": [
+        "fire escape",
+        "emergency exit",
+        "escape ladder"
+    ],
+    "fire station": [
+        "fire station",
+        "firehouse",
+        "fire department headquarters"
+    ],
+    "indoor firing range": [
+        "indoor firing range",
+        "indoor shooting range",
+        "indoor gun range"
+    ],
+    "fishpond": [
+        "fishpond",
+        "fish pool",
+        "fishery",
+        "piscary"
+    ],
+    "indoor florist shop": [
+        "indoor florist shop",
+        "flower shop interior",
+        "florist store inside",
+        "interior of a flower boutique"
+    ],
+    "food court": [
+        "food court",
+        "dining area",
+        "food plaza",
+        "food hall",
+        "eatery area",
+        "cafeteria court"
+    ],
+    "broadleaf forest": [
+        "broadleaf forest",
+        "deciduous forest",
+        "leafy forest",
+        "hardwood forest"
+    ],
+    "needleleaf forest": [
+        "needleleaf forest",
+        "coniferous forest",
+        "evergreen forest",
+        "pinewood"
+    ],
+    "forest path": [
+        "forest path",
+        "woodland trail",
+        "forest trail",
+        "forest track"
+    ],
+    "forest road": [
+        "forest road",
+        "woodland path",
+        "woodland track",
+        "forest trail"
+    ],
+    "formal garden": [
+        "formal garden",
+        "ornamental garden",
+        "manicured garden",
+        "landscaped garden",
+        "parterre"
+    ],
+    "fountain": [
+        "fountain",
+        "spring",
+        "well",
+        "water feature",
+        "cascade",
+        "geyser"
+    ],
+    "galley": [
+        "galley",
+        "kitchen",
+        "ship's kitchen",
+        "maritime cooking area"
+    ],
+    "game room": [
+        "game room",
+        "playroom",
+        "recreation room",
+        "gaming room",
+        "amusement room",
+        "fun room",
+        "game zone"
+    ],
+    "indoor garage": [
+        "indoor garage",
+        "enclosed parking area",
+        "interior carport"
+    ],
+    "garbage dump": [
+        "garbage dump",
+        "landfill",
+        "waste disposal site",
+        "junkyard",
+        "trash heap",
+        "dumpsite",
+        "rubbish dump",
+        "waste dump",
+        "waste site"
+    ],
+    "gas station": [
+        "gas station",
+        "petrol station",
+        "fuel station",
+        "service station"
+    ],
+    "exterior gazebo": [
+        "exterior gazebo",
+        "outdoor pavilion",
+        "garden gazebo"
+    ],
+    "indoor general store": [
+        "indoor general store",
+        "interior of a general store",
+        "inside of a general store"
+    ],
+    "outdoor general store": [
+        "outdoor general store",
+        "exterior of a general merchandise shop",
+        "outside view of a convenience store"
+    ],
+    "gift shop": [
+        "gift shop",
+        "souvenir store",
+        "boutique",
+        "novelty shop"
+    ],
+    "golf course": [
+        "golf course",
+        "links",
+        "fairway",
+        "greens",
+        "putting green",
+        "golf club",
+        "driving range"
+    ],
+    "indoor greenhouse": [
+        "indoor greenhouse",
+        "conservatory",
+        "hothouse",
+        "glasshouse",
+        "orangery"
+    ],
+    "outdoor greenhouse": [
+        "outdoor greenhouse",
+        "garden greenhouse",
+        "exterior hothouse",
+        "outside conservatory"
+    ],
+    "indoor gymnasium": [
+        "indoor gymnasium",
+        "sports hall",
+        "indoor sports arena",
+        "fitness center"
+    ],
+    "indoor hangar": [
+        "indoor hangar",
+        "enclosed aircraft garage",
+        "internal aircraft storage"
+    ],
+    "outdoor hangar": [
+        "outdoor hangar",
+        "airplane shed",
+        "aircraft garage",
+        "plane storage outdoors"
+    ],
+    "harbor": [
+        "harbor",
+        "port",
+        "harbour",
+        "marina",
+        "dock",
+        "haven"
+    ],
+    "hayfield": [
+        "hayfield",
+        "meadow",
+        "pasture",
+        "grassland"
+    ],
+    "heliport": [
+        "heliport",
+        "helicopter landing pad",
+        "chopper landing area"
+    ],
+    "herb garden": [
+        "herb garden",
+        "botanical garden",
+        "spice garden"
+    ],
+    "highway": [
+        "highway",
+        "freeway",
+        "expressway",
+        "motorway",
+        "interstate",
+        "thoroughfare",
+        "roadway",
+        "main road"
+    ],
+    "hill": [
+        "hill",
+        "knoll",
+        "mound",
+        "hillock",
+        "highland",
+        "peak",
+        "elevation"
+    ],
+    "home office": [
+        "home office",
+        "study",
+        "workspace",
+        "workroom",
+        "home workspace"
+    ],
+    "hospital": [
+        "hospital",
+        "clinic",
+        "infirmary",
+        "medical center",
+        "health center"
+    ],
+    "hospital room": [
+        "hospital room",
+        "patient room",
+        "medical room",
+        "infirmary room"
+    ],
+    "hot spring": [
+        "hot spring",
+        "thermal spring",
+        "geothermal spring"
+    ],
+    "outdoor hot tub": [
+        "outdoor hot tub",
+        "exterior jacuzzi",
+        "outdoor spa",
+        "outside whirlpool"
+    ],
+    "outdoor hotel": [
+        "outdoor hotel",
+        "hotel exterior",
+        "hotel facade",
+        "hotel outside view"
+    ],
+    "hotel room": [
+        "hotel room",
+        "guest room",
+        "suite",
+        "lodging room",
+        "inn room",
+        "motel room",
+        "hotel suite",
+        "accommodation"
+    ],
+    "house": [
+        "house",
+        "home",
+        "residence",
+        "dwelling",
+        "abode"
+    ],
+    "outdoor hunting lodge": [
+        "outdoor hunting lodge",
+        "hunting cabin exterior",
+        "hunting retreat outside",
+        "game lodge outside"
+    ],
+    "ice cream parlor": [
+        "ice cream parlor",
+        "ice cream shop",
+        "gelateria",
+        "creamery",
+        "ice cream store",
+        "frozen yogurt shop"
+    ],
+    "ice floe": [
+        "ice floe",
+        "ice float",
+        "pack ice",
+        "drift ice"
+    ],
+    "ice shelf": [
+        "ice shelf",
+        "ice ledge",
+        "glacier shelf"
+    ],
+    "indoor ice skating rink": [
+        "indoor ice skating rink",
+        "interior of ice arena",
+        "covered ice rink",
+        "inside of ice skating facility"
+    ],
+    "outdoor ice skating rink": [
+        "outdoor ice skating rink",
+        "open-air ice rink",
+        "outdoor ice arena"
+    ],
+    "iceberg": [
+        "iceberg",
+        "ice mountain",
+        "glacial mass"
+    ],
+    "igloo": [
+        "igloo",
+        "ice house",
+        "snow house",
+        "ice hut"
+    ],
+    "industrial area": [
+        "industrial area",
+        "industrial zone",
+        "industrial district",
+        "industrial region",
+        "industrial park"
+    ],
+    "outdoor inn": [
+        "outdoor inn",
+        "roadside inn exterior",
+        "tavern outside setting",
+        "motel facade"
+    ],
+    "islet": [
+        "islet",
+        "islandlet",
+        "small island",
+        "tiny island"
+    ],
+    "indoor jacuzzi": [
+        "indoor jacuzzi",
+        "inside hot tub",
+        "interior whirlpool bath"
+    ],
+    "indoor jail": [
+        "indoor jail",
+        "prison interior",
+        "jail cell",
+        "incarceration facility"
+    ],
+    "jail cell": [
+        "jail cell",
+        "prison cell",
+        "detention cell"
+    ],
+    "jewelry shop": [
+        "jewelry shop",
+        "jewelers",
+        "jewelry store",
+        "bijouterie",
+        "jeweler's shop"
+    ],
+    "kasbah": [
+        "kasbah",
+        "casbah",
+        "qasbah",
+        "old city",
+        "medina",
+        "fortress",
+        "citadel"
+    ],
+    "indoor kennel": [
+        "indoor kennel",
+        "inside dog shelter",
+        "interior dog house"
+    ],
+    "outdoor kennel": [
+        "outdoor kennel",
+        "exterior dog kennel",
+        "outside dog house",
+        "open-air dog enclosure"
+    ],
+    "kindergarden classroom": [
+        "kindergarten classroom",
+        "pre-school classroom",
+        "early years learning room",
+        "kindergarden classroom"
+    ],
+    "kitchen": [
+        "kitchen",
+        "cookroom",
+        "pantry",
+        "scullery",
+        "cookhouse"
+    ],
+    "kitchenette": [
+        "kitchenette",
+        "mini-kitchen",
+        "compact kitchen"
+    ],
+    "outdoor labyrinth": [
+        "outdoor labyrinth",
+        "outdoor maze",
+        "garden maze",
+        "open-air labyrinth"
+    ],
+    "natural lake": [
+        "natural lake",
+        "freshwater lake",
+        "inland sea",
+        "loch",
+        "lagoon"
+    ],
+    "landfill": [
+        "landfill",
+        "dump",
+        "garbage dump",
+        "rubbish dump",
+        "waste disposal site",
+        "junkyard"
+    ],
+    "landing deck": [
+        "landing deck",
+        "flight deck",
+        "aircraft carrier deck",
+        "helipad"
+    ],
+    "laundromat": [
+        "laundromat",
+        "laundrette",
+        "washateria",
+        "coin laundry"
+    ],
+    "lecture room": [
+        "lecture room",
+        "lecture hall",
+        "classroom",
+        "auditorium",
+        "seminar room"
+    ],
+    "indoor library": [
+        "indoor library",
+        "library interior",
+        "library inside",
+        "interior of a library"
+    ],
+    "outdoor library": [
+        "outdoor library",
+        "open-air library",
+        "alfresco library"
+    ],
+    "outdoor lido deck": [
+        "outdoor lido deck",
+        "open-air swimming pool deck",
+        "exterior pool deck"
+    ],
+    "lift bridge": [
+        "lift bridge",
+        "drawbridge",
+        "bascule bridge"
+    ],
+    "lighthouse": [
+        "lighthouse",
+        "beacon",
+        "pharos",
+        "light tower"
+    ],
+    "limousine interior": [
+        "limousine interior",
+        "luxury car inside",
+        "limo interior"
+    ],
+    "living room": [
+        "living room",
+        "lounge",
+        "sitting room",
+        "family room"
+    ],
+    "lobby": [
+        "lobby",
+        "foyer",
+        "entrance hall",
+        "vestibule",
+        "reception area"
+    ],
+    "lock chamber": [
+        "lock chamber",
+        "lock",
+        "canal lock",
+        "water lock",
+        "floodgate chamber"
+    ],
+    "locker room": [
+        "locker room",
+        "changing room",
+        "dressing room",
+        "change room"
+    ],
+    "mansion": [
+        "mansion",
+        "manor",
+        "estate",
+        "villa",
+        "palace"
+    ],
+    "manufactured home": [
+        "manufactured home",
+        "mobile home",
+        "prefabricated home",
+        "prefab home",
+        "modular home"
+    ],
+    "indoor market": [
+        "indoor market",
+        "bazaar",
+        "marketplace",
+        "indoor shopping center",
+        "covered market",
+        "flea market"
+    ],
+    "outdoor market": [
+        "outdoor market",
+        "open-air market",
+        "street market",
+        "bazaar",
+        "flea market",
+        "farmers market"
+    ],
+    "marsh": [
+        "marsh",
+        "fen",
+        "swamp",
+        "wetland",
+        "bog",
+        "mire"
+    ],
+    "martial arts gym": [
+        "martial arts gym",
+        "dojang",
+        "dojo",
+        "kwoon",
+        "martial arts studio",
+        "martial arts school",
+        "fighting arts gym"
+    ],
+    "mausoleum": [
+        "mausoleum",
+        "crypt",
+        "tomb",
+        "sepulcher",
+        "burial chamber"
+    ],
+    "medina": [
+        "medina",
+        "old town",
+        "historic center",
+        "city quarter"
+    ],
+    "water moat": [
+        "water moat",
+        "water-filled ditch",
+        "castle ditch"
+    ],
+    "outdoor monastery": [
+        "outdoor monastery",
+        "monastery exterior",
+        "monastery outside",
+        "cloister grounds"
+    ],
+    "indoor mosque": [
+        "indoor mosque",
+        "mosque interior",
+        "inside of a mosque"
+    ],
+    "outdoor mosque": [
+        "outdoor mosque",
+        "mosque exterior",
+        "mosque outside view"
+    ],
+    "motel": [
+        "motel",
+        "motor inn",
+        "motor lodge",
+        "motor hotel",
+        "roadhouse"
+    ],
+    "mountain": [
+        "mountain",
+        "peak",
+        "summit",
+        "elevation",
+        "alp",
+        "range",
+        "mount",
+        "promontory",
+        "massif",
+        "highland"
+    ],
+    "mountain snowy": [
+        "mountain snowy",
+        "snow-covered mountain",
+        "snowy peak",
+        "icy mountain"
+    ],
+    "indoor movie theater": [
+        "indoor movie theater",
+        "cinema auditorium",
+        "film theater interior",
+        "movie house indoor",
+        "cinema hall",
+        "movie theatre inside"
+    ],
+    "indoor museum": [
+        "indoor museum",
+        "museum interior",
+        "inside of a museum"
+    ],
+    "music store": [
+        "music store",
+        "music shop",
+        "record shop",
+        "record store"
+    ],
+    "music studio": [
+        "music studio",
+        "recording studio",
+        "sound studio"
+    ],
+    "outdoor nuclear power plant": [
+        "outdoor nuclear power plant",
+        "nuclear facility exterior",
+        "atomic power station outside"
+    ],
+    "nursery": [
+        "nursery",
+        "playroom",
+        "daycare",
+        "child care center",
+        "kindergarten"
+    ],
+    "oast house": [
+        "oast house",
+        "hop kiln",
+        "drying house"
+    ],
+    "outdoor observatory": [
+        "outdoor observatory",
+        "exterior of observatory",
+        "outside of observatory",
+        "outdoor observation facility"
+    ],
+    "ocean": [
+        "ocean",
+        "sea",
+        "deep",
+        "main",
+        "briny"
+    ],
+    "office": [
+        "office",
+        "workspace",
+        "workroom",
+        "studio",
+        "bureau"
+    ],
+    "office building": [
+        "office building",
+        "business premises",
+        "corporate building",
+        "workplace building"
+    ],
+    "outdoor oil refinery": [
+        "outdoor oil refinery",
+        "oil processing plant exterior",
+        "exterior of petroleum refinery"
+    ],
+    "oilrig": [
+        "oilrig",
+        "oil derrick",
+        "drilling rig",
+        "oil platform",
+        "offshore rig"
+    ],
+    "operating room": [
+        "operating room",
+        "surgery room",
+        "or",
+        "surgical suite",
+        "theatre"
+    ],
+    "orchard": [
+        "orchard",
+        "grove",
+        "plantation"
+    ],
+    "outdoor outhouse": [
+        "outdoor outhouse",
+        "outside toilet",
+        "external privy",
+        "backyard lavatory"
+    ],
+    "pagoda": [
+        "pagoda",
+        "stupa",
+        "tower",
+        "turret",
+        "shrine"
+    ],
+    "palace": [
+        "palace",
+        "castle",
+        "manor",
+        "mansion",
+        "chateau",
+        "estate",
+        "villa"
+    ],
+    "pantry": [
+        "pantry",
+        "larder",
+        "scullery",
+        "closet",
+        "storeroom"
+    ],
+    "park": [
+        "park",
+        "garden",
+        "recreational area",
+        "grounds",
+        "public garden",
+        "green space",
+        "common",
+        "plaza",
+        "lawn"
+    ],
+    "indoor parking garage": [
+        "indoor parking garage",
+        "interior parking structure",
+        "multi-story car park interior"
+    ],
+    "outdoor parking garage": [
+        "outdoor parking garage",
+        "open-air car park",
+        "above ground parking structure"
+    ],
+    "parking lot": [
+        "parking lot",
+        "car park",
+        "parking garage",
+        "parking area"
+    ],
+    "parlor": [
+        "parlor",
+        "parlour",
+        "sitting room",
+        "living room",
+        "lounge"
+    ],
+    "pasture": [
+        "pasture",
+        "meadow",
+        "grazing land",
+        "field",
+        "grassland"
+    ],
+    "patio": [
+        "patio",
+        "terrace",
+        "deck",
+        "veranda",
+        "porch"
+    ],
+    "pavilion": [
+        "pavilion",
+        "gazebo",
+        "kiosk",
+        "stand",
+        "booth"
+    ],
+    "pharmacy": [
+        "pharmacy",
+        "drugstore",
+        "chemist's shop",
+        "apothecary",
+        "dispensary"
+    ],
+    "phone booth": [
+        "phone booth",
+        "telephone kiosk",
+        "telephone booth",
+        "payphone stand"
+    ],
+    "physics laboratory": [
+        "physics laboratory",
+        "physics lab",
+        "science lab",
+        "experimental physics laboratory"
+    ],
+    "picnic area": [
+        "picnic area",
+        "picnic spot",
+        "picnic site",
+        "picnic ground",
+        "picnic location"
+    ],
+    "indoor pilothouse": [
+        "indoor pilothouse",
+        "interior of the wheelhouse",
+        "inside of the ship control room"
+    ],
+    "outdoor planetarium": [
+        "outdoor planetarium",
+        "exterior of a planetarium",
+        "open-air planetarium"
+    ],
+    "playground": [
+        "playground",
+        "play area",
+        "play park",
+        "recreation ground",
+        "play garden",
+        "playfield"
+    ],
+    "playroom": [
+        "playroom",
+        "game room",
+        "rumpus room",
+        "play area",
+        "rec room"
+    ],
+    "plaza": [
+        "plaza",
+        "square",
+        "piazza",
+        "courtyard"
+    ],
+    "indoor podium": [
+        "indoor podium",
+        "interior stage",
+        "inside stand",
+        "indoor dais"
+    ],
+    "outdoor podium": [
+        "outdoor podium",
+        "outside stage",
+        "outdoor lectern",
+        "open-air podium"
+    ],
+    "pond": [
+        "pond",
+        "pool",
+        "lagoon",
+        "waterhole",
+        "tarn"
+    ],
+    "establishment poolroom": [
+        "establishment poolroom",
+        "billiard hall",
+        "pool parlor"
+    ],
+    "home poolroom": [
+        "home poolroom",
+        "home billiard room",
+        "residential game room"
+    ],
+    "outdoor power plant": [
+        "outdoor power plant",
+        "power station exterior",
+        "energy facility outdoors"
+    ],
+    "promenade deck": [
+        "promenade deck",
+        "walking deck",
+        "stroll deck"
+    ],
+    "indoor pub": [
+        "indoor pub",
+        "tavern interior",
+        "saloon inside",
+        "bar indoors"
+    ],
+    "pulpit": [
+        "pulpit",
+        "lectern",
+        "rostrum",
+        "podium",
+        "dais"
+    ],
+    "putting green": [
+        "putting green",
+        "golf green",
+        "golf course"
+    ],
+    "racecourse": [
+        "racecourse",
+        "racetrack",
+        "horse-racing track",
+        "speedway"
+    ],
+    "raceway": [
+        "raceway",
+        "racetrack",
+        "speedway",
+        "circuit"
+    ],
+    "raft": [
+        "raft",
+        "float",
+        "pontoon",
+        "lifeboat"
+    ],
+    "railroad track": [
+        "railroad track",
+        "railway track",
+        "train track",
+        "rail line"
+    ],
+    "rainforest": [
+        "rainforest",
+        "jungle",
+        "tropical forest",
+        "cloud forest"
+    ],
+    "reception": [
+        "reception",
+        "front desk",
+        "welcome center"
+    ],
+    "recreation room": [
+        "recreation room",
+        "game room",
+        "rumpus room",
+        "family room",
+        "playroom"
+    ],
+    "residential neighborhood": [
+        "residential neighborhood",
+        "residential area",
+        "housing estate",
+        "residential district",
+        "suburban community"
+    ],
+    "restaurant": [
+        "restaurant",
+        "eatery",
+        "bistro",
+        "diner",
+        "cafe",
+        "trattoria",
+        "brasserie"
+    ],
+    "restaurant kitchen": [
+        "restaurant kitchen",
+        "culinary kitchen",
+        "professional kitchen",
+        "commercial kitchen",
+        "food service kitchen"
+    ],
+    "restaurant patio": [
+        "restaurant patio",
+        "restaurant terrace",
+        "dining veranda",
+        "bistro deck"
+    ],
+    "rice paddy": [
+        "rice paddy",
+        "rice field",
+        "rice terrace"
+    ],
+    "riding arena": [
+        "riding arena",
+        "equestrian arena",
+        "horseback riding ring"
+    ],
+    "river": [
+        "river",
+        "stream",
+        "brook",
+        "creek",
+        "rivulet",
+        "watercourse"
+    ],
+    "rock arch": [
+        "rock arch",
+        "stone arch",
+        "natural arch"
+    ],
+    "rope bridge": [
+        "rope bridge",
+        "suspension bridge",
+        "hanging bridge",
+        "footbridge"
+    ],
+    "ruin": [
+        "ruin",
+        "wreckage",
+        "remains",
+        "rubble",
+        "relic",
+        "derelict"
+    ],
+    "runway": [
+        "runway",
+        "airstrip",
+        "landing strip",
+        "airfield",
+        "flight deck"
+    ],
+    "sandbar": [
+        "sandbar",
+        "shoal",
+        "sandbank",
+        "barrier island"
+    ],
+    "sandbox": [
+        "sandbox",
+        "sandpit",
+        "sand box",
+        "play box"
+    ],
+    "sauna": [
+        "sauna",
+        "steam room",
+        "sweat lodge",
+        "turkish bath",
+        "bath house"
+    ],
+    "schoolhouse": [
+        "schoolhouse",
+        "school building",
+        "educational institution"
+    ],
+    "sea cliff": [
+        "sea cliff",
+        "oceanic bluff",
+        "maritime crag",
+        "coastal precipice"
+    ],
+    "server room": [
+        "server room",
+        "data center",
+        "computer room",
+        "it room",
+        "comms room"
+    ],
+    "shed": [
+        "shed",
+        "hut",
+        "shack",
+        "outbuilding",
+        "lean-to"
+    ],
+    "shoe shop": [
+        "shoe shop",
+        "footwear store",
+        "shoe store",
+        "bootery"
+    ],
+    "shopfront": [
+        "shopfront",
+        "storefront",
+        "store facade",
+        "business exterior"
+    ],
+    "indoor shopping mall": [
+        "indoor shopping mall",
+        "enclosed shopping center",
+        "interior of a shopping complex"
+    ],
+    "shower": [
+        "shower",
+        "rain shower",
+        "sprinkler",
+        "power shower",
+        "rainfall shower head",
+        "head shower",
+        "jet shower"
+    ],
+    "skatepark": [
+        "skatepark",
+        "skate park",
+        "skating park",
+        "roller park"
+    ],
+    "ski lodge": [
+        "ski lodge",
+        "ski chalet",
+        "ski cabin"
+    ],
+    "ski resort": [
+        "ski resort",
+        "snow resort",
+        "skiing center",
+        "ski station"
+    ],
+    "ski slope": [
+        "ski slope",
+        "piste",
+        "ski trail",
+        "ski run"
+    ],
+    "sky": [
+        "sky",
+        "firmament",
+        "heavens",
+        "celestial sphere",
+        "stratosphere"
+    ],
+    "skyscraper": [
+        "skyscraper",
+        "high-rise",
+        "tower",
+        "tall building"
+    ],
+    "slum": [
+        "slum",
+        "ghetto",
+        "shanty town",
+        "favela",
+        "low-income district",
+        "impoverished area"
+    ],
+    "snowfield": [
+        "snowfield",
+        "snowscape",
+        "field of snow",
+        "snow-covered field"
+    ],
+    "squash court": [
+        "squash court",
+        "racquetball court"
+    ],
+    "stable": [
+        "stable",
+        "horse barn",
+        "horse stable",
+        "stabling",
+        "barnyard"
+    ],
+    "baseball stadium": [
+        "baseball stadium",
+        "baseball park",
+        "ball field",
+        "baseball diamond",
+        "ballpark"
+    ],
+    "football stadium": [
+        "football stadium",
+        "soccer stadium",
+        "football arena",
+        "soccer field",
+        "football field"
+    ],
+    "indoor stage": [
+        "indoor stage",
+        "auditorium",
+        "theater stage",
+        "performance stage",
+        "venue stage"
+    ],
+    "staircase": [
+        "staircase",
+        "stairwell",
+        "stairs",
+        "steps"
+    ],
+    "street": [
+        "street",
+        "road",
+        "avenue",
+        "boulevard",
+        "lane",
+        "alley",
+        "thoroughfare",
+        "highway"
+    ],
+    "subway interior": [
+        "subway interior",
+        "metro interior",
+        "underground train cabin",
+        "tube interior"
+    ],
+    "platform subway station": [
+        "platform subway station",
+        "metro station platform",
+        "underground train station platform",
+        "subway stop platform"
+    ],
+    "supermarket": [
+        "supermarket",
+        "grocery store",
+        "food market",
+        "hypermarket"
+    ],
+    "sushi bar": [
+        "sushi bar",
+        "sushi restaurant",
+        "sushi place"
+    ],
+    "swamp": [
+        "swamp",
+        "marsh",
+        "bog",
+        "fen",
+        "wetland"
+    ],
+    "indoor swimming pool": [
+        "indoor swimming pool",
+        "interior pool",
+        "indoor pool area",
+        "enclosed swimming pool"
+    ],
+    "outdoor swimming pool": [
+        "outdoor swimming pool",
+        "open-air pool",
+        "al fresco pool",
+        "external swimming pool"
+    ],
+    "indoor synagogue": [
+        "indoor synagogue",
+        "synagogue interior",
+        "inside of a synagogue"
+    ],
+    "outdoor synagogue": [
+        "outdoor synagogue",
+        "exterior of a synagogue",
+        "outside of a jewish temple"
+    ],
+    "television studio": [
+        "television studio",
+        "tv studio",
+        "broadcast studio"
+    ],
+    "east asia temple": [
+        "east asia temple",
+        "oriental shrine",
+        "far east monastery",
+        "eastern asia pagoda",
+        "eastern religious structure"
+    ],
+    "south asia temple": [
+        "south asia temple",
+        "southeast asia shrine",
+        "southeast asia pagoda",
+        "southeast asia sanctuary"
+    ],
+    "indoor tennis court": [
+        "indoor tennis court",
+        "enclosed tennis court",
+        "indoor tennis facility"
+    ],
+    "outdoor tennis court": [
+        "outdoor tennis court",
+        "open-air tennis court",
+        "exterior tennis field"
+    ],
+    "outdoor tent": [
+        "outdoor tent",
+        "camping tent",
+        "open-air tent"
+    ],
+    "indoor procenium theater": [
+        "indoor proscenium theater",
+        "internal proscenium stage",
+        "inside proscenium auditorium",
+        "indoor procenium theater"
+    ],
+    "indoor seats theater": [
+        "indoor seats theater",
+        "performance center seats",
+        "auditorium seating",
+        "concert hall seats"
+    ],
+    "thriftshop": [
+        "thrift shop",
+        "secondhand store",
+        "consignment shop",
+        "resale shop",
+        "charity shop",
+        "thriftshop"
+    ],
+    "throne room": [
+        "throne room",
+        "royal chamber",
+        "king's room",
+        "monarch's room",
+        "palace room"
+    ],
+    "ticket booth": [
+        "ticket booth",
+        "ticket office",
+        "box office",
+        "ticket counter"
+    ],
+    "toll plaza": [
+        "toll plaza",
+        "toll booth",
+        "toll station",
+        "toll gate",
+        "toll barrier"
+    ],
+    "topiary garden": [
+        "topiary garden",
+        "ornamental garden",
+        "landscaped garden",
+        "figurative horticulture"
+    ],
+    "tower": [
+        "tower",
+        "spire",
+        "turret",
+        "minaret",
+        "citadel",
+        "skyscraper"
+    ],
+    "toyshop": [
+        "toyshop",
+        "toy store",
+        "plaything shop"
+    ],
+    "outdoor track": [
+        "outdoor track",
+        "exterior race track",
+        "open-air racetrack",
+        "outside athletics track"
+    ],
+    "train railway": [
+        "train railway",
+        "railroad track",
+        "railway line",
+        "train track"
+    ],
+    "platform train station": [
+        "platform train station",
+        "railway platform",
+        "train depot platform",
+        "railroad station platform"
+    ],
+    "tree farm": [
+        "tree farm",
+        "tree plantation",
+        "silviculture",
+        "arboriculture",
+        "forestry"
+    ],
+    "tree house": [
+        "tree house",
+        "tree fort",
+        "treetop hideaway"
+    ],
+    "trench": [
+        "trench",
+        "ditch",
+        "excavation",
+        "fosse",
+        "furrow"
+    ],
+    "coral reef underwater": [
+        "coral reef underwater",
+        "submerged coral ecosystem",
+        "underwater coral habitat"
+    ],
+    "utility room": [
+        "utility room",
+        "service room",
+        "laundry room"
+    ],
+    "valley": [
+        "valley",
+        "dale",
+        "glen",
+        "vale",
+        "hollow",
+        "canyon",
+        "gorge",
+        "ravine"
+    ],
+    "van interior": [
+        "van interior",
+        "inside of a van",
+        "van's cabin"
+    ],
+    "vegetable garden": [
+        "vegetable garden",
+        "kitchen garden",
+        "veggie patch",
+        "potager",
+        "vegetable plot"
+    ],
+    "veranda": [
+        "veranda",
+        "porch",
+        "terrace",
+        "lanai",
+        "patio",
+        "deck"
+    ],
+    "veterinarians office": [
+        "veterinarians office",
+        "animal hospital",
+        "pet clinic",
+        "vet's office"
+    ],
+    "viaduct": [
+        "viaduct",
+        "overpass",
+        "bridge",
+        "flyover"
+    ],
+    "videostore": [
+        "videostore",
+        "video rental shop",
+        "movie rental store",
+        "dvd rental store"
+    ],
+    "village": [
+        "village",
+        "hamlet",
+        "community",
+        "small town",
+        "settlement"
+    ],
+    "vineyard": [
+        "vineyard",
+        "grape plantation",
+        "vine plantation",
+        "wine estate",
+        "winegarden"
+    ],
+    "volcano": [
+        "volcano",
+        "crater",
+        "vent",
+        "caldera"
+    ],
+    "indoor volleyball court": [
+        "indoor volleyball court",
+        "volleyball gym",
+        "indoor volleyball arena"
+    ],
+    "outdoor volleyball court": [
+        "outdoor volleyball court",
+        "outside volleyball field",
+        "open-air volleyball arena"
+    ],
+    "waiting room": [
+        "waiting room",
+        "lounge",
+        "reception area",
+        "sitting area",
+        "lobby",
+        "foyer"
+    ],
+    "indoor warehouse": [
+        "indoor warehouse",
+        "storage facility interior",
+        "warehouse interior"
+    ],
+    "water tower": [
+        "water tower",
+        "water tank",
+        "elevated water storage"
+    ],
+    "block waterfall": [
+        "block waterfall",
+        "ledge waterfall",
+        "sheet waterfall"
+    ],
+    "fan waterfall": [
+        "fan waterfall",
+        "horsetail waterfall",
+        "veil waterfall"
+    ],
+    "plunge waterfall": [
+        "plunge waterfall",
+        "vertical waterfall",
+        "free-falling waterfall"
+    ],
+    "watering hole": [
+        "watering hole",
+        "saloon",
+        "tavern",
+        "pub",
+        "bar",
+        "alehouse"
+    ],
+    "wave": [
+        "wave",
+        "ripple",
+        "surge",
+        "billow",
+        "tide"
+    ],
+    "wet bar": [
+        "wet bar",
+        "cocktail bar",
+        "home bar",
+        "mini bar"
+    ],
+    "wheat field": [
+        "wheat field",
+        "grain field",
+        "cereal field"
+    ],
+    "wind farm": [
+        "wind farm",
+        "wind power plant",
+        "wind turbine farm",
+        "wind energy park",
+        "turbine field"
+    ],
+    "windmill": [
+        "windmill",
+        "wind turbine",
+        "wind pump",
+        "wind energy converter"
+    ],
+    "barrel storage wine cellar": [
+        "barrel storage wine cellar",
+        "wine barrel cellar",
+        "wine basement",
+        "wine vault"
+    ],
+    "bottle storage wine cellar": [
+        "bottle storage wine cellar",
+        "wine vault",
+        "wine repository",
+        "wine storage room"
+    ],
+    "indoor wrestling ring": [
+        "indoor wrestling ring",
+        "enclosed wrestling arena",
+        "interior wrestling square",
+        "wrestling ring inside a building"
+    ],
+    "yard": [
+        "yard",
+        "garden",
+        "lawn",
+        "backyard",
+        "courtyard"
+    ],
+    "youth hostel": [
+        "youth hostel",
+        "backpacker hostel",
+        "budget hostel",
+        "dormitory",
+        "travelers' lodge"
+    ]
+}

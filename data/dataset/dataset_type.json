@@ -1,0 +1,18 @@
+{
+    "cub": "bird", 
+    "dtd": "textures",
+    "euro_sat": "satellite photo",
+    "fgvc_aircraft": "aircraft",
+    "flo": "flower",
+    "food101": "food",
+    "imagenet": "real scenario",
+    "imagenet_a": "real scenario", 
+    "imagenet_r": "real scenario", 
+    "imagenet_s": "sketch",
+    "imagenet_v2": "real scenario",
+    "oxford_pets": "pet", 
+    "places365": "place",
+    "stanford_cars": "car", 
+    "sun397": "scene",
+    "ucf101": "human action"
+}

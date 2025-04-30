@@ -1,0 +1,26 @@
+{
+    "train": {
+        "AnnualCrop/AnnualCrop_203.jpg": "annual crop land",
+        "Forest/Forest_62.jpg": "forest",
+        "HerbaceousVegetation/HerbaceousVegetation_744.jpg": "brushland or shrubland",
+        "Highway/Highway_1699.jpg": "highway or road",
+        "Industrial/Industrial_772.jpg": "industrial buildings or commercial buildings",
+        "Pasture/Pasture_616.jpg": "pasture land",
+        "PermanentCrop/PermanentCrop_2280.jpg": "permanent crop land",
+        "Residential/Residential_2377.jpg": "residential buildings or homes or apartments",
+        "River/River_2219.jpg": "river",
+        "SeaLake/SeaLake_741.jpg": "lake or sea"
+    },
+    "val": {
+        "AnnualCrop/AnnualCrop_413.jpg": "annual crop land",
+        "Forest/Forest_2874.jpg": "forest",
+        "HerbaceousVegetation/HerbaceousVegetation_331.jpg": "brushland or shrubland",
+        "Highway/Highway_638.jpg": "highway or road",
+        "Industrial/Industrial_686.jpg": "industrial buildings or commercial buildings",
+        "Pasture/Pasture_1646.jpg": "pasture land",
+        "PermanentCrop/PermanentCrop_2395.jpg": "permanent crop land",
+        "Residential/Residential_217.jpg": "residential buildings or homes or apartments",
+        "River/River_1608.jpg": "river",
+        "SeaLake/SeaLake_2666.jpg": "lake or sea"
+    }
+}

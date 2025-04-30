@@ -1,0 +1,79 @@
+{
+    "annual crop land": [
+        "annual crop land",
+        "farmland",
+        "agricultural land",
+        "arable land",
+        "farming terrain"
+    ],
+    "forest": [
+        "forest",
+        "woodland",
+        "timberland",
+        "bushland",
+        "grove",
+        "woods"
+    ],
+    "brushland or shrubland": [
+        "brushland or shrubland",
+        "scrubland",
+        "heathlands",
+        "garrigue",
+        "fynbos",
+        "maquis",
+        "chaparral",
+        "herbaceous vegetation land"
+    ],
+    "highway or road": [
+        "highway or road",
+        "expressway",
+        "freeway",
+        "thoroughfare",
+        "avenue",
+        "street"
+    ],
+    "industrial buildings or commercial buildings": [
+        "industrial buildings or commercial buildings",
+        "business establishments",
+        "corporate buildings",
+        "manufacturing plants",
+        "production facilities"
+    ],
+    "pasture land": [
+        "pasture land",
+        "grazing land",
+        "meadow",
+        "grassland",
+        "range",
+        "paddock"
+    ],
+    "permanent crop land": [
+        "permanent crop land",
+        "perennial crop land",
+        "orchards",
+        "vineyards",
+        "plantations"
+    ],
+    "residential buildings or homes or apartments": [
+        "residential buildings or homes or apartments",
+        "dwellings",
+        "flats",
+        "living quarters",
+        "housing estates"
+    ],
+    "river": [
+        "river",
+        "stream",
+        "watercourse",
+        "brook",
+        "creek",
+        "tributary"
+    ],
+    "lake or sea": [
+        "lake or sea",
+        "body of water",
+        "ocean",
+        "reservoir",
+        "pond"
+    ]
+}
