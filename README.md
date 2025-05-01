@@ -17,17 +17,18 @@ Vision-language models (VLMs) have made significant progress in image classifica
 ## Environment Setup
 
 We recommend to install the environment through conda and pip. You should make a new environment with python>=3.9
-
-`conda create -n python_ProAPO python=3.9`
+```bash
+conda create -n python_ProAPO python=3.9
+```
 
 Next, you can download pytorch from official site, for example:
-
-`conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch`
-
+```bash
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+```
 Next, run 
-
-`pip install -r requirements.txt` 
-
+```bash
+pip install -r requirements.txt
+```
 in this repo to install a few more packages required by CLIP.
 
 ## Dataset Installation
