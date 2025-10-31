@@ -89,7 +89,7 @@ def init_category_group_split(args, model, tokenizer, class_name_list, image_fea
 
         text_features = get_text_features(model, tokenizer, prompt_dict) # [category_num, feature_dim]\
 
-        if not args.args.unable_same_template_flag:
+        if not args.unable_same_template_flag:
             prompt_template_key_dict = {}
             for temp_category in class_name_list:
                 prompt_template_key_dict[temp_category] = [temp_category.lower()]
@@ -114,7 +114,7 @@ def init_category_group_split(args, model, tokenizer, class_name_list, image_fea
 
     print("\nThe total number of current groups is: ", len(category_group_split))
 
-    if not args.args.unable_same_template_flag:
+    if not args.unable_same_template_flag:
         return category_group_split, prompt_dict, prompt_template_key_dict, text_features, baseline_result
     else:
         return category_group_split, prompt_dict, text_features, baseline_result

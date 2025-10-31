@@ -294,53 +294,54 @@ def iterative_select_class_specific_optimal_prompt_with_same_template(args, mode
 
                 print(f"\ntop1:", record_score_dict_test[top_1_key]["top1"], "top5:", record_score_dict_test[top_1_key]["top5"])
 
+                if (epoch >= args.epochs_inner or epoch >= len(class_specific_prompt_list) + 1) and epoch_outer == args.epochs_outer - 1: 
 
-                data_task_info[exp_name], best_model_prompt, update_flag_best_model = update_best_result(data_task_info[exp_name], record_score_dict_test[top_1_key], top_1_key, best_model_prompt, record_prompt_dict[top_1_key])
-                print(f"exp best: ", data_task_info[exp_name]["top1"])
-                data_task_info["best model"], best_prompt, update_flag = update_best_result(data_task_info["best model"], record_score_dict_test[top_1_key], exp_name, best_prompt, record_prompt_dict[top_1_key])
-                save_json(data_task_info, args.task_dir)
+                    data_task_info[exp_name], best_model_prompt, update_flag_best_model = update_best_result(data_task_info[exp_name], record_score_dict_test[top_1_key], top_1_key, best_model_prompt, record_prompt_dict[top_1_key])
+                    print(f"exp best: ", data_task_info[exp_name]["top1"])
+                    data_task_info["best model"], best_prompt, update_flag = update_best_result(data_task_info["best model"], record_score_dict_test[top_1_key], exp_name, best_prompt, record_prompt_dict[top_1_key])
+                    save_json(data_task_info, args.task_dir)
                                 
-                if update_flag_best_model:
-                    
-                    best_model_prompt_true = prompt_dict.copy()
-
-                    prompt_category_add_dict = {}
-                    for temp_best_prompt in best_model_prompt["top1"]:
-                        temp_update_category = prompt_to_category_dict[temp_best_prompt]
+                    if update_flag_best_model:
                         
-                        if temp_update_category not in prompt_category_add_dict:
-                            prompt_category_add_dict[temp_update_category] = []
+                        best_model_prompt_true = prompt_dict.copy()
 
-                        prompt_category_add_dict[temp_update_category].append(temp_best_prompt)                        
+                        prompt_category_add_dict = {}
+                        for temp_best_prompt in best_model_prompt["top1"]:
+                            temp_update_category = prompt_to_category_dict[temp_best_prompt]
+                            
+                            if temp_update_category not in prompt_category_add_dict:
+                                prompt_category_add_dict[temp_update_category] = []
 
-                    for temp_category in prompt_category_add_dict:
-                        best_model_prompt_true[temp_category] = get_prompt_from_template_and_description(best_prompt_agnostic, prompt_category_add_dict[temp_category])
+                            prompt_category_add_dict[temp_update_category].append(temp_best_prompt)                        
 
-                    update_flag_best_model = 0
+                        for temp_category in prompt_category_add_dict:
+                            best_model_prompt_true[temp_category] = get_prompt_from_template_and_description(best_prompt_agnostic, prompt_category_add_dict[temp_category])
 
-                if update_flag:
-                    
-                    prompt_dict_best = prompt_dict.copy()
-                    prompt_template_key_dict_best = prompt_template_key_dict.copy()
+                        update_flag_best_model = 0
 
-                    prompt_category_add_dict = {}
-                    for temp_best_prompt in best_prompt["top1"]:
-                        temp_update_category = prompt_to_category_dict[temp_best_prompt]
+                    if update_flag:
                         
-                        if temp_update_category not in prompt_category_add_dict:
-                            prompt_category_add_dict[temp_update_category] = []
+                        prompt_dict_best = prompt_dict.copy()
+                        prompt_template_key_dict_best = prompt_template_key_dict.copy()
 
-                        prompt_category_add_dict[temp_update_category].append(temp_best_prompt)                        
+                        prompt_category_add_dict = {}
+                        for temp_best_prompt in best_prompt["top1"]:
+                            temp_update_category = prompt_to_category_dict[temp_best_prompt]
+                            
+                            if temp_update_category not in prompt_category_add_dict:
+                                prompt_category_add_dict[temp_update_category] = []
 
-                    
-                    for temp_category in prompt_category_add_dict:
-                        prompt_dict_best[temp_category] = get_prompt_from_template_and_description(best_prompt_agnostic, prompt_category_add_dict[temp_category])
-                        prompt_template_key_dict_best[temp_category] = prompt_category_add_dict[temp_category].copy()
-                        # print(temp_category, prompt_dict_best[temp_category])
+                            prompt_category_add_dict[temp_update_category].append(temp_best_prompt)                        
 
-                    save_json(prompt_dict_best, f"{args.task_prompt_dir}_dependent.json")
-                    save_json(prompt_template_key_dict_best, f"{args.task_prompt_dir}_specific_no_template.json")
-                    update_flag = 0
+                        
+                        for temp_category in prompt_category_add_dict:
+                            prompt_dict_best[temp_category] = get_prompt_from_template_and_description(best_prompt_agnostic, prompt_category_add_dict[temp_category])
+                            prompt_template_key_dict_best[temp_category] = prompt_category_add_dict[temp_category].copy()
+                            # print(temp_category, prompt_dict_best[temp_category])
+
+                        save_json(prompt_dict_best, f"{args.task_prompt_dir}_dependent.json")
+                        save_json(prompt_template_key_dict_best, f"{args.task_prompt_dir}_specific_no_template.json")
+                        update_flag = 0
 
                 if epoch >= args.epochs_inner or epoch >= len(class_specific_prompt_list) + 1:
                     break 
